@@ -1,0 +1,127 @@
+{
+  "id": "eley-semi-auto-benchrest-outlaw",
+  "url": "https://eley.co.uk/eley-semi-auto-benchrest-outlaw/",
+  "category": "rimfire",
+  "name": "ELEY semi-auto benchrest outlaw",
+  "lead": "Accuracy without boundaries.",
+  "description": [
+    "ELEY semi-auto benchrest outlaw is redefining what shooters can expect from entry-level precision ammunition. Designed to deliver outstanding accuracy and reliability, outlaw gives benchrest shooters the confidence to train as well as compete with a round that performs far beyond its class.",
+    "Engineered with the same attention to detail that defines ELEY’s world-leading target ammunition, outlaw provides exceptional internal ballistic performance, resulting in remarkable shot-to-shot consistency. Each round is crafted to offer smooth chambering, stable flight, and predictable results, making it the ideal choice for shooters stepping into the world of benchrest."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.69",
+        "42"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "317",
+        "332"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1040",
+        "1090"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "7.00mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "EP2723"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-semi-auto-benchrest-outlaw.png",
+  "lang": "en"
+}

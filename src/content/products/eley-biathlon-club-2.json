@@ -1,0 +1,110 @@
+{
+  "id": "eley-biathlon-club-2",
+  "url": "https://eley.co.uk/eley-biathlon-club-2/",
+  "category": "rimfire",
+  "name": "ELEY biathlon club",
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "values": [
+        "2.59",
+        "40"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "values": [
+        "323",
+        "330"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "values": [
+        "1060",
+        "1085"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "values": [
+        "5.50mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "values": [
+        "Biathlon"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-biathlon-club.png"
+}

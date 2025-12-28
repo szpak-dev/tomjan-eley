@@ -1,0 +1,128 @@
+{
+  "id": "eley-sport",
+  "url": "https://eley.co.uk/eley-sport/",
+  "category": "rimfire",
+  "name": "ELEY sport",
+  "subname": "22lr ammunition",
+  "lead": "Start your journey with ELEY sport rounds.",
+  "description": [
+    "ELEY sport is the ideal introduction to the world of precision shooting. As our absolute entry-level cartridge, it delivers reliable performance at an affordable price, making it the perfect choice for new shooters, clubs, and training sessions.",
+    "Built with the same commitment to quality that defines every ELEY product, ELEY sport offers dependable accuracy, consistent cycling, and trusted results shot after shot. It’s the cartridge designed to help shooters develop their skills, build confidence, and enjoy the sport from the very beginning."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.59",
+        "40"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "305",
+        "332"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1000",
+        "1090"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "7.00mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "Paraffin Wax"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-sport.png",
+  "lang": "en"
+}

@@ -1,0 +1,40 @@
+{
+    "en": {
+        "available-diameters": "Available Diameters",
+        "ballistic-coefficient": "Ballistic Coefficient",
+        "bullet-profile": "Bullet Profile",
+        "bullet-weight": "Bullet Weight",
+        "cartridge-length": "Cartridge Length",
+        "drag-model": "Drag Model",
+        "individual-group-size": "Individual Group Size",
+        "lubricant": "Lubricant",
+        "max-radial-standard-deviation": "Max Radial Standard Deviation",
+        "mean-velocity-fts": "Mean Velocity (ft/s)",
+        "mean-velocity-ms": "Mean Velocity (m/s)",
+        "packaging": "Packaging",
+        "pellet-profile": "Pellet Profile",
+        "pellet-weight": "Pellet Weight",
+        "recommended-head-space": "Recommended Head Space",
+        "strike-depth": "Strike Depth",
+        "weight-control": "Weight Control"
+    },
+    "pl": {
+        "available-diameters": "Dostępne średnice",
+        "ballistic-coefficient": "Współczynnik ballistyczny",
+        "bullet-profile": "Profil pocisku",
+        "bullet-weight": "Waga pocisku",
+        "cartridge-length": "Długość kalibru",
+        "drag-model": "Model drag",
+        "individual-group-size": "Indywidualny Rozmiar Grupowania",
+        "lubricant": "Smarowanie",
+        "max-radial-standard-deviation": "Maksymalne Odchylenie Standardowe",
+        "mean-velocity-fts": "Srednia Prędkość (ft/s)",
+        "mean-velocity-ms": "Srednia Prędkość (m/s)",
+        "packaging": "Opakowanie",
+        "pellet-profile": "Profil pelletu",
+        "pellet-weight": "Waga pelletu",
+        "recommended-head-space": "Rekomendowana Przestrzeń Głowiska",
+        "strike-depth": "Głębokość Uderzenia",
+        "weight-control": "Kontrola Wagi"
+    }
+}

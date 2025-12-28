@@ -1,0 +1,128 @@
+{
+  "id": "eley-force",
+  "url": "https://eley.co.uk/eley-force/",
+  "category": "rimfire",
+  "name": "ELEY force",
+  "subname": "22lr ammunition",
+  "lead": "High velocity, maximum knock-down performance.",
+  "description": [
+    "ELEY force is our high-velocity, semi-automatic .22LR round, engineered for power and performance. Using a purpose-designed propellant with a distributed pressure curve, force accelerates the bullet to supersonic velocity, delivering greater energy on impact and the pronounced kickback shooters expect from a recreational power round.",
+    "Built for shooters who want both impact and accuracy, ELEY force balances punch with precision. Each cartridge is manufactured to tight tolerances, so you get consistent muzzle performance."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.7",
+        "42"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "344",
+        "381"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1130",
+        "1250"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "7.00mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "Paraffin Wax"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-force.png",
+  "lang": "en"
+}

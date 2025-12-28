@@ -1,0 +1,128 @@
+{
+  "id": "eley-match",
+  "url": "https://eley.co.uk/eley-match/",
+  "category": "rimfire",
+  "name": "ELEY match",
+  "subname": "22lr rimfire ammunition for competitive target shooting",
+  "lead": "Renowned amongst elite competition shooters for its excellent accuracy and performance.",
+  "description": [
+    "ELEY match is second in the world of .22LR flat-nose accuracy and performance with ELEY tenex being the world number one. This cartridge benefits from the patented flat nose profile and the cut mouth case delivering consistent internal ballistics performance.",
+    "Each cartridge is checked by a suite of analytical processes including computer controlled visual inspection and finely calibrated measuring equipment, all overseen by our extremely precise and meticulous engineers."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Flat-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.59",
+        "40"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "317",
+        "330"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1040",
+        "1085"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "4.74mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "Beeswax-tallow"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-match.png",
+  "lang": "en"
+}

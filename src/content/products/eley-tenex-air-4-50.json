@@ -1,0 +1,67 @@
+{
+  "id": "eley-tenex-air-4-50",
+  "url": "https://eley.co.uk/eley-tenex-air-4-50/",
+  "category": "air-pellet",
+  "name": "ELEY tenex air 4.50",
+  "subname": "competition air pellets",
+  "lead": "Pushing the boundaries of air pellet precision.",
+  "description": [
+    "Through an extensive research and development program, ELEY identified the critical performance factors that take air pellets to the next level of accuracy. Pellet profile, dimensional consistency, and weight control emerged as the key parameters influencing precision and repeatability.",
+    "Every element of product and process development was meticulously engineered to deliver medal-winning performance on the world stage. The result is ELEY tenex air, a pellet that embodies ELEY’s uncompromising commitment to accuracy and quality.",
+    "Unrivalled precision shot after shot."
+  ],
+  "specification": [
+    {
+      "id": "pellet-profile",
+      "type": "Simple",
+      "values": [
+        "Flat-head"
+      ],
+      "units": []
+    },
+    {
+      "id": "pellet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "0.531",
+        "8.2"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "available-diameters",
+      "type": "MultipleValues",
+      "values": [
+        "4.49",
+        "4.50",
+        "4.51"
+      ],
+      "units": [
+        "mm",
+        "mm",
+        "mm"
+      ]
+    },
+    {
+      "id": "weight-control",
+      "type": "Simple",
+      "values": [
+        "30% superior to other brands"
+      ],
+      "units": []
+    },
+    {
+      "id": "packaging",
+      "type": "MultipleValues",
+      "values": [
+        "Damage resistant, re-sealable"
+      ],
+      "units": []
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY_tenex_air_4.50.png",
+  "lang": "en"
+}

@@ -1,0 +1,43 @@
+---
+import { getCollection } from "astro:content";
+import { languages, ui } from "../../i18n/ui";
+import { useTranslations } from "../../i18n/utils";
+import LanguageSelector from "../../components/LanguageSelector.astro";
+
+export async function getStaticPaths() {
+    return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof ui);
+
+const allCategories = await getCollection("categories");
+console.log(
+    "All categories:",
+    allCategories.length,
+    allCategories.map((c) => ({ id: c.id, lang: c.data.lang })),
+);
+
+const categories = allCategories.filter(
+    (category) => category.data.lang === lang,
+);
+console.log("Filtered categories for lang", lang, ":", categories.length);
+
+const content = {
+    meta: {
+        title: t("splash.meta.title"),
+        description: t("splash.meta.description"),
+        lang: lang,
+    },
+    cta: t("splash.cta"),
+    categories,
+};
+
+import SplashScreen from "../../layouts/SplashScreen.astro";
+---
+
+<div class="position-absolute top-0 end-0 p-3" style="z-index: 1000;">
+    <LanguageSelector />
+</div>
+
+<SplashScreen meta={content.meta} cta={content.cta} categories={categories} />

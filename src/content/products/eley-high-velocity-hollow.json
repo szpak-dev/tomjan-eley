@@ -1,0 +1,127 @@
+{
+  "id": "eley-high-velocity-hollow",
+  "url": "https://eley.co.uk/eley-high-velocity-hollow/",
+  "category": "rimfire",
+  "name": "ELEY high velocity hollow",
+  "subname": "22lr ammunition",
+  "lead": "Decisive terminal performance pest controllers depend on.",
+  "description": [
+    "ELEY high velocity hollow is engineered for shooters who require maximum speed, reliable expansion and uncompromising accuracy in the field. Built around a low-antimony, soft-lead hollow-point projectile, this round accelerates to high velocities while retaining the structural characteristics needed to deliver controlled expansion and deep penetration on small game and pest species. The result is decisive terminal performance that stops targets quickly and humanely, exactly what hunters and professional pest controllers depend on."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Hollow-point"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.46",
+        "38"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "344",
+        "381"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1030",
+        "1250"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "individual-group-size",
+      "type": "Simple",
+      "values": [
+        "30mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "Paraffin Wax"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-high-velocity-hollow.png",
+  "lang": "en"
+}

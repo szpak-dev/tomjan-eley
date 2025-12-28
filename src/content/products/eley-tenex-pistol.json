@@ -1,0 +1,130 @@
+{
+  "id": "eley-tenex-pistol",
+  "url": "https://eley.co.uk/eley-tenex-pistol/",
+  "category": "rimfire",
+  "name": "ELEY tenex pistol",
+  "subname": "22lr ammunition",
+  "lead": "Unrivalled pistol performance.",
+  "description": [
+    "Decades of continuous improvement have generated the perfect pistol round. Technical research and testing in ballistics, semi-automatic cycling, optimum bullet profiles, priming systems, case construction and the perfect lead alloy have enhanced ELEY’s knowledge in this sector. Comprehensive testing was undertaken to find the ultimate combination of these elements, to produce ELEY tenex pistol.",
+    "The benefits of this cartridge include a round nose bullet profile to ease feeding in semi-automatic pistols and rifles. The projectile is made from a high specification lead antimony alloy which reduces surface damage when cycled through the firearm.",
+    "Precise manufacturing techniques form cartridge cases of uniform length from a tightly controlled brass alloy. This ensures each propellant charge burns in a controlled volume, delivering a consistent energy to each projectile. Providing a controlled recoil pattern and rapid recovery of sight picture.",
+    "Accuracy with ELEY tenex pistol can be improved by matching the pistol and ammunition at our testing facilities in the USA and Germany, both have 25m and 50m lanes. The world’s leading athletes all test their ammunition and leave nothing to chance."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.59",
+        "40"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "276",
+        "287"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "906",
+        "942"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "4.40mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "Paraffin Wax"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-tenex-Pistol.png",
+  "lang": "en"
+}

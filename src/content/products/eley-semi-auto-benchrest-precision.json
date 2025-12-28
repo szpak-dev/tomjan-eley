@@ -1,0 +1,127 @@
+{
+  "id": "eley-semi-auto-benchrest-precision",
+  "url": "https://eley.co.uk/eley-semi-auto-benchrest-precision/",
+  "category": "rimfire",
+  "name": "ELEY semi-auto benchrest precision",
+  "lead": "The benchmark in semi-auto benchrest shooting.",
+  "description": [
+    "ELEY semi-auto benchrest precision ammunition has been developed using the same world-renowned engineering expertise that drives the performance of ELEY tenex, the benchmark in .22LR target rounds. A new standard for semi-automatic benchrest competition.",
+    "The round-nose design enhances smooth chambering and consistent ballistics, while ELEY’s uncompromising approach to quality control guarantees the tightest tolerances. Each round is manufactured to perform identically to the last, providing shooters with the confidence and repeatability required to excel in precision shooting disciplines. ELEY understands accuracy, consistency, and reliability are not optional, they are essential."
+  ],
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "type": "Simple",
+      "values": [
+        "Round-nose"
+      ],
+      "units": []
+    },
+    {
+      "id": "bullet-weight",
+      "type": "MultipleUnits",
+      "values": [
+        "2.59",
+        "40"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "type": "Range",
+      "values": [
+        "314",
+        "326"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "type": "Range",
+      "values": [
+        "1030",
+        "1070"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "type": "Simple",
+      "values": [
+        "4.90mm"
+      ],
+      "units": []
+    },
+    {
+      "id": "lubricant",
+      "type": "Simple",
+      "values": [
+        "EP2723"
+      ],
+      "units": []
+    },
+    {
+      "id": "cartridge-length",
+      "type": "MultipleUnits",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "type": "Simple",
+      "values": [
+        "0.112"
+      ],
+      "units": []
+    },
+    {
+      "id": "drag-model",
+      "type": "Simple",
+      "values": [
+        "RA4"
+      ],
+      "units": []
+    },
+    {
+      "id": "strike-depth",
+      "type": "Range",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "type": "Range",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-semi-auto-benchrest-precision.png",
+  "lang": "en"
+}

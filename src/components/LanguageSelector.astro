@@ -1,0 +1,45 @@
+---
+import { languages } from "../i18n/ui";
+import { getLangFromUrl } from "../i18n/utils";
+
+const url = new URL(Astro.request.url);
+const currentLang = getLangFromUrl(url);
+
+const { class: className } = Astro.props;
+
+function getPathForLang(lang: string) {
+    const path = url.pathname;
+    const segments = path.split("/").filter(Boolean);
+    if (segments[0] === currentLang) {
+        segments[0] = lang;
+        return `/${segments.join("/")}/`;
+    }
+    return `/${lang}/`;
+}
+---
+
+<div class={`dropdown ${className}`}>
+    <button
+        class="btn btn-outline-secondary dropdown-toggle"
+        type="button"
+        id="languageDropdown"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+    >
+        {languages[currentLang]}
+    </button>
+    <ul
+        class="dropdown-menu dropdown-menu-end"
+        aria-labelledby="languageDropdown"
+    >
+        {
+            Object.entries(languages).map(([lang, label]) => (
+                <li>
+                    <a class="dropdown-item" href={getPathForLang(lang)}>
+                        {label}
+                    </a>
+                </li>
+            ))
+        }
+    </ul>
+</div>
