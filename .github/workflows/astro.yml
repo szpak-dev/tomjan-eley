@@ -66,6 +66,15 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
+      - name: Check required environment variables
+        env:
+          PUBLIC_CLOUDINARY_CLOUD_NAME: ${{ secrets.PUBLIC_CLOUDINARY_CLOUD_NAME }}
+        run: |
+          if [ -z "$PUBLIC_CLOUDINARY_CLOUD_NAME" ]; then
+            echo "ERROR: PUBLIC_CLOUDINARY_CLOUD_NAME is not set in GitHub secrets"
+            exit 1
+          fi
+          echo "✓ PUBLIC_CLOUDINARY_CLOUD_NAME is configured"
       - name: Build with Astro
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} astro build \
