@@ -1,20 +1,26 @@
 ---
 import { languages } from "../i18n/ui";
 import { getLangFromUrl } from "../i18n/utils";
+import { getBasePath } from "../libs/deployment";
 
 const url = new URL(Astro.request.url);
 const currentLang = getLangFromUrl(url);
+const basePath = getBasePath();
 
 const { class: className } = Astro.props;
 
 function getPathForLang(lang: string) {
     const path = url.pathname;
     const segments = path.split("/").filter(Boolean);
+    // Remove basePath prefix if present
+    if (basePath && segments[0] === 'tomjan-eley') {
+        segments.shift();
+    }
     if (segments[0] === currentLang) {
         segments[0] = lang;
-        return `/${segments.join("/")}`;
+        return `${basePath}/${segments.join("/")}`;
     }
-    return `/${lang}`;
+    return `${basePath}/${lang}`;
 }
 ---
 

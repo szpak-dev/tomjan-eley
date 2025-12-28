@@ -1,5 +1,7 @@
 ---
-// Redirect to default language
+import { getBasePath } from '../libs/deployment';
+
+const basePath = getBasePath();
 ---
 
-<meta http-equiv="refresh" content="0;url=/en/" />
+<meta http-equiv="refresh" content={`0;url=${basePath}/en`} />
