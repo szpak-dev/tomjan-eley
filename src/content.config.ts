@@ -1,39 +1,80 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-const categories = defineCollection({
-  loader: glob({ pattern: "**/*.json", base: "./src/content/categories" }),
+const metadatas = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/metadata" }),
   schema: z.object({
-    id: z.string(),
+    type: z.string(),
     lang: z.string(),
     title: z.string(),
+    description: z.string(),
+  }),
+});
+
+const categories = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/categories/items" }),
+  schema: z.object({
+    id: z.string(),
     imgSrc: z.string(),
   }),
 });
 
+const categoryTranslations = defineCollection({
+  loader: glob({ pattern: "translations.json", base: "./src/content/categories" }),
+  schema: z.object({
+    en: z.record(z.string()),
+    pl: z.record(z.string()),
+  }),
+});
+
 const products = defineCollection({
-  loader: glob({ pattern: "**/*.json", base: "./src/content/products" }),
+  loader: glob({ pattern: "**/*.json", base: "./src/content/products/items" }),
   schema: z.object({
     id: z.string(),
-    lang: z.string(),
-    url: z.string().optional(),
+    url: z.string(),
     category: z.string(),
     name: z.string(),
-    subname: z.string().optional(),
-    lead: z.string(),
-    description: z.array(z.string()),
-    specification: z.array(z.any()).optional(), // keeping it loose for now as spec is complex
+    subname: z.string(),
+    specification: z.array(z.object({
+        id: z.string(),
+        values: z.array(z.string()),
+        units: z.array(z.string()).optional(),
+    })),
     imageUrl: z.string(),
   }),
 });
 
-const specifications = defineCollection({
-  loader: glob({ pattern: "**/*.json", base: "./src/content/specifications" }),
+const productImages = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/products/images" }),
   schema: z.object({
-    id: z.string(),
-    lang: z.string(),
-    title: z.string(),
+    productId: z.string(),
+    cdn: z.string(),
+    imageIds: z.array(z.string()),
   }),
 });
 
-export const collections = { categories, products, specifications };
+const specifications = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/specifications/items" }),
+  schema: z.object({
+    id: z.string(),
+    type: z.string()
+  }),
+});
+
+const specificationTranslations = defineCollection({
+  loader: glob({ pattern: "translations.json", base: "./src/content/specifications" }),
+  schema: z.object({
+    en: z.record(z.string()),
+    pl: z.record(z.string()),
+  }),
+});
+
+export const collections = {
+  metadatas,
+  categories,
+  categoryTranslations,
+  products,
+  productImages,
+  specifications,
+  specificationTranslations
+};

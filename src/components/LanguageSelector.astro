@@ -12,15 +12,15 @@ function getPathForLang(lang: string) {
     const segments = path.split("/").filter(Boolean);
     if (segments[0] === currentLang) {
         segments[0] = lang;
-        return `/${segments.join("/")}/`;
+        return `/${segments.join("/")}`;
     }
-    return `/${lang}/`;
+    return `/${lang}`;
 }
 ---
 
 <div class={`dropdown ${className}`}>
     <button
-        class="btn btn-outline-secondary dropdown-toggle"
+        class="btn btn-outline-secondary dropdown-toggle btn-sm"
         type="button"
         id="languageDropdown"
         data-bs-toggle="dropdown"

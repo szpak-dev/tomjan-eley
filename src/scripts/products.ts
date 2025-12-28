@@ -100,6 +100,6 @@ export async function processAllProducts(): Promise<void> {
 }
 
 // Run the script if executed directly
-if (require.main === module) {
+if (import.meta.url === `file://${process.argv[1]}`) {
     processAllProducts();
 }

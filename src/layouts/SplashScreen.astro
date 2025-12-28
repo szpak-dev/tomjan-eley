@@ -1,23 +1,19 @@
 ---
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Navbar } from "astro-bootstrap";
+
+import type { Category, PageMetadata } from "../content/types";
+import SplashSelector from "../components/SplashSelector.astro";
+import LanguageSelector from "../components/LanguageSelector.astro";
+
+import { CldImage } from "astro-cloudinary";
 
 interface Props {
-  meta: {
-    title: string;
-    description: string;
-    lang: string;
-  };
-  cta: string;
-  categories: {
-    data: {
-      id: string;
-      title: string;
-      imgSrc: string;
-    };
-  }[];
+  meta: PageMetadata;
+  categories: Category[];
 }
 
-const { meta, cta, categories } = Astro.props;
+const { meta, categories } = Astro.props;
 ---
 
 <!doctype html>
@@ -26,39 +22,36 @@ const { meta, cta, categories } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="description" content={meta.description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{meta.title}</title>
   </head>
   <body class="d-flex flex-column min-vh-100">
+    <Navbar class="bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <CldImage
+            class="mx-auto d-block bg-dark"
+            crop="fill"
+            gravity="auto"
+            format="auto"
+            quality="auto"
+            height={48}
+            src={`eley.com.pl/eley-logo`}
+            alt={meta.title}
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          />
+        </a>
+        <LanguageSelector />
+      </div>
+    </Navbar>
     <main class="container text-center">
-      <div class="">
-        <img class="mx-auto d-block bg-dark" src="/eley-logo.png" />
-      </div>
-
       <div class="row">
-        <h1>{meta.title}</h1>
-        <h2 class="mt-4">{meta.description}</h2>
-        <h3 class="mt-4">{cta}</h3>
+        <h1 class="display-4 fw-bold">{meta.title}</h1>
+        <h2 class="mt-4 text-secondary">{meta.description}</h2>
       </div>
 
-      <div class="row mt-4">
-        {
-          categories.length > 0 &&
-            categories.map((category) => (
-              <div class="col-6">
-                <h5 class="fs-6 mt-2">{category.data.title}</h5>
-                <a href={`/${meta.lang}/${category.data.id}/`}>
-                  <img
-                    class="mx-auto d-block"
-                    src={category.data.imgSrc}
-                    alt={category.data.title}
-                  />
-                </a>
-              </div>
-            ))
-        }
-      </div>
+      <SplashSelector categories={categories} />
     </main>
     <script>
       import "bootstrap/dist/js/bootstrap.bundle.min.js";

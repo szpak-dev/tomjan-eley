@@ -1,58 +1,55 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection } from "astro:content";
-import ProductCard from "../../components/ProductCard.astro";
-import { languages } from "../../i18n/ui";
+import CategoryProducts from "../../components/CategoryProducts.astro";
+import Bc from "../../components/Bc.astro";
+
+import {
+  findProductsByCategory,
+  findCategories,
+  getLanguages,
+  getCategory,
+} from "../../content/repository";
+import { type Lang } from "../../content/types";
+
+const { lang, category } = Astro.props;
+const productCategory = await getCategory(category.id, lang as Lang);
 
 export async function getStaticPaths() {
-    const categories = await getCollection("categories");
-    const products = await getCollection("products");
-    const langs = Object.keys(languages);
+  const langs = await getLanguages();
 
-    return langs.flatMap((lang) =>
-        categories.map((category) => {
-            const categoryProducts = products.filter(
-                (product) => product.data.category === category.data.id,
-            );
-            return {
-                params: { lang, category: category.data.id },
-                props: { category, products: categoryProducts, lang },
-            };
-        }),
-    );
+  const paths = await Promise.all(
+    langs.flatMap(async (lang) => {
+      const categories = await findCategories(lang.code as Lang);
+      return Promise.all(
+        categories.map(async (category) => {
+          const categoryProducts = await findProductsByCategory(
+            category.id,
+            lang.code
+          );
+          return {
+            params: { lang: lang.code, category: category.id },
+            props: { category, products: categoryProducts, lang: lang.code },
+          };
+        })
+      );
+    })
+  );
+
+  return paths.flat();
 }
-
-const { category, products, lang } = Astro.props;
 ---
 
-<Layout title={`${category.data.title} - Eley`}>
-    <div class="container py-5">
-        <div class="row mb-5 align-items-center">
-            <div class="col-md-8">
-                <h1 class="display-4 fw-bold">{category.data.title}</h1>
-                <p class="lead text-muted">
-                    Browse our premium selection of {category.data.title} products.
-                </p>
-            </div>
-            <div class="col-md-4 text-md-end">
-                <a href={`/${lang}/`} class="btn btn-outline-secondary">
-                    &larr; Back to Categories
-                </a>
-            </div>
-        </div>
+<Layout title={`${productCategory.name}`}>
+  <div class="row mb-4">
+    <Bc lang={lang} categoryId={category.id} />
+  </div>
 
-        <div class="row">
-            {
-                products.length > 0 ? (
-                    products.map((product) => <ProductCard product={product} />)
-                ) : (
-                    <div class="col-12 text-center py-5">
-                        <p class="text-muted">
-                            No products found in this category.
-                        </p>
-                    </div>
-                )
-            }
-        </div>
-    </div>
+  <div class="row mb-5 align-items-center text-center">
+    <h1 class="display-6 fw-bold">{productCategory.name}</h1>
+    <p class="lead text-muted">
+      Browse our premium selection of {productCategory.name} products.
+    </p>
+  </div>
+
+  <CategoryProducts category={category} lang={lang as Lang} />
 </Layout>

@@ -1,0 +1,43 @@
+---
+import { CldImage } from "astro-cloudinary";
+
+import { getProductImageId, getProduct } from "../content/repository";
+import { type Lang } from "../content/types";
+import Specification from "./Specification.astro";
+
+type Props = {
+  productId: string;
+  lang: string;
+};
+
+const { productId, lang } = Astro.props;
+
+const product = await getProduct(productId, lang as Lang);
+const imageId = await getProductImageId(productId);
+---
+
+<div class="row">
+  <div class="col-6">
+    <CldImage
+      class={"bg-dark h-100 w-100"}
+      crop="fill"
+      gravity="auto"
+      format="auto"
+      quality="auto"
+      width={400}
+      src={`eley.com.pl/${imageId}`}
+      alt={product.name}
+      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+    />
+  </div>
+  <div class="col-6">
+    <h1 class="display-4 fw-bold mb-0">{product.name}</h1>
+    <p class="lead">Some extra powerful description.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <Specification specs={product.specification} lang={lang} />
+  </div>
+</div>

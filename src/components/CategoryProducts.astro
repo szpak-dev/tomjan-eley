@@ -1,0 +1,21 @@
+---
+import ProductCard from "../components/ProductCard.astro";
+import Empty from "./Empty.astro";
+
+import { findProductsByCategory } from "../content/repository";
+import type { Category, Lang } from "../content/types";
+
+interface Props {
+  category: Category;
+  lang: Lang;
+}
+
+const { category, lang } = Astro.props as Props;
+const products = await findProductsByCategory(category.id, lang);
+---
+<div class="row">
+    {products.length === 0 ? 
+        ( <Empty /> ) : 
+        ( products.map((product) => <ProductCard product={product} />))
+    }
+</div>

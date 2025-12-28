@@ -1,0 +1,106 @@
+{
+  "id": "eley-force",
+  "url": "https://eley.co.uk/eley-force/",
+  "category": "rimfire",
+  "name": "ELEY force",
+  "subname": "22lr ammunition",
+  "specification": [
+    {
+      "id": "bullet-profile",
+      "values": [
+        "Round-nose"
+      ]
+    },
+    {
+      "id": "bullet-weight",
+      "values": [
+        "2.7",
+        "42"
+      ],
+      "units": [
+        "grams",
+        "grains"
+      ]
+    },
+    {
+      "id": "mean-velocity-ms",
+      "values": [
+        "344",
+        "381"
+      ],
+      "units": [
+        "m/s",
+        "m/s"
+      ]
+    },
+    {
+      "id": "mean-velocity-fts",
+      "values": [
+        "1130",
+        "1250"
+      ],
+      "units": [
+        "ft/s",
+        "ft/s"
+      ]
+    },
+    {
+      "id": "max-radial-standard-deviation",
+      "values": [
+        "7.00mm"
+      ]
+    },
+    {
+      "id": "lubricant",
+      "values": [
+        "Paraffin Wax"
+      ]
+    },
+    {
+      "id": "cartridge-length",
+      "values": [
+        "25.4",
+        "1"
+      ],
+      "units": [
+        "mm",
+        "inch"
+      ]
+    },
+    {
+      "id": "ballistic-coefficient",
+      "values": [
+        "0.112"
+      ]
+    },
+    {
+      "id": "drag-model",
+      "values": [
+        "RA4"
+      ]
+    },
+    {
+      "id": "strike-depth",
+      "values": [
+        "0.012",
+        "0.015"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    },
+    {
+      "id": "recommended-head-space",
+      "values": [
+        "00.040",
+        "00.041"
+      ],
+      "units": [
+        "inch",
+        "inch"
+      ]
+    }
+  ],
+  "imageUrl": "https://eley.co.uk/wp-content/uploads/ELEY-force.png"
+}
