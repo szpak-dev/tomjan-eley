@@ -1,14 +1,13 @@
 ---
+import { getRelativeLocaleUrl } from "astro:i18n";
 import { CldImage } from "astro-cloudinary";
-
-import type { Category } from "../content/types";
-import { getLangFromUrl } from "../i18n/utils";
+import { types } from "../content";
 
 interface Props {
-  categories: Category[];
+  categories: types.Category[];
 }
 
-const lang = getLangFromUrl(Astro.url);
+const lang = Astro.currentLocale as string;
 const { categories } = Astro.props;
 ---
 
@@ -17,21 +16,21 @@ const { categories } = Astro.props;
     categories.length > 0 &&
       categories.map((category) => (
         <div class="col-6">
-            <h4 class="fw-bold">{category.name}</h4>
+          <h4 class="fw-bold">{category.name}</h4>
 
-            <a href={`/${lang}/${category.id}`}>
-                <CldImage
-                  class={"bg-dark h-100 w-100"}
-                  crop="fill"
-                  gravity="auto"
-                  format="auto"
-                  quality="auto"
-                  width={400}
-                  src={`eley.com.pl/${category.imgSrc}`}
-                  alt={category.name}
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                />
-            </a>
+          <a href={getRelativeLocaleUrl(lang, `${category.id}/`)}>
+            <CldImage
+              class={"h-100 w-100"}
+              crop="fill"
+              gravity="auto"
+              format="auto"
+              quality="auto"
+              width={400}
+              src={`eley.com.pl/${category.imgSrc}`}
+              alt={category.name}
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            />
+          </a>
         </div>
       ))
   }

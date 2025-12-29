@@ -1,51 +1,33 @@
 ---
-import { languages } from "../i18n/ui";
-import { getLangFromUrl } from "../i18n/utils";
-import { getBasePath } from "../libs/deployment";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import { repository } from "../content";
 
-const url = new URL(Astro.request.url);
-const currentLang = getLangFromUrl(url);
-const basePath = getBasePath();
-
-const { class: className } = Astro.props;
-
-function getPathForLang(lang: string) {
-    const path = url.pathname;
-    const segments = path.split("/").filter(Boolean);
-    // Remove basePath prefix if present
-    if (basePath && segments[0] === 'tomjan-eley') {
-        segments.shift();
-    }
-    if (segments[0] === currentLang) {
-        segments[0] = lang;
-        return `${basePath}/${segments.join("/")}`;
-    }
-    return `${basePath}/${lang}`;
-}
+const languages = await repository.getLanguagesMap();
+const currentLang = Astro.currentLocale as string;
 ---
 
-<div class={`dropdown ${className}`}>
-    <button
-        class="btn btn-outline-secondary dropdown-toggle btn-sm"
-        type="button"
-        id="languageDropdown"
-        data-bs-toggle="dropdown"
-        aria-expanded="false"
-    >
-        {languages[currentLang]}
-    </button>
-    <ul
-        class="dropdown-menu dropdown-menu-end"
-        aria-labelledby="languageDropdown"
-    >
-        {
-            Object.entries(languages).map(([lang, label]) => (
-                <li>
-                    <a class="dropdown-item" href={getPathForLang(lang)}>
-                        {label}
-                    </a>
-                </li>
-            ))
-        }
-    </ul>
+<div class={`dropdown`}>
+  <button
+    class="btn btn-outline-secondary dropdown-toggle btn-sm"
+    type="button"
+    id="languageDropdown"
+    data-bs-toggle="dropdown"
+    aria-expanded="false"
+  >
+    {languages[currentLang]}
+  </button>
+  <ul
+    class="dropdown-menu dropdown-menu-end"
+    aria-labelledby="languageDropdown"
+  >
+    {
+      Object.entries(languages).map(([lang, label]) => (
+        <li>
+          <a class="dropdown-item" href={getRelativeLocaleUrl(lang)}>
+            {label}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
 </div>

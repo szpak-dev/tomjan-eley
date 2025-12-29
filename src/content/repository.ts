@@ -16,7 +16,16 @@ export async function getLanguages(): Promise<Language[]> {
     return Object.entries(languages).map(([code, name]) => ({ code: code as Lang, name }));
 }
 
-export async function getMetadata(type: Metadata, lang: Lang): Promise<PageMetadata> {
+export async function getLanguagesMap(): Promise<Record<string, string>> {
+    const langs = await getLanguages();
+    
+    return langs.reduce((map, lang) => {
+        map[lang.code] = lang.name;
+        return map;
+    }, {} as Record<string, string>);
+}
+
+export async function getMetadata(type: Metadata, lang: string): Promise<PageMetadata> {
     const allMetadatas = await getCollection('metadatas');
     const metadatas = allMetadatas.find(meta => meta.data.type === type && meta.data.lang === lang);
     
@@ -27,12 +36,12 @@ export async function getMetadata(type: Metadata, lang: Lang): Promise<PageMetad
     return metadatas.data;
 }
 
-export async function findCategories(lang: Lang): Promise<Category[]> {
+export async function findCategories(lang: string): Promise<Category[]> {
     const categories = await getCollection('categories');
     const translations = await getCollection('categoryTranslations');
 
     const translationData = translations[0].data;
-    const langTranslations = translationData[lang];
+    const langTranslations = translationData[lang as Lang];
 
     return categories.map(category => ({
         id: category.data.id,
@@ -41,7 +50,7 @@ export async function findCategories(lang: Lang): Promise<Category[]> {
     }));
 }
 
-export async function getCategory(categoryId: string, lang: Lang): Promise<Category> {
+export async function getCategory(categoryId: string, lang: string): Promise<Category> {
     const categories = await findCategories(lang);
     const category = categories.find(cat => cat.id === categoryId);
 
@@ -52,12 +61,12 @@ export async function getCategory(categoryId: string, lang: Lang): Promise<Categ
     return category;
 }
 
-export async function findSpecifications(lang: Lang): Promise<Specification[]> {
+export async function findSpecifications(lang: string): Promise<Specification[]> {
     const specifications = await getCollection('specifications');
     const translations = await getCollection('specificationTranslations');
 
     const translationData = translations[0].data;
-    const langTranslations = translationData[lang];
+    const langTranslations = translationData[lang as Lang];
 
     return specifications.map(spec => ({
         id: spec.data.id,
@@ -66,7 +75,7 @@ export async function findSpecifications(lang: Lang): Promise<Specification[]> {
     }));
 }
 
-export async function findProducts(lang: Lang): Promise<Product[]> {
+export async function findProducts(lang: string): Promise<Product[]> {
     const products = await getCollection('products');
 
     const specifications = await findSpecifications(lang);
@@ -93,12 +102,12 @@ export async function findProducts(lang: Lang): Promise<Product[]> {
     });
 }
 
-export async function findProductsByCategory(categoryId: string, lang: Lang): Promise<Product[]> {
+export async function findProductsByCategory(categoryId: string, lang: string): Promise<Product[]> {
     const products = await findProducts(lang);
     return products.filter(product => product.category === categoryId);
 }
 
-export async function getProduct(productId: string, lang: Lang): Promise<Product> {
+export async function getProduct(productId: string, lang: string): Promise<Product> {
     const products = await findProducts(lang);
     const product = products.find(prod => prod.id === productId);
 

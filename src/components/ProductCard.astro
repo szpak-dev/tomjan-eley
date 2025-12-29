@@ -1,15 +1,14 @@
 ---
 import { CldImage } from "astro-cloudinary";
-
-import type { Product } from "../content/types";
-import { getProductImageId } from "../content/repository";  
+import { repository, types } from "../content";
 
 interface Props {
-  product: Product;
+  product: types.Product;
+  link: string;
 }
 
-const { product } = Astro.props;
-const imageId = await getProductImageId(product.id);
+const { product, link } = Astro.props;
+const imageId = await repository.getProductImageId(product.id);
 ---
 
 <div class="col-12 col-md-6 col-lg-4 mb-4">
@@ -32,8 +31,7 @@ const imageId = await getProductImageId(product.id);
       <h6 class="card-subtitle mb-2 text-muted">
         {product.subname}
       </h6>
-      <a href={`/${Astro.params.lang}/products/${product.id}`} class="mt-auto stretched-link">
-      </a>
+      <a href={link} class="mt-auto stretched-link"></a>
     </div>
   </div>
 </div>

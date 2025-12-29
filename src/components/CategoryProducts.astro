@@ -1,21 +1,31 @@
 ---
+import { getRelativeLocaleUrl } from "astro:i18n";
+
 import ProductCard from "../components/ProductCard.astro";
 import Empty from "./Empty.astro";
 
-import { findProductsByCategory } from "../content/repository";
-import type { Category, Lang } from "../content/types";
+import { repository, types } from "../content";
 
 interface Props {
-  category: Category;
-  lang: Lang;
+  category: types.Category;
+  lang: types.Lang;
 }
 
-const { category, lang } = Astro.props as Props;
-const products = await findProductsByCategory(category.id, lang);
+const { category } = Astro.props as Props;
+
+const lang = Astro.currentLocale as string;
+const products = await repository.findProductsByCategory(category.id, lang);
 ---
+
 <div class="row">
-    {products.length === 0 ? 
-        ( <Empty /> ) : 
-        ( products.map((product) => <ProductCard product={product} />))
-    }
+  {
+    products.length === 0 ? (
+      <Empty />
+    ) : (
+      products.map((product) => <ProductCard 
+        product={product} 
+        link={getRelativeLocaleUrl(lang, `products/${product.id}`)} 
+      />)
+    )
+  }
 </div>

@@ -1,19 +1,18 @@
 ---
-import { CldImage } from "astro-cloudinary";
+import { repository } from "../content";
 
-import { getProductImageId, getProduct } from "../content/repository";
-import { type Lang } from "../content/types";
+import { CldImage } from "astro-cloudinary";
 import Specification from "./Specification.astro";
 
 type Props = {
   productId: string;
-  lang: string;
 };
 
-const { productId, lang } = Astro.props;
+const lang = Astro.currentLocale as string;
+const { productId } = Astro.props;
 
-const product = await getProduct(productId, lang as Lang);
-const imageId = await getProductImageId(productId);
+const product = await repository.getProduct(productId, lang);
+const imageId = await repository.getProductImageId(productId);
 ---
 
 <div class="row">

@@ -3,29 +3,21 @@ import Layout from "../../layouts/Layout.astro";
 import CategoryProducts from "../../components/CategoryProducts.astro";
 import Bc from "../../components/Bc.astro";
 
-import {
-  findProductsByCategory,
-  findCategories,
-  getLanguages,
-  getCategory,
-} from "../../content/repository";
-import { type Lang } from "../../content/types";
-
-const { lang, category } = Astro.props;
-const productCategory = await getCategory(category.id, lang as Lang);
+import { repository } from "../../content";
 
 export async function getStaticPaths() {
-  const langs = await getLanguages();
+  const langs = await repository.getLanguages();
 
   const paths = await Promise.all(
     langs.flatMap(async (lang) => {
-      const categories = await findCategories(lang.code as Lang);
+      const categories = await repository.findCategories(lang.code);
       return Promise.all(
         categories.map(async (category) => {
-          const categoryProducts = await findProductsByCategory(
+          const categoryProducts = await repository.findProductsByCategory(
             category.id,
             lang.code
           );
+
           return {
             params: { lang: lang.code, category: category.id },
             props: { category, products: categoryProducts, lang: lang.code },
@@ -37,6 +29,9 @@ export async function getStaticPaths() {
 
   return paths.flat();
 }
+
+const { lang, category } = Astro.props;
+const productCategory = await repository.getCategory(category.id, lang);
 ---
 
 <Layout title={`${productCategory.name}`}>
@@ -51,5 +46,5 @@ export async function getStaticPaths() {
     </p>
   </div>
 
-  <CategoryProducts category={category} lang={lang as Lang} />
+  <CategoryProducts category={category} lang={lang} />
 </Layout>

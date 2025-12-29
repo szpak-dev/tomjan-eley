@@ -1,7 +1,7 @@
 ---
-import { getBasePath } from '../libs/deployment';
+import { getRelativeLocaleUrl } from "astro:i18n";
 
-const basePath = getBasePath();
+const redirectUrl = getRelativeLocaleUrl("en", "/");
 ---
 
-<meta http-equiv="refresh" content={`0;url=${basePath}/en`} />
+<meta http-equiv="refresh" content={`0;url=${redirectUrl}`} />

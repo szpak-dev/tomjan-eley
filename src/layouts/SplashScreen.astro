@@ -2,15 +2,18 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Navbar } from "astro-bootstrap";
 
-import type { Category, PageMetadata } from "../content/types";
+import { getRelativeLocaleUrl } from "astro:i18n";
+const currentLang = Astro.currentLocale as string;
+
+import {types} from "../content";
 import SplashSelector from "../components/SplashSelector.astro";
 import LanguageSelector from "../components/LanguageSelector.astro";
 
 import { CldImage } from "astro-cloudinary";
 
 interface Props {
-  meta: PageMetadata;
-  categories: Category[];
+  meta: types.PageMetadata;
+  categories: types.Category[];
 }
 
 const { meta, categories } = Astro.props;
@@ -22,7 +25,7 @@ const { meta, categories } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="description" content={meta.description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href={getRelativeLocaleUrl(currentLang, "favicon.svg")} />
     <meta name="generator" content={Astro.generator} />
     <title>{meta.title}</title>
   </head>

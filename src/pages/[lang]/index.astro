@@ -1,23 +1,15 @@
 ---
-import { getMetadata, findCategories } from "../../content/repository";
-import type { Lang } from "../../content/types";
-import { languages, ui } from "../../i18n/ui";
-import { useTranslations } from "../../i18n/utils";
+import { repository } from "../../content";
+import SplashScreen from "../../layouts/SplashScreen.astro";
 
 export async function getStaticPaths() {
-    return Object.keys(languages).map((lang) => ({ params: { lang } }));
+  const languages = await repository.getLanguages();
+  return languages.map(({ code }) => ({ params: { lang: code } }));
 }
 
-const { lang } = Astro.params;
-const t = useTranslations(lang as keyof typeof ui);
-
-const categories = await findCategories(lang as Lang);
-const metadata = await getMetadata('splashscreen', lang as Lang);
-
-import SplashScreen from "../../layouts/SplashScreen.astro";
+const currentLang = Astro.currentLocale as string;
+const categories = await repository.findCategories(currentLang);
+const metadata = await repository.getMetadata("splashscreen", currentLang);
 ---
 
-<SplashScreen 
-    meta={metadata} 
-    categories={categories} 
-/>
+<SplashScreen meta={metadata} categories={categories} />

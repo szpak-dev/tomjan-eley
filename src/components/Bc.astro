@@ -1,7 +1,7 @@
 ---
+import { getRelativeLocaleUrl } from "astro:i18n";
 import { Breadcrumb } from "astro-bootstrap";
-import { getCategory, getProduct } from "../content/repository";
-import type { Lang } from "../content/types";
+import { repository, types } from "../content";
 
 type Props = {
   lang: string;
@@ -17,10 +17,10 @@ import { useTranslations } from "../i18n/utils";
 const t = useTranslations(lang as keyof typeof ui);
 
 const category = categoryId
-  ? await getCategory(categoryId, lang as Lang)
+  ? await repository.getCategory(categoryId, lang)
   : undefined;
 const product = productId
-  ? await getProduct(productId, lang as Lang)
+  ? await repository.getProduct(productId, lang)
   : undefined;
 ---
 
@@ -33,7 +33,7 @@ const product = productId
 
 <Breadcrumb>
   <Breadcrumb.Item>
-    <a href={`/${lang}`} class="link-underline link-underline-opacity-0">
+    <a href={getRelativeLocaleUrl(lang, "")} class="link-underline link-underline-opacity-0">
       <span class="d-flex align-items-center gap-1">
         <i class="bi bi-house-door-fill"></i>
         <span>{t("Home")}</span>
@@ -48,7 +48,7 @@ const product = productId
           <span>{category.name}</span>
         ) : (
           <a
-            href={`/${lang}/${category.id}`}
+            href={getRelativeLocaleUrl(lang, `${category.id}/`)}
             class="link-underline link-underline-opacity-0"
           >
             {category.name}

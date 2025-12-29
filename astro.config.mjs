@@ -6,8 +6,13 @@ import { getBasePath } from './src/libs/deployment.ts';
 export default defineConfig({
     output: 'static',
     base: getBasePath() + '/',
+    trailingSlash: 'always',
     i18n: {
-        defaultLocale: "en",
+        defaultLocale: "pl",
         locales: ["en", "pl"],
+        routing: {
+            prefixDefaultLocale: true,
+            redirectToDefaultLocale: true,
+        }
     },
 });
