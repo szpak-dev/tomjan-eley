@@ -8,15 +8,11 @@ type SocialProps = {
 };
 ---
 
-<div class="d-flex gap-1">
-  {
-    socials.map((social: SocialProps) => (
-      <a
-        href={social.url}
-        class="fs-5 link-underline link-underline-opacity-0"
-      >
+<div class="d-flex gap-4 justify-content-center">
+    {socials.map((social: SocialProps) => (
+      <a href={social.url} class="fs-5 link-underline link-underline-opacity-0 text-white">
         <i class={social.icon}></i>
+        {social.name}
       </a>
-    ))
-  }
+    ))}
 </div>

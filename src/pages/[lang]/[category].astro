@@ -41,9 +41,6 @@ const productCategory = await repository.getCategory(category.id, lang);
 
   <div class="row mb-5 align-items-center text-center">
     <h1 class="display-6 fw-bold">{productCategory.name}</h1>
-    <p class="lead text-muted">
-      Browse our premium selection of {productCategory.name} products.
-    </p>
   </div>
 
   <CategoryProducts category={category} lang={lang} />
