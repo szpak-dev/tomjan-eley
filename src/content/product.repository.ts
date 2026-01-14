@@ -69,13 +69,6 @@ export async function getProductBySlug(manufacturer: string, slug: string, lang:
     return product;
 }
 
-export async function findFeatured(manufacturer: string, lang: string): Promise<Product[]> {
-    const products = await findProducts(manufacturer, lang);
-    const featuredSlugs = ["k2-45c-stainless-steel", "sar-7-24-sport-platinum", "sar9-safari"];
-    
-    return products.filter(product => featuredSlugs.includes(product.slug));
-}
-
 export function getProductUrl(product: Product, lang: string): string {
   return getRelativeLocaleUrl(lang, `/${product.slug}/`);
 }
