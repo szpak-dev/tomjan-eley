@@ -116,19 +116,8 @@ jobs:
       - name: Deploy to Caddy webroot
         run: |
           echo "Deploying to ${CADDY_WEBROOT}"
-          # Remove the old index.html specifically to ensure it's refreshed
-          sudo rm -f ${CADDY_WEBROOT}/index.html
-          # Sync new files
-          sudo rsync -av --delete ./dist/ ${CADDY_WEBROOT}/
+          sudo rsync -av --delete --checksum ./dist/ ${CADDY_WEBROOT}/
           sudo chown -R caddy:caddy ${CADDY_WEBROOT}
-          # Verify index.html was updated
-          if [ -f "${CADDY_WEBROOT}/index.html" ]; then
-            echo "✓ index.html deployed successfully"
-            ls -lh ${CADDY_WEBROOT}/index.html
-          else
-            echo "✗ index.html not found after deployment"
-            exit 1
-          fi
           echo "Deployment completed successfully"
       
       - name: Deploy Caddy configuration
@@ -156,11 +145,8 @@ jobs:
       
       - name: Reload Caddy
         run: |
-          # Clear Caddy cache if it exists
-          sudo rm -rf /var/lib/caddy/.local/share/caddy/cache/* 2>/dev/null || true
-          # Reload Caddy configuration
           sudo systemctl reload caddy
-          echo "Caddy server reloaded and cache cleared"
+          echo "Caddy server reloaded"
       
       - name: Verify deployment
         run: |
