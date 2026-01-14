@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.vip-federation",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-federation",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "VIP Federation",
+  "name_short": "VIP Federation",
+  "slug": "vip-federation",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Forming part of Eley’s VIP range – which has become the benchmark for quality cartridges – the VIP Federation comprises only the finest components and powders blended for hard-hitting performance. This is all achieved using a slow signature primer and a unique blend of powder formulated to ensure smooth acceleration and higher speeds."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6.5, 7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "434 mps • 1425 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-federation-0"
+  ]
+}

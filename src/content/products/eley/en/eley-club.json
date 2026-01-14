@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-club",
+  "lang": "en",
+  "url": "https://eley.co.uk/bullseye-pistol-x/",
+  "manufacturer": "eley",
+  "category_slug": "pistol",
+  "category_name": "Pistol",
+  "name": "Eley Club",
+  "name_short": "Club",
+  "slug": "eley-club",
+  "model_name": "",
+  "lead": "ELEY club is a club level cartridge for enhanced performance. Each lot is tested to high accuracy standards to meet demands of club shooters.",
+  "description": [
+    "The cartridge features a meticulously crafted bullet profile optimised for smooth chambering and flawless feeding in a wide range of target pistols. Each component, from the case dimensions to the propellant charge, is manufactured to ELEY’s exacting standards, ensuring remarkable shot-to-shot consistency and tight group performance.",
+    "ELEY bullseye pistol x is tuned for stability, clean burn, and balanced recoil, supporting fast target reacquisition and precise control over sustained strings. Whether you are training or under the competition lights, bullseye pistol x gives shooters the unwavering performance needed to stay on the x-ring."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "268m/s-292m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "880ft/s-959ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "7.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Paraffin Wax"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-club-0"
+  ]
+}

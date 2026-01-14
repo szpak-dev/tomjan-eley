@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.hi-flyer",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/hi-flyer",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Hi-Flyer",
+  "name_short": "Hi-Flyer",
+  "slug": "hi-flyer",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "It is a truly universal field cartridge encompassing all aspects of game and vermin control, with the widest variety of shot and wad combinations suitable for all gun configurations, including semi-autos.",
+    "Loaded in a 67mm case configuration with a full range of loads from 28, 30 and 32 gram, these have been used by game shooters, pest controllers and rough shooters alike to great effect and have become a sought-after cartridge.",
+    "“This flexible cartridge in its unique 67mm case works in all gun types, and is a true all-rounder with power and performance to match. I particularly like the bright-coloured cases as they look great and are easy to spot when picking up spent shells. You don’t need to be a high flyer to use hi-flyers.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "404 mps • 1324 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hi-flyer-0"
+  ]
+}

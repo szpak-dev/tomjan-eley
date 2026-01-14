@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.vip-steel",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-steel",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Steel",
+  "name_short": "VIP Steel",
+  "slug": "vip-steel",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "*Only to be used in steel proofed guns. Always check the instructions provided with your gun and always read the instructions provided on the cartridge box.",
+    "The unique SSB+ 150 powder excels even in humid conditions and is manufactured to ensure excellent ballistics on steel loads and designed to work in semi autos. This load is the ideal ultra high performance steel load.",
+    "*Only to be used in steel proofed guns. Always check the instructions provided with your gun and always read the instructions provided on the cartridge box.",
+    "“A 32g steel load makes a good all-round choice when a non-toxic load is a must. For inland shooting around the flight pond, after a day shooting pheasants, if you have the right gun, it’s a real duck-getter” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-steel-0"
+  ]
+}

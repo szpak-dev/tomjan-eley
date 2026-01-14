@@ -1,0 +1,86 @@
+{
+  "id": "eley.eley-subsonic-hollow",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-subsonic-hollow/",
+  "manufacturer": "eley",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Eley Subsonic Hollow",
+  "name_short": "Subsonic Hollow",
+  "slug": "eley-subsonic-hollow",
+  "model_name": "",
+  "lead": "ELEY subsonic hollow has target shooting accuracy and reduced velocity to offer a quieter muzzle report compared to other .22LR hunting rounds.",
+  "description": [
+    "ELEY subsonic hollow is a hunting cartridge with target shooting accuracy and reduced velocity, offering a quieter muzzle report compared to other .22LR hunting rounds.",
+    "With its innovative hollow nosed profile, the ELEY subsonic hollow projectile delivers unequalled expansion characteristics, resulting in short penetration with outstanding stopping power; essential features for vermin control.",
+    "Increasingly popular with sporting shooters and professional pest controllers, ELEY subsonic hollow is regarded as one of the quietest and most accurate subsonic rounds on the market."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Hollow-point"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.46 grams / 38 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "305m/s-317m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1000ft/s-1040ft/s"
+        },
+        {
+          "id": "individual-group-size",
+          "name": "Individual Group Size",
+          "value": "43mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Paraffin Wax"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-subsonic-hollow-0"
+  ]
+}

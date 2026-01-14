@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.dtl-gold",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/dtl-gold",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "DTL Gold",
+  "name_short": "DTL Gold",
+  "slug": "dtl-gold",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Featuring powders engineered to lower recoil to minimise fatigue during competition and reduce muzzle flip for the all-important second barrel, coupled with extra hard shot and dense patterns to turn clays into dust at the highest competitive standard, they believe the DTL Gold to be the ultimate cartridge for this discipline.",
+    "“Eley Hawk DTL gold was without doubt the deciding factor in my topping the CPSA rankings. That extra consistency was what it took to take me to the top of the table.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "411 mps • 1350 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/dtl-gold-0"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.trap-410-3-inch",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/trap-410-3-inch",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Trap .410 3 inch",
+  "name_short": "Trap .410 3 inch",
+  "slug": "trap-410-3-inch",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Top marks were given by the coveted Shooting Industry Awards’ evaluators for breaking clays at distance. The concluded: “Packing a genuinely outstanding punch, this .410 load performed beyond expectations. The quality of kills in excess of 30 yards equal any high-performance competition load on both going away targets and typical sporting birds. And whilst these diminutive loads hit as hard as any cartridge you’ll encounter, recoil is – more or less – non-existent.",
+    "“The .410 gun configuration has been given a real boost in popularity thanks to this fantastic cartridge. The specialist powder and magnum shot combine to make them an obvious choice for use in .410 clay competitions.”",
+    "“It is an exceptional cartridge, especially when you consider it’s only 19g. They’re good, hard-hitting cartridges that produce genuinely impressive kills. There’s no recoil: the cartridges themselves are well-made and presented. In my opinion, the market has always required a quality competition .410 load, and to my mind this Eley offering is it!”"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "19"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "335 mps • 1100 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "76 mm • 3 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/trap-410-3-inch-0"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.gp-traditional-steel-pro-eco",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/gp-traditional-steel-pro-eco",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "GP Traditional Steel Pro Eco",
+  "name_short": "GP Traditional Steel Pro Eco",
+  "slug": "gp-traditional-steel-pro-eco",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "“Having fired a couple of boxes through my Lancaster, I conducted an almost forensic examination for any signs of damage and found none. I was also impressed with the clean burn of the powder, which left little or no fouling… Armed with a belt full of these, I now have the confidence to use steel cartridges in my 112-year-old gun. Not only has my gun been given an extension to its useful life, but I feel better for knowing that I will not be depositing several pounds of a poisonous heavy metal onto the Shropshire countryside each season.” ~ Bill Harriman, BASC Director of Firearms",
+    "The Grand Prix Traditional Steel is loaded in a 30 gram 4 shot and comes in the iconic Grand Prix orange case. To check if your gun is suitable for steel shot please check the British Proof House Equivalency Table or consult your local gunsmith"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "4"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • True 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/gp-traditional-steel-pro-eco-0"
+  ]
+}

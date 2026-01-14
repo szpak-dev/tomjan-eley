@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.hi-flyer-20g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/hi-flyer-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Hi-Flyer 20G",
+  "name_short": "Hi-Flyer 20G",
+  "slug": "hi-flyer-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Loaded with the unique CSB 2 powder, the 20 gauge Hi-Flyer has been used by game shooters, pest controllers and rough shooters alike to great effect over the years and has become a sought after cartridge."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hi-flyer-20g-0"
+  ]
+}

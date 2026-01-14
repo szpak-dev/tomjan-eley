@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.superb",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/superb",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Superb",
+  "name_short": "Superb",
+  "slug": "superb",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The unique blend of powders and slow-burning primers in the Superb, allow the barrel time to be regulated so it achieves smooth, yet powerful performance. They are loaded with specialist high antimony Magnum shot too.",
+    "“A value for money cartridge that until now has somehow gone under my radar. On test, Eley Superbs have low recoil but are highly effective at long ranges. When I had finished shooting the Sporting layout, I retreated to the pattern plate where I was even further impressed.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7, 8, 9"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/superb-0"
+  ]
+}

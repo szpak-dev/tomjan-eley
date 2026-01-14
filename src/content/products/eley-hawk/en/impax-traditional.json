@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.impax-traditional",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/impax-traditional",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Impax Traditional",
+  "name_short": "Impax Traditional",
+  "slug": "impax-traditional",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "As a true English classic, the Impax is the smoothest game cartridge for grouse shooting, loaded in 28 gram 6 and 7 shot. The paper case version – see Impax Traditional – is lacquered using the long-established Eley ‘Pegamoid’ method, dipped and dried to perfection to increase the shelf life and prevent the natural ingress of water through changes in humidity. It's a true work of art.",
+    "“Eley's Impax load is my perfect choice from the Eley range. The 1oz load has proved itself time and time again over the many years it’s been in production. This load could’ve been designed with partridges in mind – the powder’s gentle, progressive burn delivers plenty of performance but the sort of barrel pressures your treasured side-by-side will love.” ~ Charlie Bull, justcartridges.com"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "418 mps • 1373 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/impax-traditional-0"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.fourlong",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/fourlong",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Fourlong",
+  "name_short": "Fourlong",
+  "slug": "fourlong",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Eley Hawk was the first to manufacture this type of load, and that innovation has been carried forward with this cartridge’s fibre-only wad for impressive results – no other UK manufacturer produces such a load.",
+    "“A brambled bank, a handful of Eley Fourlong cartridges, bright winter sun and a borrowed gun and a dog. Three rabbits were bowled over cleanly at distances up to 20 paces. I must admit, for the first time in years, I began to look upon the .410 in a new and favourable light.”",
+    "Loaded with a very special SSB+ 150 powder the 2 ½” cartridge is ideal for use on ground game and vermin."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "12.5"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "329 mps • 1080 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/fourlong-0"
+  ]
+}

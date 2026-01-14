@@ -1,0 +1,87 @@
+{
+  "id": "eley.eley-team",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-team-2/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Team",
+  "name_short": "Team",
+  "slug": "eley-team",
+  "model_name": "",
+  "lead": "Eley Team .22lr Ammunition, Part of the tenex family, team is the entry point for competitive shooters looking to use ELEY’s premium cartridge range.",
+  "description": [
+    "ELEY team is ELEY’s entry-level premium cartridge. Trusted by top-level competition shooters, it has earned a strong reputation for delivering outstanding accuracy and reliability.",
+    "Featuring ELEY’s patented flat-nose projectile and precision-engineered trimmed case technology, team ensures consistent performance with every shot.",
+    "As part of the tenex family, ELEY team provides the perfect starting point for competitive shooters who want to step into the world of ELEY’s premium ammunition range.",
+    "* Subject to availability – Check with your Account Manager."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Flat-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-330m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1085ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "5.50mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Beeswax-tallow"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-team-0"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-biathlon-club",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-biathlon-club-2/",
+  "manufacturer": "eley",
+  "category_slug": "biathlon",
+  "category_name": "Biathlon",
+  "name": "Eley Biathlon Club",
+  "name_short": "Biathlon Club",
+  "slug": "eley-biathlon-club",
+  "model_name": "",
+  "lead": "Driven by ambition. Unshaken by the cold. ELEY biathlon club is designed as the ideal introduction to ELEY’s world-class biathlon ammunition. This cartridge features a refined bullet and case design to ensure reliable cycling in bolt-action and straight-pull biathlon rifles, even in extreme winter conditions. A specialised cold-weather lubricant has been scientifically engineered to enhance",
+  "description": [
+    "ELEY biathlon club is designed as the ideal introduction to ELEY’s world-class biathlon ammunition. This cartridge features a refined bullet and case design to ensure reliable cycling in bolt-action and straight-pull biathlon rifles, even in extreme winter conditions. A specialised cold-weather lubricant has been scientifically engineered to enhance consistency, reduce barrel wear, and maintain accuracy in freezing temperatures.",
+    "An increased propellant charge provides improved energy and greater knock-down power, ensuring reliable target reaction when it matters most. ELEY biathlon club delivers the accuracy, reliability, and cold-weather performance expected from ELEY."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "323m/s-330m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1060ft/s-1085ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "5.50mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Biathlon"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-biathlon-club-0"
+  ]
+}

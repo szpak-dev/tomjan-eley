@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-semi-auto-benchrest-precision",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-semi-auto-benchrest-precision/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Semi-Auto Benchrest Precision",
+  "name_short": "Semi-Auto Benchrest Precision",
+  "slug": "eley-semi-auto-benchrest-precision",
+  "model_name": "",
+  "lead": "The benchmark in semi-auto benchrest shooting. ELEY semi-auto benchrest precision ammunition has been developed using the same world-renowned engineering expertise that drives the performance of ELEY tenex, the benchmark in .22LR target rounds. A new standard for semi-automatic benchrest competition. The round-nose design enhances smooth chambering and consistent ballistics, while ELEY’s uncompromising approach to quality control",
+  "description": [
+    "ELEY semi-auto benchrest precision ammunition has been developed using the same world-renowned engineering expertise that drives the performance of ELEY tenex, the benchmark in .22LR target rounds. A new standard for semi-automatic benchrest competition.",
+    "The round-nose design enhances smooth chambering and consistent ballistics, while ELEY’s uncompromising approach to quality control guarantees the tightest tolerances. Each round is manufactured to perform identically to the last, providing shooters with the confidence and repeatability required to excel in precision shooting disciplines. ELEY understands accuracy, consistency, and reliability are not optional, they are essential."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "314m/s-326m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1030ft/s-1070ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "4.90mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "EP2723"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-semi-auto-benchrest-precision-0"
+  ]
+}

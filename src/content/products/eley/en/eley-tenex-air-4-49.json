@@ -1,0 +1,56 @@
+{
+  "id": "eley.eley-tenex-air-4-49",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-tenex-air-4-49/",
+  "manufacturer": "eley",
+  "category_slug": "air-pellets",
+  "category_name": "Air Pellets",
+  "name": "Eley Tenex Air 4.49",
+  "name_short": "Tenex Air 4.49",
+  "slug": "eley-tenex-air-4-49",
+  "model_name": "",
+  "lead": "ELEY tenex air pellets deliver exceptional accuracy, 30% greater weight control than any competitor, and damage-resistant packaging.",
+  "description": [
+    "Through an extensive research and development program, ELEY identified the critical performance factors that take air pellets to the next level of accuracy. Pellet profile, dimensional consistency, and weight control emerged as the key parameters influencing precision and repeatability.",
+    "Every element of product and process development was meticulously engineered to deliver medal-winning performance on the world stage. The result is ELEY tenex air, a pellet that embodies ELEY’s uncompromising commitment to accuracy and quality.",
+    "Unrivalled precision shot after shot."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "pellet-profile",
+          "name": "Pellet Profile",
+          "value": "Flat-head"
+        },
+        {
+          "id": "pellet-weight",
+          "name": "Pellet Weight",
+          "value": "0.531 grams / 8.2 grains"
+        },
+        {
+          "id": "available-diameters",
+          "name": "Available Diameters",
+          "value": "4.49/4.50/4.51"
+        },
+        {
+          "id": "weight-control",
+          "name": "Weight Control",
+          "value": "30% superior to other brands"
+        },
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Damage resistant, re-sealable"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-air-4-49-0"
+  ]
+}

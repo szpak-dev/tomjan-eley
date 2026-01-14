@@ -1,0 +1,87 @@
+{
+  "id": "eley.eley-tenex-biathlon",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-tenex-biathlon/",
+  "manufacturer": "eley",
+  "category_slug": "biathlon",
+  "category_name": "Biathlon",
+  "name": "Eley Tenex Biathlon",
+  "name_short": "Tenex Biathlon",
+  "slug": "eley-tenex-biathlon",
+  "model_name": "",
+  "lead": "Following comprehensive research and development of biathlon sport and biathletes, ELEY launched tenex biathlon - ultimate performance against the elements.",
+  "description": [
+    "With over 198 years of heritage and experience, engineering excellence is central to the success of ELEY tenex. Our highly skilled engineers combine state of the art machinery with high speed electronic visual inspection systems and Six Sigma methodologies to produce the cartridges that have redefined .22LR accuracy across the world.",
+    "ELEY tenex biathlon launched in 2012 following comprehensive research and development of biathlon sport, the athletes and their needs. ELEY tenex was used as a platform on which to build this new cartridge.",
+    "The iconic flat nose projectile of ELEY tenex is one of many innovations pioneered by ELEY engineers. As it cuts through the air its revolutionary design pulls the centre of pressure forwards, aerodynamically stabilizing the projectile and increasing accuracy at the target.",
+    "Examination of bullet and chambering characteristics at freezing temperatures led to a reduction in the diameter of the cartridge to aid cycling in bolt-action or straight-pull biathlon rifles. A scientifically designed lubricant was developed to suit cold temperatures, aiding consistency and reducing barrel wear. ELEY tenex biathlon also benefits from an increased propellant charge giving the bullet enhanced terminal energy and a greater knock down force needed for the biathlon target."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Flat-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "335m/s-354m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1100ft/s-1160ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "4.50mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Biathlon"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-biathlon-0"
+  ]
+}

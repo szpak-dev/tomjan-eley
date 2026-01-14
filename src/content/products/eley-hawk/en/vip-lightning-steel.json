@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-lightning-steel",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-lightning-steel",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Lightning Steel",
+  "name_short": "VIP Lightning Steel",
+  "slug": "vip-lightning-steel",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The unique SSB+ 150 powder excels even in humid conditions and has been specifically crafted to ensure excellent ballistics with steel loads. The VIP Lightning Steel allows you to shoot at outstanding ranges with convincing knockdown power on even the largest of waterfowl species. A perfect load for all large, 3\" chambered semi-automatic shotguns.",
+    "“Eley VIP Lightning Steel in 36 gram, no 3 shot, is a good duck or goose load. They certainly hit hard. At 30 yards with the ¾ choke, I had 132 pellets hit the pattern board.” ~ Bruce Potts, Gun Mart",
+    "*Only to be used in steel-prooved guns. Always check instructions provided with your gun and if you are unsure if suitable, get in touch with your local gunsmith for advice."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "36"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "1, 3"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "435 mps • 1430 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "76 mm • 3 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-lightning-steel-0"
+  ]
+}

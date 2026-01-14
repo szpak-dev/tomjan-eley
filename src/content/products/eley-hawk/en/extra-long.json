@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.extra-long",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/extra-long",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Extra Long",
+  "name_short": "Extra Long",
+  "slug": "extra-long",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "As the largest .410 load available, this cartridge has been formulated to deliver brilliant results in the field, making it a firm favourite among small-bore game shooting enthusiasts. Coming in 18 gram loads, it is more than capable for using on partridge days.",
+    "The additional power has made this load the perfect choice for those who shoot .410s during the game season. It’s also only available in fibre.",
+    "“Eley are the only manufacturer that produce fibre loads in .410 format. So well done to them!” ~ Shooting UK",
+    "This cartridge is also available in a Hush Power subsonic variant which is ideal for vermin control to give a quiet performance in areas where noise considerations are a factor, such as shooting close to livestock or farm buildings."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "18"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "326 mps • 1070 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "76 mm • 3 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/extra-long-0"
+  ]
+}

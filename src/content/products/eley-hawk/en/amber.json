@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.amber",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/amber",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Amber",
+  "name_short": "Amber",
+  "slug": "amber",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "“I was proud to work with The UK's number one cartridge manufacturer to make a cartridge with low recoil, fast powders and magnum 5% antimony shot. The cartridge is fantastic at breaking clays and they have served me so well as I train and compete for Team GB.” ~",
+    "Produced in 24 gram 8 shot, this cartridge has excellent patterns and delivers results every time you pull the trigger."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/amber-0"
+  ]
+}

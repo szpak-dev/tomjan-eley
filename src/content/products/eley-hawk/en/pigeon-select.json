@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.pigeon-select",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/pigeon-select",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Pigeon Select",
+  "name_short": "Pigeon Select",
+  "slug": "pigeon-select",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Eley Hawk’s Pigeon Select is specifically designed to produce performance demanded by the modern pigeon shooter looking for the optimum cartridge for use during roost shooting, decoying and flighting at a competitive price.",
+    "“I always remember going out in the field with my Dad and shooting Eley Cartridges. He taught me so much, and I like to think I am carrying on those special moments with my son and Pigeon Select.” ~",
+    "Since its launch, this cartridge has proved itself strong in the field time and time again with clean and efficient kills over decoy patterns through roost shooting. Technically, this is the best value load Eley have produced to date, using high quality fibre wads and other components. Significantly, this cartridge is a full 30 gram load with true 6 shot, ideal for pigeons."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/pigeon-select-0"
+  ]
+}

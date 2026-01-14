@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-game",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Game",
+  "name_short": "VIP Game",
+  "slug": "vip-game",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "VIP Game cartridges deliver consistent patterning at fast speeds with comfortable recoil to ensure clean kills at impressive ranges. Even after a day firing a lot of shells, you will find minimal powder or residue in the barrels thanks to the premium powders.",
+    "“They deliver everything one could possibly want in a game cartridge; outstanding patterns, fast speeds, convincing knock-down power, low recoil, and consistent quality. We have used over 100,000 VIPs at Linhope in the past three years with not one misfire. Impressive quality.” ~ Lord James Percy, Renowned Game Shot",
+    "Once you shoot with Eley VIP's nothing else is quite the same. Superior patterning and ballistics ensure the best in class performance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "4, 5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-0"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.alpha-elite-bird-shot",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/alpha-elite-bird-shot",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Alpha Elite Bird Shot",
+  "name_short": "Alpha Elite Bird Shot",
+  "slug": "alpha-elite-bird-shot",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Loaded in a 70mm case with low smoke powder, the Bird Shot load has been formulated to produce tight patterns and deliver speeds when you need them most."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "381 mps • 1250 fps • Power factor 518"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/alpha-elite-bird-shot-0"
+  ]
+}

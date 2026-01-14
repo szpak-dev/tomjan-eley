@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.zenith-steel-pew",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-steel-pew",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Zenith Steel PEW",
+  "name_short": "Zenith Steel PEW",
+  "slug": "zenith-steel-pew",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Taking the already outstanding properties of the fibre option to the next level, The Zenith Steel Pro Eco combines superior patterning qualities of the copper-coated lead shot with a hydro soluble shot cup to provide unmatched ballistics at range while supporting environmentally friendly credentials. The unique, certified Pro-Eco wad is 100% water-soluble and compostable, non-toxic and biodegradable, ensuring that no trace is left in the field. It dissolves fully submerged in water in approximately 24 hours and up to 3 months in natural elements.",
+    "Adding to the makeup of the Zenith Steel Pro Eco, the cartridge is created with only the finest powders and premium steel shot, delivering superior ballistics and patterning, and is heat-sealed on the crimp to prevent the ingress of moisture.",
+    "As a ‘Standard CIP Proofed’ load, the Eley Zenith Steel Pro Eco cartridge is also suitable for use in most guns on the market. To check if your gun is suitable for steel shot please check the British Proof House Equivalency Table or consult your local gunsmith.",
+    "They have been rigorously tested for safety and ballistic confidence, and are available in 28 gram 5 shot and 32 gram 4 shot."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "375 mps • 1230 fps"
+        },
+        {
+          "id": "nickel-length",
+          "name": "Nickel Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-steel-pew-0"
+  ]
+}

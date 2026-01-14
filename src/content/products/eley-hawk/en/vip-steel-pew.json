@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.vip-steel-pew",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-steel-pew",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Steel PEW",
+  "name_short": "VIP Steel PEW",
+  "slug": "vip-steel-pew",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Setting the benchmark for performance and sustainability, Eley’s unique, certified Pro-Eco wad is 100% water-soluble and compostable, made from natural, non-toxic and fully biodegradable materials, ensuring that no trace is left in the field or marshes. It dissolves fully submerged in water in approximately 24 hours and up to 3 months in natural elements.",
+    "Adding to the makeup of the VIP Steel Pro Eco, the cartridge is created with only the finest powders and premium steel shot, delivering superior ballistics and patterning, and is heat-sealed on the crimp to prevent the ingress of moisture.",
+    "As a ‘Standard CIP Proofed’ load, the Eley VIP Steel Pro Eco cartridge is also suitable for use in most guns on the market. To check if your gun is suitable for steel shot please check the British Proof House Equivalency Table or consult your local gunsmith.",
+    "They have been rigorously tested for safety and ballistic confidence, and are available in 32 gram 4 and 5 shot."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "32"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "4, 5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "412 mps • 1279 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-steel-pew-0"
+  ]
+}

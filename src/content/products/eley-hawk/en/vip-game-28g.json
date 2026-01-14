@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-28g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-28g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Game 28G",
+  "name_short": "VIP Game 28G",
+  "slug": "vip-game-28g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The 28 gauge variations include a 16, 21 and 24 gram cartridge, making and the old adage of “it's not the amount of lead, but where you place it” hold true. Where fast acquisition and quick reaction times are needed the 28 gauge will work wonders from pigeon and woodcock to partridge and pheasant, especially when walked-up shooting.",
+    "Once you shoot with Eley VIP's nothing else is quite the same. Superior patterning and ballistics ensure the best in class performance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "16"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "409 mps • 1343 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-28g-0"
+  ]
+}

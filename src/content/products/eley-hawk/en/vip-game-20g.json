@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-20g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Game 20G",
+  "name_short": "VIP Game 20G",
+  "slug": "vip-game-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "For those of lighter builds, walking-up game or desiring the faster handling characteristics of a 20 bore shotgun, the VIP Game 20 gauge cartridge will stand up to your needs. The 28 and 30 gram load in fibre wad will give you an all-round cartridge to deliver outstanding results whatever the quarry species. Superior patterning and ballistics are synonymous with the range, ensuring best in class performance.",
+    "Once you shoot with Eley VIP's nothing else is quite the same. Superior patterning and ballistics ensure the best in class performance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "367 mps • 1207 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-20g-0"
+  ]
+}

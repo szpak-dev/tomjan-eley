@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.pigeon-hv",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/pigeon-hv",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Pigeon HV",
+  "name_short": "Pigeon HV",
+  "slug": "pigeon-hv",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Loaded in 32 gram 6 shot with a new 70mm case, the fibre wad Pigeon HVs pack a punch and work in all gun types and provides a smooth ejection in semi autos. The CSB 2 powder extends the range of the cartridge for far out pigeons, while remaining consistent with comfortable recoil.",
+    "“On the flight line I found Eley Pigeon HVs to be both hugely effective and consistent, even at long ranges. This should come as no surprise – as an integrated manufacturer with all their components from powder to shot developed and produced in-house we can expect nothing less.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "32"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/pigeon-hv-0"
+  ]
+}

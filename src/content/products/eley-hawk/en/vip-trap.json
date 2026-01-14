@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-trap",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-trap",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "VIP Trap",
+  "name_short": "VIP Trap",
+  "slug": "vip-trap",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "With fast speeds and a wide variety of shot sizes, Eley Hawk have ensured there is a configuration suitable for all the Trap disciplines – from DTL and ABT to Universal Trench and Olympic Trap. Where you need speed to ensure a quick break on even the toughest of traps, you can depend on VIP Trap cartridges to provide winning performances.",
+    "“Where Eley’s VIP wins out is in consistency of performance, with the ability to connect with the most distant second barrel birds being legendary. Observed velocity rarely drops below 1,150fps whilst the quality and uniformity of the componentry – especially the 7½ shot –enhances confidence with a shot pattern never less than 92%.” ~",
+    "A few reasons to choose Eley VIP Trap cartridges include the extra high brass heads which offer the best possible containment for the initial firing of the cartridge, the high-density polyethylene wad, and premium PSB powders that have been engineered to produce the highest possible speeds, consistent pressures and ballistics, and unprecedented reliability performances."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "427 mps • 1400 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-trap-0"
+  ]
+}

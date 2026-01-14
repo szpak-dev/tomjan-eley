@@ -1,0 +1,87 @@
+{
+  "id": "eley.eley-tenex-rapid-fire-pistol",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-tenex-rapid-fire-pistol/",
+  "manufacturer": "eley",
+  "category_slug": "pistol",
+  "category_name": "Pistol",
+  "name": "Eley Tenex Rapid Fire Pistol",
+  "name_short": "Tenex Rapid Fire Pistol",
+  "slug": "eley-tenex-rapid-fire-pistol",
+  "model_name": "",
+  "lead": "Using advanced recoil technology, the new tenex rapid fire pistol round is designed to leave your barrel with more control and accuracy than ever before.",
+  "description": [
+    "Advanced recoil technology, the new tenex rapid fire .22LR round has been designed to leave your barrel with even more control and accuracy than ever before. Providing the best transition timing for a greater match score.",
+    "ELEY tenex rapid fire pistol features a new bullet profile designed to work specifically for shooters competing in rapid fire pistol events. It’s extremely consistent recoil technology has been developed to give elite athletes more control and greater accuracy than ever before.",
+    "Bearing the famous tenex name means that tenex rapid fire pistol has been assessed against the strictest suite of analytics.",
+    "With reliable functioning in every round, the cartridge guarantees to meet the minimum velocity requirements for ISSF rapid fire pistol disciplines."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "267m/s-280m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "882ft/s-919ft/s"
+        },
+        {
+          "id": "individual-group-size",
+          "name": "Individual Group Size",
+          "value": "27mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "EP2723"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-rapid-fire-pistol-0"
+  ]
+}

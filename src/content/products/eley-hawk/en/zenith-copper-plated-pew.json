@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.zenith-copper-plated-pew",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-copper-plated-pew",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Zenith Copper Plated PEW",
+  "name_short": "Zenith Copper Plated PEW",
+  "slug": "zenith-copper-plated-pew",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "390 mps • 1279 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-copper-plated-pew-0"
+  ]
+}

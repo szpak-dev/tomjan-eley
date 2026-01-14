@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.vip-steel-pro-eco-wad-20g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-steel-pro-eco-wad-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "VIP Steel Pro Eco Wad 20G",
+  "name_short": "VIP Steel Pro Eco Wad 20G",
+  "slug": "vip-steel-pro-eco-wad-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Pro Eco Wad"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "370 mps • 1216 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-steel-pro-eco-wad-20g-0"
+  ]
+}

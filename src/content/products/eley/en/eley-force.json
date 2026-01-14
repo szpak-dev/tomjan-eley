@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-force",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-force/",
+  "manufacturer": "eley",
+  "category_slug": "recreation",
+  "category_name": "Recreation",
+  "name": "Eley Force",
+  "name_short": "Force",
+  "slug": "eley-force",
+  "model_name": "",
+  "lead": "ELEY force is a high-velocity, semi-automatic .22LR round. Designed for power, its new propellant accelerates the bullet for maximum knock-down force.",
+  "description": [
+    "ELEY force is our high-velocity, semi-automatic .22LR round, engineered for power and performance. Using a purpose-designed propellant with a distributed pressure curve, force accelerates the bullet to supersonic velocity, delivering greater energy on impact and the pronounced kickback shooters expect from a recreational power round.",
+    "Built for shooters who want both impact and accuracy, ELEY force balances punch with precision. Each cartridge is manufactured to tight tolerances, so you get consistent muzzle performance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.7 grams / 42 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "344m/s-381m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1130ft/s-1250ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "7.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Paraffin Wax"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-force-0"
+  ]
+}

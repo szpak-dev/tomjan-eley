@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.grand-prix-high-velocity",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-high-velocity",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Grand Prix High Velocity",
+  "name_short": "Grand Prix High Velocity",
+  "slug": "grand-prix-high-velocity",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The Grand Prix High Velocity 12 gauge has a bigger 32 gram load and increased speeds than the traditional Grand Prix cartridges. For the difficult to hit birds where speed is a necessity, the PSB +1 powder propels shot past that critical 1350 fps.",
+    "“This cartridge is much more than just an established brand. Faster powders and meticulous standards of manufacture ensure Grand Prix sets a pace for those seeking performance” ~",
+    "The Grand Prix Velocity comes in the iconic orange case colour."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "32"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-high-velocity-0"
+  ]
+}

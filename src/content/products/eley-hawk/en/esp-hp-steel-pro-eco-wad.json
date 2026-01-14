@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.esp-hp-steel-pro-eco-wad",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/esp-hp-steel-pro-eco-wad",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "ESP HP Steel Pro Eco Wad",
+  "name_short": "ESP HP Steel Pro Eco Wad",
+  "slug": "esp-hp-steel-pro-eco-wad",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "ESP High Performance Pro Eco Wad is specifically crafted for knock down power, plus being harmless to the environment. Eley ’s ESP High Performance Pro Eco Wad is manufactured to achieve incredible performance for all large, 3” chambered shotguns, while still conforming to CIP regulations.",
+    "Available as 12 gauge 36g 1 shot and 36g 3 shot, loaded in a 76mm case.",
+    "*Only to be used in steel proofed guns. Always check the instructions provided with your gun and always read the instructions provided on the cartridge box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "36"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "1, 3"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Pro Eco Wad"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "435 mps • 1430 fps"
+        },
+        {
+          "id": "nickel-length",
+          "name": "Nickel Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "76 mm • 3 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/esp-hp-steel-pro-eco-wad-0"
+  ]
+}

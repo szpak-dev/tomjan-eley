@@ -1,0 +1,31 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import CategoryPage from "../../../layouts/CategoryPage.astro";
+
+import {
+  manufacturerRepository,
+  translationRepository,
+  productRepository,
+  miscRepository,
+} from "../../../content";
+
+export async function getStaticPaths() {
+  const manufacturers = manufacturerRepository.find();
+  const languages = translationRepository.findAvailableLanguages();
+
+  return languages.flatMap(({ code: lang }) =>
+    manufacturers.map((manufacturer) => ({
+      params: { lang, manufacturer: manufacturer.slug },
+      props: { manufacturer, lang },
+    }))
+  );
+}
+
+const { manufacturer, lang } = Astro.props;
+const products = await productRepository.findProducts(manufacturer.slug, lang);
+const sliderItems = miscRepository.findSliderItems(manufacturer.slug);
+---
+
+<Layout title={`${manufacturer.name}`} lang={lang}>
+  <CategoryPage {manufacturer} {products} {sliderItems} />
+</Layout>

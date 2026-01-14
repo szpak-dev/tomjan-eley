@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.hush-power",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/hush-power",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Hush Power",
+  "name_short": "Hush Power",
+  "slug": "hush-power",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "With fast burning powder and a subsonic delivery, there is a significant drop in the sound generated when firing these cartridges albeit still producing outstanding ballistics. This load is the best solution for grounds with noise restrictions in place.",
+    "“While a helpful volunteer prepared to shoot some samples of this cartridge, I retreated to what I considered a suitable distance to listen to some muffled reports. Not very scientific I grant you, but, yes, at about 250 yards they were considerably quieter. I also shot some Hush Power myself and they broke targets convincingly at some competitive distances.”"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "258 mps • 845 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hush-power-0"
+  ]
+}

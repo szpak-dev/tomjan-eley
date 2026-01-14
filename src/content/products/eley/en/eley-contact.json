@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-contact",
+  "lang": "en",
+  "url": "https://eley.co.uk/eley-contact/",
+  "manufacturer": "eley",
+  "category_slug": "recreation",
+  "category_name": "Recreation",
+  "name": "Eley Contact",
+  "name_short": "Contact",
+  "slug": "eley-contact",
+  "model_name": "",
+  "lead": "ELEY contact is a subsonic semi-automatic .22LR round, delivering extreme accuracy and knock-down performance with a softer sound and minimal recoil.",
+  "description": [
+    "ELEY contact is a purpose-engineered subsonic .22LR for semi-automatic platforms, built for shooters who demand extreme accuracy with a softer report and reduced recoil. Perfect for competition and focused training, contact gives you the control to place shots precisely, whilst enjoying faster follow-up shots as well as a more comfortable shooting experience.",
+    "The lower recoil translates directly into quicker sight-picture recovery, letting competitive semi-automatic shooters re-acquire targets faster and maintain rhythm through strings of fire."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 grams / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-332m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1090ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "7.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Paraffin Wax"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 inch"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-contact-0"
+  ]
+}

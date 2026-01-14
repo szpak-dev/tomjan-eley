@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.grand-prix-20g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Grand Prix 20G",
+  "name_short": "Grand Prix 20G",
+  "slug": "grand-prix-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Smooth shooting, consistent and ballistically sound – they deliver everything you could want from a 25gram load.",
+    "Available in 5 and 6 shot with a 67mm case length."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "25"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-20g-0"
+  ]
+}

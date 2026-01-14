@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.amber-20b",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/amber-20b",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Amber 20b",
+  "name_short": "Amber 20b",
+  "slug": "amber-20b",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "“I was proud to work with The UK's number one cartridge manufacturer to make a cartridge with low recoil, fast powders and magnum 5% antimony shot. The cartridge is fantastic at breaking clays and they have served me so well as I train and compete for Team GB.” ~",
+    "Ensuring that 20 bore users are well catered, Eley Hawk have developed the championship-winning formula of the 12 bore cartridge into the 20 bore. They are loaded in a pastel yellow case with Amber’s signature low recoil system and CSB 2 powders for quick acceleration and blistering clay breaks.",
+    "You’ll struggle to find a better 20 bore clay load."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "402 mps • 1320 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/amber-20b-0"
+  ]
+}

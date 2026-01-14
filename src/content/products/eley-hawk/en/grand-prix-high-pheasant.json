@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.grand-prix-high-pheasant",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-high-pheasant",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Grand Prix High Pheasant",
+  "name_short": "Grand Prix High Pheasant",
+  "slug": "grand-prix-high-pheasant",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "A unique blend of propellants ensures that you will be amazed at the performance on even the toughest of drives.",
+    "“Eley Grand Prix has been doing sterling service on the game field since I don’t know when, and it will do exactly what it says on the tin.”~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-high-pheasant-0"
+  ]
+}

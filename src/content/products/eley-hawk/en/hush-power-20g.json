@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.hush-power-20g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/hush-power-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Hush Power 20G",
+  "name_short": "Hush Power 20G",
+  "slug": "hush-power-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "With low noise they are perfect for beginners to start with as they take their first steps into the sport with the added bonus they reduce the noise in the immediate vicinity around the shooting ground.",
+    "20 Bore hush power is clay product has low recoil PSB 5 L powders inside it to create a progressive burn in the barrel so the initial rapport is reduced as the load is powered up to subsonic speeds. The 24 gram 8 shot load is perfect for most close and middle distance targets."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "317 mps • 1039  fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hush-power-20g-0"
+  ]
+}

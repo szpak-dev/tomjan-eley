@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.vip-game-elite",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-elite",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Game ELITE",
+  "name_short": "VIP Game ELITE",
+  "slug": "vip-game-elite",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "34"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "4, 5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-elite-0"
+  ]
+}

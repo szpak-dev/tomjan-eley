@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.zenith-copper-plated",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-copper-plated",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Zenith Copper Plated",
+  "name_short": "Zenith Copper Plated",
+  "slug": "zenith-copper-plated",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "“Eley Zenith excelled on both the grouse and high pheasants. It was particularly obvious on the long-range birds, which folded convincingly on impact. Carcass inspection has always revealed a clean, quality pattern and a bird fit for the table which is ultimately important. I’ve passed a few boxes of Zenith around for fellow Guns to test them, and the feedback has always been very positive with every one of them asking for more. Zenith is real quality.” ~ Duncan Thomas, BASC.",
+    "Why the copper-coated lead shot delivers such stopping power at all ranges is due to copper’s harder compound which reduces pellet deformation as the shot goes down the barrel and through the choke of the gun. This ensures it maintains a superior pattern during flight, resulting in more shot on target and a bigger impact on the quarry ensuring a clean kill.",
+    "Built for the discerning game shooter in 12 gauge, case lengths are 70mm and are available in true English shot sizes of 4, 5 and 6, and 30, 32 and 36 gram loads."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-copper-plated-0"
+  ]
+}

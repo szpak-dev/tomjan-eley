@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.olympic-blues",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/olympic-blues",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Olympic Blues",
+  "name_short": "Olympic Blues",
+  "slug": "olympic-blues",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "For two generations this has been the perfect choice cartridge for those transitioning into competitive shooting – garnering a following of club shooters and instructors who will shoot nothing else.",
+    "“A favourite of top British Olympic Trap shooters in the 1970s, but they have more than nostalgia to offer. Delivering a muzzle velocity of 1375 fps with a 2¾” case, they will constantly break targets at long ranges and put a smile on the clubman’s face.” ~",
+    "With an extensive range of loads available and wadded in plastic and fibre, this cartridge can cover all disciplines exceptionally well."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5, 8, 9"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/olympic-blues-0"
+  ]
+}

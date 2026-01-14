@@ -1,0 +1,45 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ProductPage from "../../../layouts/ProductPage.astro";
+
+import {
+  manufacturerRepository,
+  translationRepository,
+  productRepository,
+} from "../../../content";
+
+export async function getStaticPaths() {
+  const manufacturers = manufacturerRepository.find();
+  const languages = translationRepository.findAvailableLanguages();
+
+  const paths = [];
+
+  for (const { code: lang } of languages) {
+    for (const manufacturer of manufacturers) {
+      const products = await productRepository.findProducts(
+        manufacturer.slug,
+        lang
+      );
+
+      for (const product of products) {
+        paths.push({
+          params: {
+            lang,
+            manufacturer: manufacturer.slug,
+            product: product.slug,
+          },
+          props: { manufacturer, product, lang },
+        });
+      }
+    }
+  }
+
+  return paths;
+}
+
+const { manufacturer, product, lang } = Astro.props;
+---
+
+<Layout title={`${manufacturer.name}`} lang={lang}>
+  <ProductPage manufacturer={manufacturer} product={product} />
+</Layout>

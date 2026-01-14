@@ -1,15 +1,20 @@
 ---
-import { repository } from "../../content";
-import SplashScreen from "../../layouts/SplashScreen.astro";
+import { translationRepository } from "../../content";
+import Layout from "../../layouts/Layout.astro";
+import FrontPage from "../../layouts/FrontPage.astro";
 
 export async function getStaticPaths() {
-  const languages = await repository.getLanguages();
+  const languages = translationRepository.findAvailableLanguages();
   return languages.map(({ code }) => ({ params: { lang: code } }));
 }
 
-const currentLang = Astro.currentLocale as string;
-const categories = await repository.findCategories(currentLang);
-const metadata = await repository.getMetadata("splashscreen", currentLang);
----
+const { lang } = Astro.params;
+  ---
 
-<SplashScreen meta={metadata} categories={categories} />
+<Layout
+  title={"Grey Hunter - Tomasz Jantos"}
+  mainClass="d-flex flex-column flex-grow-1 justify-content-center"
+  lang={lang}
+>
+  <FrontPage lang={lang} />
+</Layout>

@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.trap-410-21-2-inch",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/trap-410-2-12-inch",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Trap .410 2½-inch",
+  "name_short": "Trap .410 2½-inch",
+  "slug": "trap-410-21-2-inch",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Top marks were given by the coveted Shooting Industry Awards’ evaluators for breaking clays at distance. The concluded: “Packing a genuinely outstanding punch, this .410 load performed beyond expectations. The quality of kills in excess of 30 yards equal any high-performance competition load on both going away targets and typical sporting birds. And whilst these diminutive loads hit as hard as any cartridge you’ll encounter, recoil is – more or less – non-existent.",
+    "“The .410 gun configuration has been given a real boost in popularity thanks to this fantastic cartridge. The specialist powder and magnum shot combine to make them an obvious choice for use in .410 clay competitions.”",
+    "“The new Eley Trap .410 is such a genuinely outstanding load, it could well become solely responsible for whole new levels of appreciation of this oft-maligned and overlooked bore, to an extent I for one have seriously had to re-evaluate my attitude towards .410 shotguns.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "14"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "351 mps • 1150 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/trap-410-21-2-inch-0"
+  ]
+}

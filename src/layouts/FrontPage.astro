@@ -1,0 +1,49 @@
+---
+import { CldImage } from "astro-cloudinary";
+import { makeUrl } from "../libs/url";
+import { manufacturerRepository } from "../content";
+import Card from "../components/ui/Card.astro";
+import Hero from "../components/ui/Hero.astro";
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props;
+const manufacturers = manufacturerRepository.find();
+---
+
+<div class="container">
+  <Hero lang={lang} />
+
+  <div class="row row-cols-1 row-cols-md-2 g-4 animate-stagger">
+    {
+      manufacturers.map((manufacturer) => (
+        <div class="col">
+          <Card 
+            href={makeUrl(Astro, { path: `/${manufacturer.slug}/` })}
+            variant="elevated"
+            animation="lift"
+          >
+            <div
+              slot="body"
+              class="d-flex align-items-center justify-content-center"
+              style="min-height: 280px;"
+            >
+              <CldImage
+                src={manufacturer.logoUrl}
+                alt={manufacturer.name + " logo"}
+                width={380}
+                height={280}
+                crop="pad"
+                gravity="center"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                class="object-fit-contain w-100 h-100"
+              />
+            </div>
+          </Card>
+        </div>
+      ))
+    }
+  </div>
+</div>

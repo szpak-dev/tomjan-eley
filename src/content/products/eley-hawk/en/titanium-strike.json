@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.titanium-strike",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/titanium-strike",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Titanium Strike",
+  "name_short": "Titanium Strike",
+  "slug": "titanium-strike",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "“The ‘nickel effect’ showed itself in the distribution, where the proportion of pellets in the outer 20- to 30-inch zone was bolstered by the central density. The Titanium Strike are superb cartridges; they are definitely correctly billed as premium loads for the serious and dedicated shooter, and are specifically designed to pull back the longest of targets.\" ~",
+    "A few of the main features include: a 25mm nickel-plated head for outstanding cartridge performance and smooth ejection; PSB+ powder specifically engineered in-house for high velocity and ultra-smooth recoil; and an Eley exclusive A-Type Plastic Wad for ultimate recoil reduction and delivery of dense patterns at all ranges."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "455 mps • 1495 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "70 mm • 2 3/4 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/titanium-strike-0"
+  ]
+}

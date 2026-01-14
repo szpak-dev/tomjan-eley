@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-16g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-16g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Game 16G",
+  "name_short": "VIP Game 16G",
+  "slug": "vip-game-16g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Synonymous with the VIP Game range, the 16 bore delivers truly exceptional patterning and ballistics with gentle recoil perfectly suited for all quarry species but is exclusively formulated with a unique blend of PSB+ powders for consistent velocity and pressure.",
+    "Once you shoot with Eley VIP's nothing else is quite the same. Superior patterning and ballistics ensure the best in class performance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "396 mps • 1292 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-16g-0"
+  ]
+}

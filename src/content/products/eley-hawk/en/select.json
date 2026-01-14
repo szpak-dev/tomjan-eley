@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.select",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/select",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "Select",
+  "name_short": "Select",
+  "slug": "select",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Designed with low recoil and crisp firing in mind, the product delivers great ballistics even at range. With multiple loads available – including a light 21g load for beginners, those sensitive to recoil or of a slender build – they are suitable for every discipline.",
+    "“Eley Hawk Select are comfortable to shoot. You will know you could shoot a great many without discomfort – useful for maintaining concentration. Overall the new Select proved able to tackle closer to mid-range targets very well – often these make up most of the targets a Sporting layout, making it a cost-effective choice. These are also smooth operators – try some and you may be pleasantly surprised.” ~",
+    "What makes this cartridge perform in the way it does, is a slightly higher head and very comfortable speed to recoil ratio. The 21g load is ideal for taking lessons and introducing new people to the sport; the 24g load is a good intermediate step-up and a perfect cartridge for simulated clay shoots; and the 28 gram load has been used to great effect by new shooters getting into competitions posting scores they can be proud of.",
+    "The powders used change to match the specific load and fibre or plastic wadding, and the shorter 67mm case allows the cartridge to be safely used in all guns."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1355 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/select-0"
+  ]
+}

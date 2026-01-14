@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.fourten",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/fourten",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Fourten",
+  "name_short": "Fourten",
+  "slug": "fourten",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This classic load for the .410 comes in a 2 inch length and is particularly well suited to the finely balanced 36 gauge.",
+    "“Inside barns and rearing sheds for nesting birds, rats are likely to be a problem. Here I’d suggest the ideal solution is the Eley Hawk two-inch .410, which delivers a 9gm payload of No. 6 shot.”",
+    "Loaded with a very special SSB+ 150 powder the 2” cartridge is ideal for use on ground game and vermin."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "9"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "367 mps • 1207 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "50mm • 2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/fourten-0"
+  ]
+}

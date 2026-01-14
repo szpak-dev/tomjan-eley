@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.ct-20",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/clay-load/ct-20",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Clay Loads",
+  "name": "CT 20",
+  "name_short": "CT 20",
+  "slug": "ct-20",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "With challenging targets and high skill needed for small bore competitions, shooters require a different calibre of cartridge to succeed at these levels. The CT 20 has excellent patterning and ballistics with both plastic and fibre wad options in 70mm and 67mm case lengths to deliver exactly that and ensure suitability for use in older guns.",
+    "“The CT 20 loads were tested thoroughly and – even with a fibre wad load and a half-choke – the results were excellent. They compare favourably with similar 12 bore loads.” ~ Richard Atkins, Clay Shooting Magazine",
+    "Whether you are competing or just getting your eye in before the game season starts, the CT 20 is ‘the perfect choice’ cartridge for 20 gauge users."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Plastic"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "387 mps • 1268 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/ct-20-0"
+  ]
+}

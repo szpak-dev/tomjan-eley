@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-bismuth-16g",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-bismuth-16g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "VIP Bismuth 16G",
+  "name_short": "VIP Bismuth 16G",
+  "slug": "vip-bismuth-16g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This lead alternative works perfectly in all guns proofed to work with lead, and has been proven to be effective in the field since the early 1990s. The unique formulation of the bismuth alloy has many properties similar to lead in terms of density and hardness. The alloy mix also ensures there is a certain malleability, which in turn transfers energy into the target to deliver good knockdown power. Bismuth has no toxic properties and is very safe to handle.",
+    "VIP Bismuth cartridges are an ideal option for mixed-bag pheasant and duck days, all the while using your favourite old English gun. If you only occasionally go wildfowling, they represent a cost-effective solution to investing in a new steel-proofed gun.",
+    "“A number of drives produced superlative birds. The bismuth loads killed cleanly and consistently – by midmorning everybody had completely forgotten that they were using a lead alternative.” ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "26.5"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "396 mps • 1292 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "67 mm • 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-bismuth-16g-0"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.grand-prix-traditional-paper-case",
+  "lang": "en",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-traditional-paper-case",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Game Loads",
+  "name": "Grand Prix Traditional Paper Case",
+  "name_short": "Grand Prix Traditional Paper Case",
+  "slug": "grand-prix-traditional-paper-case",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Load (gram)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Shot Size",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Wad",
+          "value": "Fibre"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Muzzle Velocity",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Brass Length",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Case Length",
+          "value": "65 mm • True 2 1/2 inches"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-traditional-paper-case-0"
+  ]
+}
