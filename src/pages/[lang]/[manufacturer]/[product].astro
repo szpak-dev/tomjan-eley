@@ -41,5 +41,5 @@ const { manufacturer, product, lang } = Astro.props;
 ---
 
 <Layout title={`${manufacturer.name}`} lang={lang}>
-  <ProductPage manufacturer={manufacturer} product={product} />
+  <ProductPage {lang} manufacturer={manufacturer} product={product} />
 </Layout>

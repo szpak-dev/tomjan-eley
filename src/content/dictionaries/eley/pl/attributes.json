@@ -1,0 +1,19 @@
+{
+    "available-diameters": "Available Diameters",
+    "ballistic-coefficient": "Ballistic Coefficient",
+    "bullet-profile": "Bullet Profile",
+    "bullet-weight": "Bullet Weight",
+    "cartridge-length": "Cartridge Length",
+    "drag-model": "Drag Model",
+    "individual-group-size": "Individual Group Size",
+    "lubricant": "Lubricant",
+    "max-radial-standard-deviation": "Max Radial Standard Deviation",
+    "mean-velocity-ft-s": "Mean velocity ft/s",
+    "mean-velocity-m-s": "Mean Velocity m/s",
+    "packaging": "Packaging",
+    "pellet-profile": "Pellet Profile",
+    "pellet-weight": "Pellet Weight",
+    "recommended-head-space": "Recommended Head space",
+    "strike-depth": "Strike Depth",
+    "weight-control": "Weight Control"
+}

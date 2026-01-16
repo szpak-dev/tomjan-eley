@@ -1,0 +1,418 @@
+{
+    "eley-hawk.alpha-elite-bird-shot": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "381 mps • 1250 fps • Power factor 518",
+        "shot-size": "7.5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.amber": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "21",
+        "muzzle-velocity": "419 mps • 1375 fps",
+        "shot-size": "8",
+        "wad": "Plastik"
+    },
+    "eley-hawk.amber-20b": {
+        "brass-length": "12mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "21",
+        "muzzle-velocity": "402 mps • 1320 fps",
+        "shot-size": "8",
+        "wad": "Włókno"
+    },
+    "eley-hawk.ct-20": {
+        "brass-length": "12mm",
+        "case-length": "67mm • 2 1/2 cali",
+        "load-gram": "21",
+        "muzzle-velocity": "387 mps • 1268 fps",
+        "shot-size": "7.5, 8",
+        "wad": "Plastik"
+    },
+    "eley-hawk.dtl-gold": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "411 mps • 1350 fps",
+        "shot-size": "7.5, 8",
+        "wad": "Plastik"
+    },
+    "eley-hawk.esp-hp-steel-pro-eco-wad": {
+        "case-length": "76 mm • 3 cali",
+        "load-gram": "36",
+        "muzzle-velocity": "435 mps • 1430 fps",
+        "nickel-length": "16mm",
+        "shot-size": "1, 3",
+        "wad": "Pro Eco Wad"
+    },
+    "eley-hawk.extra-long": {
+        "brass-length": "16mm",
+        "case-length": "76 mm • 3 cali",
+        "load-gram": "18",
+        "muzzle-velocity": "326 mps • 1070 fps",
+        "shot-size": "5, 6, 7",
+        "wad": "Włókno"
+    },
+    "eley-hawk.fourlong": {
+        "brass-length": "8mm",
+        "case-length": "65mm • 2 1/2 cali",
+        "load-gram": "12.5",
+        "muzzle-velocity": "329 mps • 1080 fps",
+        "shot-size": "5, 6, 7",
+        "wad": "Włókno"
+    },
+    "eley-hawk.fourten": {
+        "brass-length": "8mm",
+        "case-length": "50mm • 2 cali",
+        "load-gram": "9",
+        "muzzle-velocity": "367 mps • 1207 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.gp-traditional-steel-pro-eco": {
+        "brass-length": "10mm",
+        "case-length": "65 mm • True 2 1/2 cali",
+        "load-gram": "30",
+        "muzzle-velocity": "361 mps • 1186 fps",
+        "shot-size": "4",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.grand-prix-20g": {
+        "brass-length": "8mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "25",
+        "muzzle-velocity": "361 mps • 1186 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.grand-prix-high-pheasant": {
+        "brass-length": "16mm",
+        "case-length": "65 mm 2 1/2 cali",
+        "load-gram": "30",
+        "muzzle-velocity": "420 mps • 1377 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.grand-prix-high-velocity": {
+        "brass-length": "16mm",
+        "case-length": "65 mm • 2 1/2 cali",
+        "load-gram": "32",
+        "muzzle-velocity": "420 mps • 1377 fps",
+        "shot-size": "5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.grand-prix-traditional": {
+        "brass-length": "10mm",
+        "case-length": "65 mm • True 2 1/2 cali",
+        "load-gram": "30",
+        "muzzle-velocity": "361 mps • 1186 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.grand-prix-traditional-paper-case": {
+        "brass-length": "16mm",
+        "case-length": "65 mm • True 2 1/2 cali",
+        "load-gram": "30",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.hi-flyer": {
+        "brass-length": "10mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "404 mps • 1324 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.hi-flyer-20g": {
+        "brass-length": "8mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "361 mps • 1186 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.hush-power": {
+        "brass-length": "10mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "258 mps • 845 fps",
+        "shot-size": "7.5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.hush-power-20g": {
+        "brass-length": "12mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "317 mps • 1039  fps",
+        "shot-size": "7.5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.impax": {
+        "brass-length": "16mm",
+        "case-length": "65 mm • True 2 1/2 cali",
+        "load-gram": "28 Paper Case",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.impax-traditional": {
+        "brass-length": "10mm",
+        "case-length": "65 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "418 mps • 1373 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.olympic-blues": {
+        "brass-length": "12mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "419 mps • 1375 fps",
+        "shot-size": "7.5, 8, 9",
+        "wad": "Plastik"
+    },
+    "eley-hawk.pigeon-hv": {
+        "brass-length": "12mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "32",
+        "muzzle-velocity": "420 mps • 1377 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.pigeon-select": {
+        "brass-length": "10mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "30",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.select": {
+        "brass-length": "12mm",
+        "case-length": "65 mm • 2 1/2 cali",
+        "load-gram": "21",
+        "muzzle-velocity": "413 mps • 1355 fps",
+        "shot-size": "7.5, 8",
+        "wad": "Plastik"
+    },
+    "eley-hawk.superb": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "419 mps • 1375 fps",
+        "shot-size": "7, 8, 9",
+        "wad": "Plastik"
+    },
+    "eley-hawk.titanium-strike": {
+        "brass-length": "25mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "455 mps • 1495 fps",
+        "shot-size": "7.5",
+        "wad": "Plastik"
+    },
+    "eley-hawk.trap-410-21-2-inch": {
+        "brass-length": "8mm",
+        "case-length": "65 mm • 2 1/2 cali",
+        "load-gram": "14",
+        "muzzle-velocity": "351 mps • 1150 fps",
+        "shot-size": "7.5",
+        "wad": "Plastik"
+    },
+    "eley-hawk.trap-410-3-inch": {
+        "brass-length": "16mm",
+        "case-length": "76 mm • 3 cali",
+        "load-gram": "19",
+        "muzzle-velocity": "335 mps • 1100 fps",
+        "shot-size": "7.5",
+        "wad": "Plastik"
+    },
+    "eley-hawk.vip-bismuth": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "426 mps • 1398 fps",
+        "shot-size": "5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-bismuth-16g": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "26.5",
+        "muzzle-velocity": "396 mps • 1292 fps",
+        "shot-size": "5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-bismuth-20g": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "25",
+        "muzzle-velocity": "370 mps • 1216 fps",
+        "shot-size": "5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-federation": {
+        "brass-length": "25mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "434 mps • 1425 fps",
+        "shot-size": "6.5, 7.5, 8",
+        "wad": "Plastik"
+    },
+    "eley-hawk.vip-game": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "4, 5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-game-16g": {
+        "brass-length": "10mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "396 mps • 1292 fps",
+        "shot-size": "5, 6, 7",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-game-20g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "367 mps • 1207 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-game-28g": {
+        "brass-length": "8mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "16",
+        "muzzle-velocity": "409 mps • 1343 fps",
+        "shot-size": "6, 7",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-game-elite": {
+        "brass-length": "16mm",
+        "case-length": "67 mm • 2 1/2 cali",
+        "load-gram": "34",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "4, 5",
+        "wad": "Włókno"
+    },
+    "eley-hawk.vip-lightning-steel": {
+        "brass-length": "16mm",
+        "case-length": "76 mm • 3 cali",
+        "load-gram": "36",
+        "muzzle-velocity": "435 mps • 1430 fps",
+        "shot-size": "1, 3",
+        "wad": "Plastik"
+    },
+    "eley-hawk.vip-steel": {
+        "brass-length": "12mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "420 mps • 1377 fps",
+        "shot-size": "5",
+        "wad": "Plastik"
+    },
+    "eley-hawk.vip-steel-pew": {
+        "brass-length": "12mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "32",
+        "muzzle-velocity": "412 mps • 1279 fps",
+        "shot-size": "4, 5",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.vip-steel-pew-20g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "370 mps • 1216 fps",
+        "shot-size": "4",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.vip-steel-pro-eco-wad-12g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "423 mps • 1312 fps",
+        "shot-size": "7",
+        "wad": "Pro Eco Wad"
+    },
+    "eley-hawk.vip-steel-pro-eco-wad-20g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 1/2 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "370 mps • 1216 fps",
+        "shot-size": "7",
+        "wad": "Pro Eco Wad"
+    },
+    "eley-hawk.vip-trap": {
+        "brass-length": "25mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "427 mps • 1400 fps",
+        "shot-size": "7.5",
+        "wad": "Plastik"
+    },
+    "eley-hawk.zenith-bismuth-pew": {
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "32",
+        "muzzle-velocity": "385 mps • 1263 fps",
+        "nickel-length": "16mm",
+        "shot-size": "4",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.zenith-bismuth-pew-20g": {
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "370 mps • 1213 fps",
+        "nickel-length": "16mm",
+        "shot-size": "4, 5",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.zenith-copper-plated": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "413 mps • 1356 fps",
+        "shot-size": "6, 7",
+        "wad": "Włókno"
+    },
+    "eley-hawk.zenith-copper-plated-20g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "391 mps • 1282 fps",
+        "shot-size": "5, 6",
+        "wad": "Włókno"
+    },
+    "eley-hawk.zenith-copper-plated-pew": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "390 mps • 1279 fps",
+        "shot-size": "5",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.zenith-steel-pew": {
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "28",
+        "muzzle-velocity": "375 mps • 1230 fps",
+        "nickel-length": "12mm",
+        "shot-size": "5",
+        "wad": "PRO ECO"
+    },
+    "eley-hawk.zenith-steel-pew-20g": {
+        "brass-length": "16mm",
+        "case-length": "70 mm • 2 3/4 cali",
+        "load-gram": "24",
+        "muzzle-velocity": "375 mps • 1230 fps",
+        "shot-size": "4",
+        "wad": "PRO ECO"
+    }
+}

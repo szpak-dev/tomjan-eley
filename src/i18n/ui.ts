@@ -13,9 +13,10 @@ export const ui = {
         'Air Pellet': 'Air Pellet',
         'Rimfire': 'Rimfire',
         'Specification': 'Specification',
+        'Description': 'Description',
         'Home': 'Home',
         'footer.contact': 'Contact',
-        'footer.followUs': 'Follow us',
+        'footer.followUs': 'Follow Me',
         'footer.allRightsReserved': 'All rights reserved.',
     },
     pl: {
@@ -25,9 +26,10 @@ export const ui = {
         'Air Pellet': 'Śrut powietrzny',
         'Rimfire': 'Boczny zapłon',
         'Specification': 'Specyfikacja',
+        'Description': 'Opis',
         'Home': 'Strona Główna',
         'footer.contact': 'Kontakt',
-        'footer.followUs': 'Śledź nas',
+        'footer.followUs': 'Obserwuj',
         'footer.allRightsReserved': 'Wszelkie prawa zastrzeżone.',
     },
 } as const;
