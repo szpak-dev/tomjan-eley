@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Game 20G",
+  "name_short": "VIP Game 20G",
+  "slug": "vip-game-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Dla osób o lżejszej budowie ciała, polujących z podchodu lub pragnących szybszej manewrowości strzelby kalibru 20, nabój VIP Game 20 sprosta Twoim potrzebom. Ładunek 28 i 30 gramów z przybitką pilśniową da Ci uniwersalny nabój zapewniający znakomite wyniki niezależnie od gatunku zwierzyny. Doskonałe pokrycie i balistyka są synonimem tej serii, gwarantując najlepsze osiągi w klasie.",
+    "Gdy raz strzelisz z Eley VIP, nic innego nie będzie już takie samo. Doskonałe pokrycie i balistyka zapewniają najlepsze osiągi w swojej klasie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "367 mps • 1207 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-20g-0"
+  ]
+}

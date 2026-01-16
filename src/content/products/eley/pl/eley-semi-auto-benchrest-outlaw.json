@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-semi-auto-benchrest-outlaw",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-semi-auto-benchrest-outlaw/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Semi-Auto Benchrest Outlaw",
+  "name_short": "Semi-Auto Benchrest Outlaw",
+  "slug": "eley-semi-auto-benchrest-outlaw",
+  "model_name": "",
+  "lead": "Accuracy without boundaries. ELEY semi-auto benchrest outlaw is redefining what shooters can expect from entry-level precision ammunition. Designed to deliver outstanding accuracy and reliability, outlaw gives benchrest shooters the confidence to train as well as compete with a round that performs far beyond its class. Engineered with the same attention to detail that defines ELEY’s world-leading",
+  "description": [
+    "ELEY semi-auto benchrest outlaw na nowo definiuje oczekiwania wobec amunicji precyzyjnej klasy podstawowej. Zaprojektowana z myślą o znakomitej celności i niezawodności, outlaw daje strzelcom benchrest pewność zarówno podczas treningu, jak i rywalizacji, oferując osiągi znacznie wykraczające poza swoją klasę.",
+    "Opracowana z taką samą dbałością o detale, jaka charakteryzuje światowej klasy amunicję tarczową ELEY, outlaw zapewnia doskonałe parametry balistyki wewnętrznej i wyjątkową powtarzalność strzał po strzale. Każdy nabój gwarantuje płynne wprowadzanie do komory, stabilny lot i przewidywalne wyniki, czyniąc go idealnym wyborem dla strzelców wkraczających w świat benchrest."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.69 gramów / 42 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-332m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1090ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "7.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "EP2723"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-semi-auto-benchrest-outlaw-0"
+  ]
+}

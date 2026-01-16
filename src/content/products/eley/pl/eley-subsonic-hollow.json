@@ -1,0 +1,86 @@
+{
+  "id": "eley.eley-subsonic-hollow",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-subsonic-hollow/",
+  "manufacturer": "eley",
+  "category_slug": "hunting",
+  "category_name": "Myślistwo",
+  "name": "Eley Subsonic Hollow",
+  "name_short": "Subsonic Hollow",
+  "slug": "eley-subsonic-hollow",
+  "model_name": "",
+  "lead": "ELEY subsonic hollow has target shooting accuracy and reduced velocity to offer a quieter muzzle report compared to other .22LR hunting rounds.",
+  "description": [
+    "ELEY subsonic hollow to amunicja myśliwska oferująca celność strzelecką klasy tarczowej przy obniżonej prędkości, zapewniająca cichszy huk wylotowy w porównaniu z innymi myśliwskimi nabojami .22LR.",
+    "Dzięki innowacyjnemu profilowi pocisku typu hollow-point, ELEY subsonic hollow zapewnia niezrównane właściwości ekspansji, skutkujące krótką penetracją i znakomitą siłą obalającą – kluczowymi cechami w zwalczaniu szkodników.",
+    "Coraz popularniejsza wśród strzelców sportowych i profesjonalnych deratyzatorów, ELEY subsonic hollow jest uznawana za jedną z najcichszych i najcelniejszych subsonicznych amunicji dostępnych na rynku."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Hollow-point"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.46 gramów / 38 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "305m/s-317m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1000ft/s-1040ft/s"
+        },
+        {
+          "id": "individual-group-size",
+          "name": "Individual Group Size",
+          "value": "43mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Wosk Parafinowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-subsonic-hollow-0"
+  ]
+}

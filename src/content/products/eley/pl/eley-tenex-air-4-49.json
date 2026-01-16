@@ -1,0 +1,56 @@
+{
+  "id": "eley.eley-tenex-air-4-49",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-tenex-air-4-49/",
+  "manufacturer": "eley",
+  "category_slug": "air-pellets",
+  "category_name": "Śrut pneumatyczny",
+  "name": "Eley Tenex Air 4.49",
+  "name_short": "Tenex Air 4.49",
+  "slug": "eley-tenex-air-4-49",
+  "model_name": "",
+  "lead": "ELEY tenex air pellets deliver exceptional accuracy, 30% greater weight control than any competitor, and damage-resistant packaging.",
+  "description": [
+    "W ramach szeroko zakrojonego programu badań i rozwoju, ELEY zidentyfikowało kluczowe czynniki wpływające na wyniesienie śrutu pneumatycznego na wyższy poziom celności. Profil śrutu, spójność wymiarowa oraz kontrola masy okazały się kluczowymi parametrami wpływającymi na precyzję i powtarzalność.",
+    "Każdy element produktu i procesu produkcyjnego został precyzyjnie zaprojektowany, aby zapewnić osiągi na poziomie medalowym na arenie światowej. Efektem jest ELEY tenex air – śrut ucieleśniający bezkompromisowe podejście ELEY do celności i jakości.",
+    "Niezrównana precyzja strzał po strzale."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "pellet-profile",
+          "name": "Pellet Profile",
+          "value": "Flat-head"
+        },
+        {
+          "id": "pellet-weight",
+          "name": "Pellet Weight",
+          "value": "0.531 gramów / 8.2 grains"
+        },
+        {
+          "id": "available-diameters",
+          "name": "Available Diameters",
+          "value": "4.49/4.50/4.51"
+        },
+        {
+          "id": "weight-control",
+          "name": "Weight Control",
+          "value": "30% lepsze wyniki niż u innych marek"
+        },
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Odporny na uszkodzenia, zamykalna"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-air-4-49-0"
+  ]
+}

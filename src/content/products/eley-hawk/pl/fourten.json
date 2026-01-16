@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.fourten",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/fourten",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Fourten",
+  "name_short": "Fourten",
+  "slug": "fourten",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Ten klasyczny ładunek do kalibru .410 ma długość 2 cali i jest szczególnie dobrze dopasowany do precyzyjnie wyważonego kalibru 36.",
+    "„Wewnątrz stodół i szop hodowlanych dla ptactwa, szczury mogą stanowić problem. Tutaj sugerowałbym idealne rozwiązanie, jakim jest dwucalowy Eley Hawk .410, który dostarcza 9-gramowy ładunek śrutu nr 6”.",
+    "Załadowany bardzo specjalnym prochem SSB+ 150, ten 2-calowy nabój idealnie nadaje się do polowań na zwierzynę drobną i szkodniki."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "9"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "367 mps • 1207 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "50mm • 2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/fourten-0"
+  ]
+}

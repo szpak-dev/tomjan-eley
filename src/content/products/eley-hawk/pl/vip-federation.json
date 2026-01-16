@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.vip-federation",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-federation",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "VIP Federation",
+  "name_short": "VIP Federation",
+  "slug": "vip-federation",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Będąc częścią linii VIP firmy Eley – która stała się punktem odniesienia dla nabojów wysokiej jakości – VIP Federation składa się wyłącznie z najlepszych komponentów i prochów zmieszanych dla uzyskania dużej siły rażenia. Wszystko to osiągnięto dzięki zastosowaniu specjalnej wolnej spłonki i unikalnej mieszanki prochu opracowanej w celu zapewnienia płynnego przyspieszenia i wyższych prędkości."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6.5, 7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "434 mps • 1425 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-federation-0"
+  ]
+}

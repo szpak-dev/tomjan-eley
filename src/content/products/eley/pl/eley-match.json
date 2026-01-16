@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-match",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-match/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Match",
+  "name_short": "Match",
+  "slug": "eley-match",
+  "model_name": "",
+  "lead": "ELEY match is renowned amongst elite competition shooters for its excellent accuracy and performance, benefiting from the patented flat nose profile.",
+  "description": [
+    "ELEY match zajmuje drugie miejsce w świecie celności i osiągów .22LR, ustępując jedynie ELEY tenex, który jest numerem jeden. Nabój ten korzysta z opatentowanego płaskiego profilu czoła pocisku oraz przycinanej krawędzi łuski, co zapewnia spójne parametry balistyki wewnętrznej.",
+    "Każdy nabój jest sprawdzany za pomocą zestawu procesów analitycznych, w tym komputerowo sterowanej kontroli wizualnej oraz precyzyjnie skalibrowanych przyrządów pomiarowych, nadzorowanych przez niezwykle dokładnych i skrupulatnych inżynierów."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Flat-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 gramów / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-330m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1085ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "4.74mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Łój Woskowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-match-0"
+  ]
+}

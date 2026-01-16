@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.hush-power-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/hush-power-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Hush Power 20G",
+  "name_short": "Hush Power 20G",
+  "slug": "hush-power-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Dzięki niskiemu poziomowi hałasu idealnie nadają się dla początkujących, stawiających pierwsze kroki w sporcie, z dodatkową zaletą w postaci mniejszego hałasu w bezpośrednim sąsiedztwie strzelnicy.",
+    "Hush Power kalibru 20 do rzutków charakteryzuje się niskim odrzutem; zastosowano w nim prochy PSB 5 L, aby uzyskać progresywne spalanie w lufie, dzięki czemu początkowy huk jest zredukowany, gdy ładunek nabiera prędkości podźwiękowej. 24-gramowy ładunek śrutu nr 8 jest idealny dla większości celów na krótkim i średnim dystansie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "317 mps • 1039  fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hush-power-20g-0"
+  ]
+}

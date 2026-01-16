@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.impax-traditional",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/impax-traditional",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Impax Traditional",
+  "name_short": "Impax Traditional",
+  "slug": "impax-traditional",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Jako prawdziwy angielski klasyk, Impax jest najdelikatniejszym nabojem myśliwskim do polowań na pardwy, ładowanym 28-gramowym śrutem nr 6 i 7. Wersja w papierowej łusce – patrz Impax Traditional – jest lakierowana przy użyciu dawno ustalonej metody Eley „Pegamoid”, zanurzana i suszona do perfekcji, aby zwiększyć trwałość i zapobiec naturalnemu wnikaniu wody przy zmianach wilgotności. To prawdziwe dzieło sztuki.",
+    "„Ładunek Impax od Eley to mój idealny wybór z oferty tej firmy. Jednouncjowy ładunek wielokrotnie sprawdzał się przez wiele lat produkcji. Ten ładunek mógłby zostać zaprojektowany z myślą o kuropatwach – łagodne, progresywne spalanie prochu zapewnia doskonałe osiągi przy ciśnieniu w lufie, które pokocha Twoja cenna dubeltówka”. ~ Charlie Bull, justcartridges.com"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "418 mps • 1373 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/impax-traditional-0"
+  ]
+}

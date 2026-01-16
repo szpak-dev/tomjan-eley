@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.amber-20b",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/amber-20b",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Amber 20b",
+  "name_short": "Amber 20b",
+  "slug": "amber-20b",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "„Byłam dumna, mogąc współpracować z numerem jeden wśród brytyjskich producentów amunicji, aby stworzyć nabój o niskim odrzucie, z szybkim prochem i śrutem magnum z 5% zawartością antymonu. Ten nabój fantastycznie rozbija rzutki i służył mi doskonale podczas treningów i zawodów w barwach Team GB”. ~",
+    "Dbając o to, aby użytkownicy „dwudziestek” byli dobrze obsłużeni, firma Eley Hawk przeniosła zwycięską formułę naboju kalibru 12 do kalibru 20. Są one ładowane w pastelowożółte łuski z charakterystycznym dla linii Amber systemem niskiego odrzutu i prochem CSB 2, zapewniającym szybkie przyspieszenie i błyskawiczne rozbijanie rzutków.",
+    "Trudno będzie znaleźć lepszy nabój sportowy w kalibrze 20."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "402 mps • 1320 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/amber-20b-0"
+  ]
+}

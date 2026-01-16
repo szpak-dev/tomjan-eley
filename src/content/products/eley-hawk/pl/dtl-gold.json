@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.dtl-gold",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/dtl-gold",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "DTL Gold",
+  "name_short": "DTL Gold",
+  "slug": "dtl-gold",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Dzięki zastosowaniu prochów opracowanych w celu zmniejszenia odrzutu, co minimalizuje zmęczenie podczas zawodów i redukuje podrzut lufy przy kluczowym drugim strzale, w połączeniu z bardzo twardym śrutem i gęstym pokryciem, które zamienia rzutki w pył na najwyższym poziomie rywalizacji, wierzymy, że DTL Gold jest ostatecznym nabojem do tej dyscypliny.",
+    "„Eley Hawk DTL Gold był bez wątpienia czynnikiem decydującym o moim zajęciu pierwszego miejsca w rankingu CPSA. Ta dodatkowa powtarzalność była tym, czego potrzebowałem, aby trafić na szczyt tabeli”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "411 mps • 1350 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/dtl-gold-0"
+  ]
+}

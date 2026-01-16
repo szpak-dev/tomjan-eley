@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-lightning-steel",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-lightning-steel",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Lightning Steel",
+  "name_short": "VIP Lightning Steel",
+  "slug": "vip-lightning-steel",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Unikalny proch SSB+ 150 doskonale sprawdza się nawet w wilgotnych warunkach i został specjalnie opracowany, aby zapewnić doskonałą balistykę przy ładunkach stalowych. VIP Lightning Steel pozwala strzelać na wybitnych dystansach z przekonującą siłą obalającą nawet w przypadku największych gatunków ptactwa wodnego. Idealny ładunek do wszystkich dużych półautomatów śrutowych z komorą 3\".",
+    "„Eley VIP Lightning Steel o wadze 36 gramów, śrut nr 3, to dobry ładunek na kaczki lub gęsi. Zdecydowanie uderzają mocno. Na 30 jardach z czokiem ¾ miałem 132 śruciny na tarczy kontrolnej”. ~ Bruce Potts, Gun Mart",
+    "*Do użytku wyłącznie w broni przystosowanej do strzelania stalą. Zawsze sprawdzaj instrukcje dołączone do broni, a jeśli nie masz pewności, czy jest odpowiednia, skontaktuj się z lokalnym rusznikarzem w celu uzyskania porady."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "36"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "1, 3"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "435 mps • 1430 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "76 mm • 3 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-lightning-steel-0"
+  ]
+}

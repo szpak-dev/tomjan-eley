@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-trap",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-trap",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "VIP Trap",
+  "name_short": "VIP Trap",
+  "slug": "vip-trap",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Dzięki dużym prędkościom i szerokiej gamie rozmiarów śrutu, firma Eley Hawk zapewniła konfigurację odpowiednią dla wszystkich dyscyplin Trap – od DTL i ABT po Universal Trench i Olympic Trap. Tam, gdzie potrzebujesz prędkości, aby zapewnić szybkie rozbicie nawet najtrudniejszych rzutków, możesz polegać na nabojach VIP Trap, które zapewnią zwycięskie wyniki.",
+    "„Eley VIP wygrywa powtarzalnością osiągów, a ich zdolność do trafienia najbardziej oddalonych ptaków przy drugim strzale jest legendarna. Obserwowana prędkość rzadko spada poniżej 1150 fps, podczas gdy jakość i jednolitość komponentów – zwłaszcza śrutu 7½ – wzmacnia pewność siebie przy pokryciu nigdy nie mniejszym niż 92%”. ~",
+    "Kilka powodów, dla których warto wybrać naboje Eley VIP Trap, to m.in. ekstra wysokie mosiężne okucia, które oferują najlepsze możliwe uszczelnienie przy wystrzale, przybitka z polietylenu o wysokiej gęstości oraz prochy PSB premium, które zostały opracowane w celu uzyskania najwyższych możliwych prędkości, stałych ciśnień i balistyki oraz bezprecedensowej niezawodności."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "427 mps • 1400 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-trap-0"
+  ]
+}

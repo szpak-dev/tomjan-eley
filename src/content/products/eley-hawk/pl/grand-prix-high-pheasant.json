@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.grand-prix-high-pheasant",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-high-pheasant",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Grand Prix High Pheasant",
+  "name_short": "Grand Prix High Pheasant",
+  "slug": "grand-prix-high-pheasant",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Unikalna mieszanka materiałów pędnych sprawia, że będziesz zdumiony wydajnością nawet podczas najtrudniejszych pędzeń.",
+    "„Eley Grand Prix służy dzielnie na polowaniach, odkąd pamiętam, i robi dokładnie to, co obiecuje producent”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-high-pheasant-0"
+  ]
+}

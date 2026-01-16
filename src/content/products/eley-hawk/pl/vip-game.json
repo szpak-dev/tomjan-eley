@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-game",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Game",
+  "name_short": "VIP Game",
+  "slug": "vip-game",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Naboje VIP Game zapewniają powtarzalne pokrycie przy dużych prędkościach i komfortowym odrzucie, co gwarantuje czyste trafienia na imponujących dystansach. Nawet po całym dniu intensywnego strzelania, dzięki prochem klasy premium, znajdziesz minimalną ilość osadu w lufach.",
+    "„Dostarczają wszystkiego, czego można chcieć od naboju myśliwskiego: wybitne pokrycie, duże prędkości, przekonująca siła obalająca, niski odrzut i stała jakość. W ciągu ostatnich trzech lat zużyliśmy w Linhope ponad 100 000 sztuk VIP-ów bez ani jednego niewypału. Imponująca jakość”. ~ Lord James Percy, znany strzelec myśliwski",
+    "Gdy raz strzelisz z Eley VIP, nic innego nie będzie już takie samo. Doskonałe pokrycie i balistyka zapewniają najlepsze osiągi w swojej klasie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "4, 5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-0"
+  ]
+}

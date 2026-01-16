@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.zenith-copper-plated",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-copper-plated",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Zenith Copper Plated",
+  "name_short": "Zenith Copper Plated",
+  "slug": "zenith-copper-plated",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "„Eley Zenith świetnie sprawdził się zarówno na pardwach, jak i wysokich bażantach. Było to szczególnie widoczne przy ptakach na dalekim dystansie, które składały się przekonująco przy uderzeniu. Inspekcja tuszy zawsze wykazywała czyste, dobre pokrycie i ptaka nadającego się na stół, co jest ostatecznie najważniejsze. Przekazałem kilka pudełek Zenith kolegom do przetestowania i opinie zawsze były bardzo pozytywne, a każdy z nich pytał o więcej. Zenith to prawdziwa jakość”. ~ Duncan Thomas, BASC.",
+    "Dlaczego miedziowany śrut ołowiany zapewnia taką siłę rażenia przy"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-copper-plated-0"
+  ]
+}

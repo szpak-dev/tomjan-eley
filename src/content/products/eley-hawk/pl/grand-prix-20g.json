@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.grand-prix-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Grand Prix 20G",
+  "name_short": "Grand Prix 20G",
+  "slug": "grand-prix-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Płynne strzelanie, powtarzalność i nienaganna balistyka – dostarczają wszystkiego, czego można oczekiwać od 25-gramowego ładunku.",
+    "Dostępne ze śrutem nr 5 i 6, o długości łuski 67 mm."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "25"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-20g-0"
+  ]
+}

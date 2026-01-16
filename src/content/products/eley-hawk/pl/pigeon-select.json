@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.pigeon-select",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/pigeon-select",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Pigeon Select",
+  "name_short": "Pigeon Select",
+  "slug": "pigeon-select",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Eley Hawk Pigeon Select został specjalnie zaprojektowany, aby zapewnić osiągi wymagane przez nowoczesnego strzelca polującego na gołębie, szukającego optymalnego naboju do użytku podczas polowań na miejscach noclegowych, z bałwankami i na przelotach, w konkurencyjnej cenie.",
+    "„Zawsze pamiętam wyjścia w teren z moim tatą i strzelanie nabojami Eley. Nauczył mnie tak wiele i lubię myśleć, że kontynuuję te wyjątkowe chwile z moim synem i Pigeon Select”. ~",
+    "Od momentu premiery nabój ten wielokrotnie udowadniał swoją siłę w terenie, zapewniając czyste i skuteczne trafienia nad bałwankami i podczas polowań na miejscach noclegowych. Technicznie jest to najbardziej opłacalny ładunek, jaki firma Eley wyprodukowała do tej pory, przy użyciu wysokiej jakości przybitek pilśniowych i innych komponentów. Co istotne, nabój ten posiada pełny 30-gramowy ładunek z prawdziwym śrutem nr 6, idealny na gołębie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "413 mps • 1356 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/pigeon-select-0"
+  ]
+}

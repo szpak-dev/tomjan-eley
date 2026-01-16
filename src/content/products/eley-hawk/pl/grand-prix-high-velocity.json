@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.grand-prix-high-velocity",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-high-velocity",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Grand Prix High Velocity",
+  "name_short": "Grand Prix High Velocity",
+  "slug": "grand-prix-high-velocity",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Grand Prix High Velocity kalibru 12 ma większy ładunek 32 gramów i wyższe prędkości niż tradycyjne naboje Grand Prix. Dla trudnych do trafienia ptaków, gdzie prędkość jest koniecznością, proch PSB+1 nadaje śrutowi prędkość przekraczającą krytyczne 1350 stóp na sekundę.",
+    "„Ten nabój to znacznie więcej niż tylko uznana marka. Szybsze prochy i drobiazgowe standardy produkcji gwarantują, że Grand Prix wyznacza tempo dla tych, którzy szukają wydajności”. ~",
+    "Grand Prix Velocity jest dostępny w kultowym pomarańczowym kolorze łuski."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "32"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "420 mps • 1377 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-high-velocity-0"
+  ]
+}

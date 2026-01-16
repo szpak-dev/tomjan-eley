@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.olympic-blues",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/olympic-blues",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Olympic Blues",
+  "name_short": "Olympic Blues",
+  "slug": "olympic-blues",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Od dwóch pokoleń jest to idealny wybór dla osób przechodzących do strzelectwa wyczynowego – zyskując rzeszę zwolenników wśród strzelców klubowych i instruktorów, którzy nie strzelają z niczego innego.",
+    "„Ulubieniec czołowych brytyjskich strzelców Olympic Trap w latach 70., ale oferuje on więcej niż tylko nostalgię. Zapewniając prędkość wylotową 1375 fps w łusce 2¾”, będzie konsekwentnie rozbijać rzutki na dalekich dystansach i wywoływać uśmiech na twarzy klubowicza”. ~",
+    "Dzięki szerokiej gamie dostępnych naważek i przybitkom plastikowym lub pilśniowym, nabój ten wyjątkowo dobrze obsługuje wszystkie dyscypliny."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5, 8, 9"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/olympic-blues-0"
+  ]
+}

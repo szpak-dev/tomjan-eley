@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.grand-prix-traditional",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/grand-prix-traditional",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Grand Prix Traditional",
+  "name_short": "Grand Prix Traditional",
+  "slug": "grand-prix-traditional",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "30"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm • True 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/grand-prix-traditional-0"
+  ]
+}

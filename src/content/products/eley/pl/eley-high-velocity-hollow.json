@@ -1,0 +1,84 @@
+{
+  "id": "eley.eley-high-velocity-hollow",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-high-velocity-hollow/",
+  "manufacturer": "eley",
+  "category_slug": "hunting",
+  "category_name": "Myślistwo",
+  "name": "Eley High Velocity Hollow",
+  "name_short": "High Velocity Hollow",
+  "slug": "eley-high-velocity-hollow",
+  "model_name": "",
+  "lead": "Ideal for hunters, ELEY high velocity hollow guarantees world class accuracy, penetration and expansion from the low antimony soft lead alloy bullet.",
+  "description": [
+    "ELEY high velocity hollow została opracowana dla strzelców wymagających maksymalnej prędkości, niezawodnej ekspansji i bezkompromisowej celności w terenie. Oparta na miękkim, niskoantymonowym pocisku o konstrukcji hollow-point, amunicja ta osiąga wysokie prędkości przy zachowaniu właściwości strukturalnych niezbędnych do kontrolowanej ekspansji i głębokiej penetracji w przypadku drobnej zwierzyny i szkodników. Efektem jest zdecydowane działanie końcowe, które szybko i humanitarnie obezwładnia cel – dokładnie tego oczekują myśliwi i profesjonalni deratyzatorzy."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Hollow-point"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.46 gramów / 38 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "344m/s-381m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1030ft/s-1250ft/s"
+        },
+        {
+          "id": "individual-group-size",
+          "name": "Individual Group Size",
+          "value": "30mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Wosk Parafinowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-high-velocity-hollow-0"
+  ]
+}

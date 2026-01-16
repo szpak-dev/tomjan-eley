@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.titanium-strike",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/titanium-strike",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Titanium Strike",
+  "name_short": "Titanium Strike",
+  "slug": "titanium-strike",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "„’Efekt niklu’ uwidocznił się w rozkładzie, gdzie proporcja śrucin w zewnętrznej strefie 20–30 cali została wzmocniona przez centralne skupienie. Titanium Strike to doskonałe naboje; są zdecydowanie poprawnie reklamowane jako ładunki premium dla poważnych i oddanych strzelców i zostały specjalnie zaprojektowane, aby dosięgać najdalszych celów”. ~",
+    "Główne cechy to m.in.: 25-milimetrowe niklowane okucie dla znakomitych osiągów naboju i płynnej ekstrakcji; proch PSB+ opracowany specjalnie w zakładzie dla uzyskania wysokiej prędkości i ultra-płynnego odrzutu; oraz ekskluzywny plastikowy koszyk Eley typu A dla maksymalnej redukcji odrzutu i zapewnienia gęstego pokrycia na wszystkich dystansach."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "455 mps • 1495 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "25mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/titanium-strike-0"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-sport",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley_target/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Sport",
+  "name_short": "Sport",
+  "slug": "eley-sport",
+  "model_name": "",
+  "lead": "ELEY sport introduces shooters to ELEY’s consistency and accuracy. Small lot quantities and control techniques deliver reliability in every round.",
+  "description": [
+    "ELEY target to idealne wprowadzenie do świata strzelectwa precyzyjnego. Jako nasz absolutny poziom podstawowy oferuje niezawodne osiągi w przystępnej cenie, co czyni go doskonałym wyborem dla początkujących strzelców, klubów i treningów.",
+    "Zbudowana z takim samym zaangażowaniem w jakość, które definiuje każdy produkt ELEY, amunicja ELEY target zapewnia pewną celność, stabilne przeładowanie i zaufane rezultaty strzał po strzale. To nabój zaprojektowany, by pomagać strzelcom rozwijać umiejętności, budować pewność siebie i cieszyć się sportem od samego początku."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 gramów / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "305m/s-332m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1000ft/s-1090ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "7.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Wosk Parafinowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-sport-0"
+  ]
+}

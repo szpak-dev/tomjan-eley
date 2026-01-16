@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-28g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-28g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Game 28G",
+  "name_short": "VIP Game 28G",
+  "slug": "vip-game-28g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Warianty kalibru 28 obejmują naboje 16, 21 i 24 gramy, sprawiając, że stare przysłowie „nie liczy się ilość ołowiu, ale to, gdzie go umieścisz” pozostaje prawdziwe. Tam, gdzie potrzebne jest szybkie namierzenie celu i krótki czas reakcji, kaliber 28 zdziała cuda – od gołębi i słonek po kuropatwy i bażanty, zwłaszcza podczas polowań z podchodu.",
+    "Gdy raz strzelisz z Eley VIP, nic innego nie będzie już takie samo. Doskonałe pokrycie i balistyka zapewniają najlepsze osiągi w swojej klasie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "16"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "409 mps • 1343 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-28g-0"
+  ]
+}

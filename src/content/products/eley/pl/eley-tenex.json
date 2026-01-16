@@ -1,0 +1,88 @@
+{
+  "id": "eley.eley-tenex",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-tenex/",
+  "manufacturer": "eley",
+  "category_slug": "benchrest",
+  "category_name": "Benchrest",
+  "name": "Eley Tenex",
+  "name_short": "Tenex",
+  "slug": "eley-tenex",
+  "model_name": "",
+  "lead": "ELEY tenex is the world’s most consistently accurate .22LR cartridge. The iconic flat nose projectile is one of many innovations pioneered by ELEY engineers.",
+  "description": [
+    "Dzięki ponad 198 latom tradycji i doświadczenia, doskonałość inżynieryjna jest fundamentem sukcesu ELEY tenex. Nasi wysoko wykwalifikowani inżynierowie łączą najnowocześniejsze maszyny z szybkimi elektronicznymi systemami kontroli wizualnej oraz metodologią Six Sigma, tworząc naboje, które na nowo zdefiniowały celność .22LR na całym świecie.",
+    "Ikoniczny płaski czubek pocisku ELEY tenex to jedna z wielu innowacji opracowanych przez inżynierów ELEY. Przecinając powietrze, jego rewolucyjna konstrukcja przesuwa środek parcia do przodu, stabilizując pocisk aerodynamicznie i zwiększając celność na celu.",
+    "Precyzyjne techniki produkcji formują łuski o jednolitej długości z ściśle kontrolowanego stopu mosiądzu. Zapewnia to spalanie każdej porcji prochu w kontrolowanej objętości, dostarczając powtarzalną energię każdemu pociskowi.",
+    "Następnie każdy nabój jest sprawdzany za pomocą zestawu procesów analitycznych, w tym komputerowo sterowanej kontroli wizualnej i precyzyjnie skalibrowanych urządzeń pomiarowych, nadzorowanych przez niezwykle dokładnych inżynierów.",
+    "Aby osiągnąć maksymalną celność z ELEY tenex, strzelec powinien przetestować swoją lufę. Choć ELEY tenex oferuje bezkonkurencyjne wyniki już w standardzie, dopasowanie lufy i amunicji w naszych ośrodkach testowych może mieć kluczowe znaczenie w rywalizacji sportowej."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Flat-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 gramów / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-330m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1085ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "3.75mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Łój Woskowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-0"
+  ]
+}

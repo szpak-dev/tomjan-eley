@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.esp-hp-steel-pro-eco-wad",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/esp-hp-steel-pro-eco-wad",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "ESP HP Steel Pro Eco Wad",
+  "name_short": "ESP HP Steel Pro Eco Wad",
+  "slug": "esp-hp-steel-pro-eco-wad",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "ESP High Performance Pro Eco Wad został specjalnie zaprojektowany pod kątem siły obalającej, będąc jednocześnie nieszkodliwym dla środowiska. Nabój ESP High Performance Pro Eco Wad firmy Eley jest produkowany w celu osiągnięcia niesamowitych osiągów we wszystkich dużych strzelbach z komorą 3” (76 mm), przy zachowaniu zgodności z przepisami CIP.",
+    "Dostępny w kalibrze 12, z ładunkiem 36g śrutu nr 1 oraz 36g śrutu nr 3, ładowany w łuskę 76 mm.",
+    "*Do użytku wyłącznie w broni przystosowanej do strzelania śrutem stalowym. Zawsze sprawdzaj instrukcję dołączoną do broni i zawsze czytaj instrukcje na pudełku amunicji."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "36"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "1, 3"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Pro Eco Wad"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "435 mps • 1430 fps"
+        },
+        {
+          "id": "nickel-length",
+          "name": "Długość Niklu",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "76 mm • 3 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/esp-hp-steel-pro-eco-wad-0"
+  ]
+}

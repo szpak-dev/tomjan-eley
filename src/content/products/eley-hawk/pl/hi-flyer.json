@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.hi-flyer",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/hi-flyer",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Hi-Flyer",
+  "name_short": "Hi-Flyer",
+  "slug": "hi-flyer",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Jest to prawdziwie uniwersalny nabój myśliwski, obejmujący wszystkie aspekty polowań i zwalczania szkodników, z najszerszą gamą kombinacji śrutu i przybitek, odpowiedni dla wszystkich konfiguracji broni, w tym półautomatów.",
+    "Ładowany w łuski 67 mm z pełnym zakresem naważek 28, 30 i 32 gramów; naboje te są z dużym powodzeniem używane przez myśliwych i osoby zwalczające szkodniki, stając się produktem wysoce poszukiwanym.",
+    "„Ten uniwersalny nabój w unikalnej łusce 67 mm sprawdza się w każdym typie broni i jest prawdziwie wszechstronny, z mocą i osiągami, które mu dorównują. Szczególnie podobają mi się jaskrawe kolory łusek, ponieważ wyglądają świetnie i łatwo je zauważyć podczas zbierania wystrzelonych łusek. Nie musisz być 'wysokich lotów', by używać Hi-Flyerów”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "404 mps • 1324 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hi-flyer-0"
+  ]
+}

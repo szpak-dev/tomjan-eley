@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.fourlong",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/fourlong",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Fourlong",
+  "name_short": "Fourlong",
+  "slug": "fourlong",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Firma Eley Hawk jako pierwsza wyprodukowała ten typ ładunku, a innowacja ta jest kontynuowana w tym naboju z przybitką wyłącznie pilśniową, zapewniającą imponujące wyniki – żaden inny brytyjski producent nie wytwarza takiego ładunku.",
+    "„Zarośnięty brzeg, garść nabojów Eley Fourlong, jasne zimowe słońce, pożyczona strzelba i pies. Trzy króliki zostały czysto trafione na dystansie do 20 kroków. Muszę przyznać, że po raz pierwszy od lat zacząłem patrzeć na kaliber .410 w nowym, korzystnym świetle”.",
+    "Załadowany bardzo specjalnym prochem SSB+ 150, ten nabój 2 ½ cala idealnie nadaje się do polowań na zwierzynę drobną i szkodniki."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "12.5"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "329 mps • 1080 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/fourlong-0"
+  ]
+}

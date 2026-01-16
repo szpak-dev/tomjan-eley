@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.zenith-steel-pew-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-steel-pew-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Zenith Steel PEW 20G",
+  "name_short": "Zenith Steel PEW 20G",
+  "slug": "zenith-steel-pew-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "These cartridges are designed with performance steel shot, making them an excellent choice for hunters seeking a lead alternative. The steel shot ensures excellent velocity and energy transfer, providing effective knock-down power for birds like ducks and pheasants. The 20-gauge size allows for a lighter, more manoeuvrable shooting experience without compromising on effectiveness.",
+    "A standout feature of the Zenith Steel Pro Eco Wad is its biodegradable fibre wad, which breaks down naturally, aligning with Eley Hawk's commitment to sustainability. This eco-friendly wad eliminates plastic residue in the environment, making it a responsible choice for game shooters looking to reduce their ecological footprint. With reliable patterns and consistent performance, the 20-gauge Zenith Steel Pro Eco Wad cartridges deliver both environmental benefits and high-level shooting results."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "4"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "375 mps • 1230 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-steel-pew-20g-0"
+  ]
+}

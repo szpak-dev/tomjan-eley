@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.alpha-elite-bird-shot",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/alpha-elite-bird-shot",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Alpha Elite Bird Shot",
+  "name_short": "Alpha Elite Bird Shot",
+  "slug": "alpha-elite-bird-shot",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Załadowany w łuskę 70 mm z prochem niskodymnym, nabój Bird Shot został opracowany tak, aby zapewniać skupione wiązki śrutu i prędkość wtedy, gdy jest ona najbardziej potrzebna."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "381 mps • 1250 fps • Power factor 518"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/alpha-elite-bird-shot-0"
+  ]
+}

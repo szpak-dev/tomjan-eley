@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.vip-bismuth-16g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-bismuth-16g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Bismuth 16G",
+  "name_short": "VIP Bismuth 16G",
+  "slug": "vip-bismuth-16g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Ta alternatywa dla ołowiu działa idealnie w każdej broni przystosowanej do strzelania ołowiem i udowodniła swoją skuteczność w terenie od początku lat 90. Unikalna formuła stopu bismutu ma wiele właściwości zbliżonych do ołowiu pod względem gęstości i twardości. Mieszanka stopu zapewnia również pewną ciągliwość, co z kolei przenosi energię na cel, zapewniając dobrą siłę obalającą. Bismut nie ma właściwości toksycznych i jest bardzo bezpieczny w kontakcie.",
+    "Naboje VIP Bismuth to idealna opcja na polowania na mieszaną zwierzynę (bażanty i kaczki), pozwalająca na jednoczesne używanie ulubionej starej angielskiej strzelby. Jeśli tylko okazjonalnie polujesz na ptactwo wodne, stanowią one opłacalne rozwiązanie zamiast inwestycji w nową broń przystosowaną do stali.",
+    "„Kilka pędzeń przyniosło znakomite ptaki. Ładunki bismutowe zabijały czysto i powtarzalnie – przed południem wszyscy całkowicie zapomnieli, że używają alternatywy dla ołowiu”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "26.5"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "396 mps • 1292 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-bismuth-16g-0"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.hush-power",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/hush-power",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Hush Power",
+  "name_short": "Hush Power",
+  "slug": "hush-power",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Dzięki szybko spalającemu się prochowi i podźwiękowej prędkości wylotowej następuje znaczny spadek generowanego hałasu podczas strzału, przy jednoczesnym zachowaniu doskonałych parametrów balistycznych. Ten ładunek jest najlepszym rozwiązaniem dla terenów z obowiązującymi ograniczeniami hałasu.",
+    "„Podczas gdy pomocny wolontariusz przygotowywał się do wystrzelenia kilku próbek tego naboju, ja wycofałem się na odległość, którą uznałem za odpowiednią, aby posłuchać stłumionych odgłosów. Może to mało naukowe, przyznaję, ale tak – z odległości około 250 jardów były one znacznie cichsze. Sam również strzelałem z Hush Power i przekonująco rozbijały cele na dystansach zawodniczych”."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "258 mps • 845 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hush-power-0"
+  ]
+}

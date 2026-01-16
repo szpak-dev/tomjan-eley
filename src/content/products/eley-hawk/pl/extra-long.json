@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.extra-long",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/extra-long",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Extra Long",
+  "name_short": "Extra Long",
+  "slug": "extra-long",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Jako największy dostępny ładunek kalibru .410, nabój ten został opracowany, aby zapewniać znakomite wyniki w terenie, stając się faworytem wśród entuzjastów polowań z bronią małokalibrową. Dzięki naważce 18 gramów, z nawiązką radzi sobie podczas polowań na kuropatwy.",
+    "Dodatkowa moc sprawiła, że ładunek ten jest idealnym wyborem dla osób strzelających z kalibru .410 w sezonie łowieckim. Jest on również dostępny wyłącznie z przybitką pilśniową.",
+    "„Eley jest jedynym producentem wytwarzającym ładunki z przybitką pilśniową w formacie .410. Brawo dla nich!” ~ Shooting UK",
+    "Nabój ten jest również dostępny w podźwiękowym wariancie Hush Power, który idealnie nadaje się do zwalczania szkodników, zapewniając ciche strzelanie w miejscach, gdzie hałas jest czynnikiem istotnym, np. w pobliżu zwierząt gospodarskich lub budynków folwarcznych."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "18"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "326 mps • 1070 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "76 mm • 3 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/extra-long-0"
+  ]
+}

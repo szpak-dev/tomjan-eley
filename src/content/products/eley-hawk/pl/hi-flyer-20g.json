@@ -1,0 +1,59 @@
+{
+  "id": "eley-hawk.hi-flyer-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/hi-flyer-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Hi-Flyer 20G",
+  "name_short": "Hi-Flyer 20G",
+  "slug": "hi-flyer-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Ładowany unikalnym prochem CSB 2, nabój Hi-Flyer kalibru 20 był przez lata z powodzeniem używany przez myśliwych i osoby zwalczające szkodniki, stając się produktem wysoce poszukiwanym."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "361 mps • 1186 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/hi-flyer-20g-0"
+  ]
+}

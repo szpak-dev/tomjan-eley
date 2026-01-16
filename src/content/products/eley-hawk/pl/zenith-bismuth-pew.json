@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.zenith-bismuth-pew",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-bismuth-pew",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Zenith Bismuth PEW",
+  "name_short": "Zenith Bismuth PEW",
+  "slug": "zenith-bismuth-pew",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Przenosząc już i tak wybitne właściwości opcji z przybitką pilśniową na wyższy poziom, Zenith Bismuth Pro Eco łączy doskonałe cechy pokrycia miedziowanego śrutu z hydro-rozpuszczalnym koszykiem, aby zapewnić niezrównaną balistykę na dystansie przy jednoczesnym wsparciu dla środowiska. Unikalna, certyfikowana przybitka Pro-Eco jest w 100% rozpuszczalna w wodzie, kompostowalna, nietoksyczna i biodegradowalna. Rozpuszcza się całkowicie zanurzona w wodzie w ciągu około 24 godzin, a pod wpływem czynników naturalnych do 3 miesięcy.",
+    "Unikalna formuła stopu bismutu ma wiele właściwości zbliżonych do ołowiu pod względem gęstości i twardości. Mieszanka stopu zapewnia również pewną ciągliwość, co z kolei przenosi energię na cel, zapewniając doskonałą siłę obalającą. Bismut nie ma właściwości toksycznych i jest bardzo bezpieczny w kontakcie.",
+    "Dostępny w kalibrze 12, 32g śrutu nr 4 oraz 36g śrutu nr 3, ładowany w łuskę 70 mm."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "32"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "4"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "385 mps • 1263 fps"
+        },
+        {
+          "id": "nickel-length",
+          "name": "Długość Niklu",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-bismuth-pew-0"
+  ]
+}

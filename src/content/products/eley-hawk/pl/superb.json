@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.superb",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/superb",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Superb",
+  "name_short": "Superb",
+  "slug": "superb",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Unikalna mieszanka prochów i wolno spalających się spłonek w naboju Superb pozwala na uregulowanie czasu przebywania w lufie, co pozwala osiągnąć płynną, a jednocześnie potężną wydajność. Są one również ładowane specjalistycznym śrutem Magnum o wysokiej zawartości antymonu.",
+    "„Nabój o świetnym stosunku jakości do ceny, który do tej pory jakoś umykał mojej uwadze. W testach Eley Superb wykazał się niskim odrzutem, będąc jednocześnie wysoce skutecznym na dalekich dystansach. Kiedy skończyłem strzelać na trasie Sporting, udałem się do tarczy sprawdzającej pokrycie, gdzie byłem jeszcze bardziej pod wrażeniem”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7, 8, 9"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/superb-0"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "eley.eley-tenex-pistol",
+  "lang": "pl",
+  "url": "https://eley.co.uk/eley-tenex-pistol/",
+  "manufacturer": "eley",
+  "category_slug": "pistol",
+  "category_name": "Pistolet",
+  "name": "Eley Tenex Pistol",
+  "name_short": "Tenex Pistol",
+  "slug": "eley-tenex-pistol",
+  "model_name": "",
+  "lead": "For the ultimate pistol performance, choose ELEY tenex pistol. Benefits include a round nose bullet profile to ease feeding in semi-automatic pistols.",
+  "description": [
+    "Dziesięciolecia ciągłego doskonalenia doprowadziły do stworzenia idealnego naboju pistoletowego. Badania i testy w zakresie balistyki, działania broni samopowtarzalnej, optymalnych profili pocisków, systemów zapłonu, konstrukcji łuski oraz idealnego stopu ołowiu poszerzyły wiedzę ELEY w tym segmencie. Przeprowadzono kompleksowe testy, aby znaleźć optymalne połączenie tych elementów i stworzyć ELEY tenex pistol.",
+    "Zalety tego naboju obejmują półokrągły profil pocisku, ułatwiający podawanie w pistoletach i karabinach samopowtarzalnych. Pocisk wykonany jest z wysokiej klasy stopu ołowiu z antymonem, co ogranicza uszkodzenia powierzchni podczas cyklu przeładowania.",
+    "Precyzyjne techniki produkcji formują łuski o jednolitej długości z ściśle kontrolowanego stopu mosiądzu. Zapewnia to spalanie każdej porcji prochu w kontrolowanej objętości, dostarczając powtarzalną energię każdemu pociskowi oraz zapewniając kontrolowany odrzut i szybki powrót obrazu celowniczego.",
+    "Celność ELEY tenex pistol można dodatkowo poprawić, dopasowując pistolet i amunicję w naszych ośrodkach testowych w USA i Niemczech, wyposażonych w osie 25 m i 50 m. Najlepsi zawodnicy świata testują swoją amunicję i nie pozostawiają nic przypadkowi."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 gramów / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "276m/s-287m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "906ft/s-942ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "4.40mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "Wosk Parafinowy"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-tenex-pistol-0"
+  ]
+}

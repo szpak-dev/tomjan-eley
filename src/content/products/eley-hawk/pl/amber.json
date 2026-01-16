@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.amber",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/amber",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Amber",
+  "name_short": "Amber",
+  "slug": "amber",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "„Byłam dumna, mogąc współpracować z numerem jeden wśród brytyjskich producentów amunicji, aby stworzyć nabój o niskim odrzucie, z szybkim prochem i śrutem magnum z 5% zawartością antymonu. Ten nabój fantastycznie rozbija rzutki i służył mi doskonale podczas treningów i zawodów w barwach Team GB”. ~",
+    "Produkowany z 24-gramowym ładunkiem śrutu nr 8, nabój ten charakteryzuje się doskonałym pokryciem i zapewnia wyniki za każdym razem, gdy pociągasz za język spustowy."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "419 mps • 1375 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/amber-0"
+  ]
+}

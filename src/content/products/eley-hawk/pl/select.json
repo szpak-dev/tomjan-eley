@@ -1,0 +1,62 @@
+{
+  "id": "eley-hawk.select",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/select",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Select",
+  "name_short": "Select",
+  "slug": "select",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Zaprojektowany z myślą o niskim odrzucie i czystym strzale, produkt ten zapewnia świetną balistykę nawet na dystansie. Dzięki wielu dostępnym wariantom – w tym lekkiemu ładunkowi 21 g dla początkujących, osób wrażliwych na odrzut lub o drobnej budowie ciała – nadają się one do każdej dyscypliny.",
+    "„Eley Hawk Select są komfortowe przy strzelaniu. Będziesz wiedział, że możesz wystrzelić ich bardzo wiele bez dyskomfortu – co jest przydatne dla zachowania koncentracji. Ogólnie rzecz biorąc, nowe Select okazały się bardzo dobre do radzenia sobie z celami na bliskim i średnim dystansie – często stanowią one większość celów w Sporting, co czyni je wyborem opłacalnym. Pracują bardzo płynnie – spróbuj, a możesz być mile zaskoczony”. ~",
+    "To, co sprawia, że nabój ten zachowuje się w ten sposób, to nieco wyższe okucie i bardzo korzystny stosunek prędkości do odrzutu. Ładunek 21 g jest idealny do nauki i wprowadzania nowych osób do sportu; ładunek 24 g to dobry krok pośredni i idealny nabój do symulowanych polowań na rzutki; natomiast ładunek 28 gramów był z dużym powodzeniem używany przez nowych strzelców wchodzących do świata zawodów, pozwalając im osiągać wyniki, z których mogą być dumni.",
+    "Zastosowane prochy zmieniają się w zależności od konkretnej naważki oraz rodzaju przybitki (pilśniowa lub plastikowa), a krótsza łuska 67 mm pozwala na bezpieczne używanie naboju w każdej broni."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "413 mps • 1355 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/select-0"
+  ]
+}

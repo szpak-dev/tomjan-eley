@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.ct-20",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/ct-20",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "CT 20",
+  "name_short": "CT 20",
+  "slug": "ct-20",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Przy trudnych celach i wysokich umiejętnościach wymaganych w zawodach małego kalibru, strzelcy potrzebują amunicji innej klasy, aby odnieść sukces na tym poziomie. CT 20 posiada doskonałe parametry skupienia i balistyki, z opcjami przybitki plastikowej i pilśniowej, w łuskach o długości 70 mm i 67 mm, aby zapewnić właśnie to i zagwarantować przydatność do użytku w starszej broni.",
+    "„Ładunki CT 20 zostały gruntownie przetestowane i – nawet przy przybitce pilśniowej i półczoku – wyniki były doskonałe. Wypadają one korzystnie w porównaniu z podobnymi ładunkami kalibru 12”. ~ Richard Atkins, magazyn Clay Shooting",
+    "Niezależnie od tego, czy startujesz w zawodach, czy po prostu ćwiczysz oko przed sezonem polowań, CT 20 to nabój będący „idealnym wyborem” dla użytkowników kalibru 20."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "21"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5, 8"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "387 mps • 1268 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "12mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/ct-20-0"
+  ]
+}

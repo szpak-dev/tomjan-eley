@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.vip-game-16g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/vip-game-16g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "VIP Game 16G",
+  "name_short": "VIP Game 16G",
+  "slug": "vip-game-16g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Tożsamy z linią VIP Game, nabój kalibru 16 zapewnia naprawdę wyjątkowe pokrycie i balistykę przy łagodnym odrzucie, idealnie dopasowanym do wszystkich gatunków zwierzyny, ale jest ekskluzywnie opracowany z unikalną mieszanką prochów PSB+ dla uzyskania stałej prędkości i ciśnienia.",
+    "Gdy raz strzelisz z Eley VIP, nic innego nie będzie już takie samo. Doskonałe pokrycie i balistyka zapewniają najlepsze osiągi w swojej klasie."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "5, 6, 7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Włókno"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "396 mps • 1292 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "10mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "67 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-game-16g-0"
+  ]
+}

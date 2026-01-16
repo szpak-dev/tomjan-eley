@@ -1,0 +1,61 @@
+{
+  "id": "eley-hawk.trap-410-21-2-inch",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/trap-410-2-12-inch",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "Trap .410 2½-inch",
+  "name_short": "Trap .410 2½-inch",
+  "slug": "trap-410-21-2-inch",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Najwyższe noty zostały przyznane przez oceniających z prestiżowych Shooting Industry Awards za rozbijanie rzutków na dystansie. Podsumowali: „Dysponując naprawdę wyjątkową siłą, ten ładunek .410 wypadł powyżej oczekiwań. Jakość trafień na dystansie powyżej 30 jardów dorównuje każdemu wyczynowemu ładunkowi konkursowemu, zarówno na celach odchodzących, jak i typowych rzutkach sportingowych. I choć te małe ładunki uderzają tak mocno, jak każdy nabój, z którym się zetkniesz, odrzut jest – mniej lub bardziej – nieistniejący.",
+    "„Konfiguracja broni .410 zyskała prawdziwy wzrost popularności dzięki temu fantastycznemu nabojowi. Specjalistyczny proch i śrut magnum łączą się, czyniąc go oczywistym wyborem do użytku w zawodach rzutkowych w kalibrze .410”.",
+    "„Nowy Eley Trap .410 to tak autentycznie wybitny ładunek, że może stać się jedynym powodem zupełnie nowego poziomu uznania dla tego często oczernianego i pomijanego kalibru, do tego stopnia, że ja sam musiałem poważnie zweryfikować swój stosunek do strzelb .410”. ~"
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "14"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7.5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Plastik"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "351 mps • 1150 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "8mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "65 mm • 2 1/2 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/trap-410-21-2-inch-0"
+  ]
+}

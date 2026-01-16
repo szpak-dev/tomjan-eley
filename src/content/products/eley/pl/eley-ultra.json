@@ -1,0 +1,85 @@
+{
+  "id": "eley.eley-ultra",
+  "lang": "pl",
+  "url": "https://eley.co.uk/ultra_extreme_long_range_round/",
+  "manufacturer": "eley",
+  "category_slug": "rifle",
+  "category_name": "Karabin",
+  "name": "Eley Ultra",
+  "name_short": "Ultra",
+  "slug": "eley-ultra",
+  "model_name": "",
+  "lead": "Unleash the power of precision with the all-new ELEY ultra extreme long range .22LR round.",
+  "description": [
+    "Uwolnij moc precyzji dzięki zupełnie nowej amunicji ELEY ultra extreme long range – rewolucyjnemu przełomowi w świecie długodystansowych zawodów rimfire. Bazując na ponad 198 latach doskonałości produkcyjnej i dominacji w konkurencjach .22LR, ELEY ponownie przesuwa granice balistyki bocznego zapłonu. ELR to coś więcej niż dyscyplina – to ekscytująca przygoda, w której sukces powyżej 100 jardów zależy od synergii między karabinem, amunicją i umiejętnością konsekwentnego trafiania celu.",
+    "Amunicja ELEY ultra extreme long range została opracowana z myślą o rosnących wymaganiach takich dyscyplin jak Precision Rimfire Series .22LR, Rimfire Benchrest, Field Target Shooting, Steel Challenge, ligi NRL22 i NRL22X. Stworzona przez elitarny zespół rozwojowy ELEY, zapewnia niezrównaną niezawodność i spójność przy każdym strzale, dając przewagę konkurencyjną i wyznaczając nowe standardy celności, osiągów i precyzji."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Detale Techniczne",
+      "properties": [
+        {
+          "id": "bullet-profile",
+          "name": "Bullet Profile",
+          "value": "Round-nose"
+        },
+        {
+          "id": "bullet-weight",
+          "name": "Bullet Weight",
+          "value": "2.59 gramów / 40 grains"
+        },
+        {
+          "id": "mean-velocity-m-s",
+          "name": "Mean Velocity m/s",
+          "value": "317m/s-330m/s"
+        },
+        {
+          "id": "mean-velocity-ft-s",
+          "name": "Mean velocity ft/s",
+          "value": "1040ft/s-1085ft/s"
+        },
+        {
+          "id": "max-radial-standard-deviation",
+          "name": "Max Radial Standard Deviation",
+          "value": "4.00mm"
+        },
+        {
+          "id": "lubricant",
+          "name": "Lubricant",
+          "value": "EP2723"
+        },
+        {
+          "id": "cartridge-length",
+          "name": "Cartridge Length",
+          "value": "25.4mm / 1 cal"
+        },
+        {
+          "id": "ballistic-coefficient",
+          "name": "Ballistic Coefficient",
+          "value": "0.112"
+        },
+        {
+          "id": "drag-model",
+          "name": "Drag Model",
+          "value": "RA4"
+        },
+        {
+          "id": "strike-depth",
+          "name": "Strike Depth",
+          "value": "0.012-0.015 in"
+        },
+        {
+          "id": "recommended-head-space",
+          "name": "Recommended Head space",
+          "value": "00.040-00.041 in"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/eley-ultra-0"
+  ]
+}

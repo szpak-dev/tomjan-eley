@@ -1,0 +1,60 @@
+{
+  "id": "eley-hawk.zenith-bismuth-pew-20g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/game-load/zenith-bismuth-pew-20g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "game-loads",
+  "category_name": "Amunicja myśliwska",
+  "name": "Zenith Bismuth PEW 20G",
+  "name_short": "Zenith Bismuth PEW 20G",
+  "slug": "zenith-bismuth-pew-20g",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Zastosowanie śrutu bismutowego czyni te naboje wysoce skutecznymi na tradycyjne gatunki zwierzyny, takie jak bażanty i pardwy, będąc jednocześnie bezpiecznymi w użyciu w starszych, klasycznych strzelbach, które nie mogą strzelać stalą. Gęstość i miękkość bismutu ściśle naśladują ołów, zapewniając doskonałe przenoszenie energii i siłę obalającą, co gwarantuje czyste, etyczne trafienia w terenie.",
+    "Konstrukcja Pro Eco Wad dodaje proekologiczny charakter, wykorzystując w pełni biodegradowalną przybitkę z włókna, która rozkłada się naturalnie, redukując odpady plastikowe w przyrodzie. Sprawia to, że naboje Zenith Bismuth Pro Eco Wad są odpowiedzialnym wyborem dla myśliwych, dla których priorytetem są zarówno wyniki, jak i zrównoważony rozwój. Dzięki opcji w kalibrze 20, naboje te są idealne dla strzelców szukających lżejszej broni bez rezygnacji z wysokiej jakości osiągów, z których słynie Eley Hawk, oferując niezawodne pokrycie i wielką skuteczność w polowaniach."
+  ],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "28"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "4, 5"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "PRO ECO"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "370 mps • 1213 fps"
+        },
+        {
+          "id": "nickel-length",
+          "name": "Długość Niklu",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/zenith-bismuth-pew-20g-0"
+  ]
+}

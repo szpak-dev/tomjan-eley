@@ -1,0 +1,57 @@
+{
+  "id": "eley-hawk.vip-steel-pro-eco-wad-12g",
+  "lang": "pl",
+  "url": "https://www.eleyhawkltd.com/clay-load/vip-steel-pro-eco-wad-12g",
+  "manufacturer": "eley-hawk",
+  "category_slug": "clay-loads",
+  "category_name": "Amunicja do rzutków",
+  "name": "VIP Steel Pro Eco Wad 12G",
+  "name_short": "VIP Steel Pro Eco Wad 12G",
+  "slug": "vip-steel-pro-eco-wad-12g",
+  "model_name": "",
+  "lead": "",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "technical-features",
+      "name": "Technical Features",
+      "properties": [
+        {
+          "id": "load-gram",
+          "name": "Ładunek (gramów)",
+          "value": "24"
+        },
+        {
+          "id": "shot-size",
+          "name": "Rozmiar Śrutu",
+          "value": "7"
+        },
+        {
+          "id": "wad",
+          "name": "Przesłona",
+          "value": "Pro Eco Wad"
+        },
+        {
+          "id": "muzzle-velocity",
+          "name": "Prędkość Wylotowa",
+          "value": "423 mps • 1312 fps"
+        },
+        {
+          "id": "brass-length",
+          "name": "Długość Łuski",
+          "value": "16mm"
+        },
+        {
+          "id": "case-length",
+          "name": "Długość Łuski",
+          "value": "70 mm • 2 3/4 cali"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "eley.com.pl/vip-steel-pro-eco-wad-12g-0"
+  ]
+}
