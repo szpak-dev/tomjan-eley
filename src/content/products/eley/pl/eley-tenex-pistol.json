@@ -9,7 +9,7 @@
   "name_short": "Tenex Pistol",
   "slug": "eley-tenex-pistol",
   "model_name": "",
-  "lead": "For the ultimate pistol performance, choose ELEY tenex pistol. Benefits include a round nose bullet profile to ease feeding in semi-automatic pistols.",
+  "lead": "Dziesięciolecia ciągłego doskonalenia doprowadziły do stworzenia idealnego naboju pistoletowego. Badania i testy w zakresie balistyki, działania broni samopowtarzalnej, optymalnych profili pocisków, systemów zapłonu, konstrukcji łuski oraz idealnego stopu ołowiu poszerzyły wiedzę ELEY w tym segmencie. Przeprowadzono kompleksowe testy, aby znaleźć optymalne połączenie tych elementów i stworzyć ELEY tenex pistol.",
   "description": [
     "Dziesięciolecia ciągłego doskonalenia doprowadziły do stworzenia idealnego naboju pistoletowego. Badania i testy w zakresie balistyki, działania broni samopowtarzalnej, optymalnych profili pocisków, systemów zapłonu, konstrukcji łuski oraz idealnego stopu ołowiu poszerzyły wiedzę ELEY w tym segmencie. Przeprowadzono kompleksowe testy, aby znaleźć optymalne połączenie tych elementów i stworzyć ELEY tenex pistol.",
     "Zalety tego naboju obejmują półokrągły profil pocisku, ułatwiający podawanie w pistoletach i karabinach samopowtarzalnych. Pocisk wykonany jest z wysokiej klasy stopu ołowiu z antymonem, co ogranicza uszkodzenia powierzchni podczas cyklu przeładowania.",
@@ -23,57 +23,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "276m/s-287m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "906ft/s-942ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "4.40mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Wosk Parafinowy"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          clean: true
       
       - name: Detect package manager
         id: detect-package-manager
@@ -41,11 +43,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: ${{ steps.detect-package-manager.outputs.manager }}
-          cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.lockfile }}
       
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+        working-directory: ${{ env.BUILD_PATH }}
+      
+      - name: Clean build cache and dist
+        run: |
+          rm -rf dist
+          rm -rf .astro
+          rm -rf node_modules/.astro
         working-directory: ${{ env.BUILD_PATH }}
       
       - name: Check required environment variables
@@ -79,30 +86,13 @@ jobs:
     needs: build
     runs-on: tomjan-runner
     env:
-      CADDY_WEBROOT: /home/tomjan/sites/eley.com.pl
-      CADDY_SITES_DIR: /etc/caddy/sites
-      SITE_CONFIG: eley.com.pl
+      CADDY_WEBROOT: ${{ vars.CADDY_WEBROOT }}
     steps:
       - name: Download build artifact
         uses: actions/download-artifact@v4
         with:
           name: dist
           path: ./dist
-      
-      - name: Download Caddyfile
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: |
-            Caddyfile
-          sparse-checkout-cone-mode: false
-          path: ./repo
-      
-      - name: Copy Caddyfile to deployment
-        run: |
-          if [ -f "./repo/Caddyfile" ]; then
-            cp ./repo/Caddyfile ./Caddyfile
-            echo "✓ Caddyfile copied for deployment"
-          fi
       
       - name: Backup current deployment
         run: |
@@ -116,36 +106,13 @@ jobs:
       - name: Deploy to Caddy webroot
         run: |
           echo "Deploying to ${CADDY_WEBROOT}"
-          sudo rsync -av --delete --checksum ./dist/ ${CADDY_WEBROOT}/
+          sudo rsync -av --delete ./dist/ ${CADDY_WEBROOT}/
           sudo chown -R caddy:caddy ${CADDY_WEBROOT}
           echo "Deployment completed successfully"
       
-      - name: Deploy Caddy configuration
-        run: |
-          echo "Deploying Caddy config to ${CADDY_SITES_DIR}/${SITE_CONFIG}"
-          # Ensure sites directory exists
-          sudo mkdir -p ${CADDY_SITES_DIR}
-          # Copy Caddyfile from repo root
-          if [ -f "./Caddyfile" ]; then
-            sudo cp ./Caddyfile ${CADDY_SITES_DIR}/${SITE_CONFIG}
-            sudo chown caddy:caddy ${CADDY_SITES_DIR}/${SITE_CONFIG}
-            echo "✓ Caddy config deployed"
-          else
-            echo "⚠ No Caddyfile found in repository"
-          fi
-      
-      - name: Validate Caddy configuration
-        run: |
-          if sudo caddy validate --config /etc/caddy/Caddyfile; then
-            echo "✓ Caddy configuration is valid"
-          else
-            echo "✗ Caddy configuration validation failed"
-            exit 1
-          fi
-      
       - name: Reload Caddy
         run: |
-          sudo systemctl reload caddy
+          sudo service caddy reload
           echo "Caddy server reloaded"
       
       - name: Verify deployment

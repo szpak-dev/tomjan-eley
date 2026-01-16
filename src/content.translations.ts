@@ -480,20 +480,31 @@ async function main() {
   const command = args[0];
   
   if (command === 'update') {
-    const manufacturer = args[1];
-    const targetLang = args[2] || args[1] || 'pl';
+    // Support formats:
+    // 1. npm run translations:update -- eley en pl (new: 4 args with sync-like semantics, targetLang is args[3])
+    // 2. npm run translations:update -- eley pl (new: 3 args, targetLang is args[2])
+    // 3. npm run translations:update -- pl (legacy: 2 args, targetLang is args[1])
     
-    // If only one arg after 'update', treat it as targetLang (legacy)
-    if (args.length === 2) {
+    if (args.length === 4) {
+      // Format: update <manufacturer> <sourceLang> <targetLang>
+      // Note: sourceLang is ignored for update, but accepted for compatibility with sync command
+      const manufacturer = args[1];
+      const targetLang = args[3];
+      await updateProductTranslations(manufacturer, targetLang);
+    } else if (args.length === 3) {
+      // Format: update <manufacturer> <targetLang>
+      const manufacturer = args[1];
+      const targetLang = args[2];
+      await updateProductTranslations(manufacturer, targetLang);
+    } else if (args.length === 2) {
+      // Legacy format: update <targetLang>
       await updateProductTranslations('', args[1]);
     } else {
-      if (!manufacturer) {
-        console.error('Error: Manufacturer is required');
-        console.error('Usage: npm run translations -- update <manufacturer> <targetLang>');
-        console.error('   or: npm run translations -- update <targetLang> (legacy)');
-        process.exit(1);
-      }
-      await updateProductTranslations(manufacturer, targetLang);
+      console.error('Error: Invalid arguments');
+      console.error('Usage: npm run translations:update -- <manufacturer> <sourceLang> <targetLang>');
+      console.error('   or: npm run translations:update -- <manufacturer> <targetLang>');
+      console.error('   or: npm run translations:update -- <targetLang> (legacy)');
+      process.exit(1);
     }
   } else {
     // Check if args match old format: <sourceLang> <targetLang>

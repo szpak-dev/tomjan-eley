@@ -9,7 +9,7 @@
   "name_short": "Ultra",
   "slug": "eley-ultra",
   "model_name": "",
-  "lead": "Unleash the power of precision with the all-new ELEY ultra extreme long range .22LR round.",
+  "lead": "Uwolnij moc precyzji dzięki zupełnie nowej amunicji ELEY ultra extreme long range – rewolucyjnemu przełomowi w świecie długodystansowych zawodów rimfire. Bazując na ponad 198 latach doskonałości produkcyjnej i dominacji w konkurencjach .22LR, ELEY ponownie przesuwa granice balistyki bocznego zapłonu. ELR to coś więcej niż dyscyplina – to ekscytująca przygoda, w której sukces powyżej 100 jardów zależy od synergii między karabinem, amunicją i umiejętnością konsekwentnego trafiania celu.",
   "description": [
     "Uwolnij moc precyzji dzięki zupełnie nowej amunicji ELEY ultra extreme long range – rewolucyjnemu przełomowi w świecie długodystansowych zawodów rimfire. Bazując na ponad 198 latach doskonałości produkcyjnej i dominacji w konkurencjach .22LR, ELEY ponownie przesuwa granice balistyki bocznego zapłonu. ELR to coś więcej niż dyscyplina – to ekscytująca przygoda, w której sukces powyżej 100 jardów zależy od synergii między karabinem, amunicją i umiejętnością konsekwentnego trafiania celu.",
     "Amunicja ELEY ultra extreme long range została opracowana z myślą o rosnących wymaganiach takich dyscyplin jak Precision Rimfire Series .22LR, Rimfire Benchrest, Field Target Shooting, Steel Challenge, ligi NRL22 i NRL22X. Stworzona przez elitarny zespół rozwojowy ELEY, zapewnia niezrównaną niezawodność i spójność przy każdym strzale, dając przewagę konkurencyjną i wyznaczając nowe standardy celności, osiągów i precyzji."
@@ -21,57 +21,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "317m/s-330m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1040ft/s-1085ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "4.00mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "EP2723"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

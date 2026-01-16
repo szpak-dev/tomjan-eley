@@ -9,7 +9,7 @@
   "name_short": "Contact",
   "slug": "eley-contact",
   "model_name": "",
-  "lead": "ELEY contact is a subsonic semi-automatic .22LR round, delivering extreme accuracy and knock-down performance with a softer sound and minimal recoil.",
+  "lead": "ELEY contact to celowo zaprojektowana subsoniczna amunicja .22LR do platform samopowtarzalnych, stworzona dla strzelców oczekujących najwyższej celności przy cichszym strzale i mniejszym odrzucie. Idealna do zawodów i precyzyjnego treningu, contact daje pełną kontrolę nad strzałem, umożliwiając szybsze strzały następcze i większy komfort strzelania.",
   "description": [
     "ELEY contact to celowo zaprojektowana subsoniczna amunicja .22LR do platform samopowtarzalnych, stworzona dla strzelców oczekujących najwyższej celności przy cichszym strzale i mniejszym odrzucie. Idealna do zawodów i precyzyjnego treningu, contact daje pełną kontrolę nad strzałem, umożliwiając szybsze strzały następcze i większy komfort strzelania.",
     "Mniejszy odrzut przekłada się bezpośrednio na szybsze odzyskanie obrazu celowniczego, pozwalając strzelcom broni samopowtarzalnej szybciej ponownie namierzać cele i utrzymywać rytm ognia."
@@ -21,57 +21,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "317m/s-332m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1040ft/s-1090ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "7.00mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Wosk Parafinowy"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

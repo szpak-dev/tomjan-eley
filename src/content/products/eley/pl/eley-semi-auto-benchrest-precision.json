@@ -9,7 +9,7 @@
   "name_short": "Semi-Auto Benchrest Precision",
   "slug": "eley-semi-auto-benchrest-precision",
   "model_name": "",
-  "lead": "The benchmark in semi-auto benchrest shooting. ELEY semi-auto benchrest precision ammunition has been developed using the same world-renowned engineering expertise that drives the performance of ELEY tenex, the benchmark in .22LR target rounds. A new standard for semi-automatic benchrest competition. The round-nose design enhances smooth chambering and consistent ballistics, while ELEY’s uncompromising approach to quality control",
+  "lead": "Amunicja ELEY semi-auto benchrest precision została opracowana w oparciu o tę samą, światowej sławy wiedzę inżynierską, która stoi za osiągami ELEY tenex – wzorca wśród amunicji tarczowej .22LR. Nowy standard dla zawodów benchrest z bronią samopowtarzalną.",
   "description": [
     "Amunicja ELEY semi-auto benchrest precision została opracowana w oparciu o tę samą, światowej sławy wiedzę inżynierską, która stoi za osiągami ELEY tenex – wzorca wśród amunicji tarczowej .22LR. Nowy standard dla zawodów benchrest z bronią samopowtarzalną.",
     "Półokrągły profil pocisku poprawia płynność podawania i spójność balistyki, a bezkompromisowe podejście ELEY do kontroli jakości gwarantuje najściślejsze tolerancje. Każdy nabój jest produkowany tak, by zachowywał się identycznie jak poprzedni, dając strzelcom pewność i powtarzalność niezbędną do osiągania najwyższych wyników. Dla ELEY celność, spójność i niezawodność nie są opcjonalne – są koniecznością."
@@ -21,57 +21,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "314m/s-326m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1030ft/s-1070ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "4.90mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "EP2723"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

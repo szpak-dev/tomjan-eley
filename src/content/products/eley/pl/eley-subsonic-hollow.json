@@ -9,7 +9,7 @@
   "name_short": "Subsonic Hollow",
   "slug": "eley-subsonic-hollow",
   "model_name": "",
-  "lead": "ELEY subsonic hollow has target shooting accuracy and reduced velocity to offer a quieter muzzle report compared to other .22LR hunting rounds.",
+  "lead": "ELEY subsonic hollow to amunicja myśliwska oferująca celność strzelecką klasy tarczowej przy obniżonej prędkości, zapewniająca cichszy huk wylotowy w porównaniu z innymi myśliwskimi nabojami .22LR.",
   "description": [
     "ELEY subsonic hollow to amunicja myśliwska oferująca celność strzelecką klasy tarczowej przy obniżonej prędkości, zapewniająca cichszy huk wylotowy w porównaniu z innymi myśliwskimi nabojami .22LR.",
     "Dzięki innowacyjnemu profilowi pocisku typu hollow-point, ELEY subsonic hollow zapewnia niezrównane właściwości ekspansji, skutkujące krótką penetracją i znakomitą siłą obalającą – kluczowymi cechami w zwalczaniu szkodników.",
@@ -22,57 +22,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Hollow-point"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.46 gramów / 38 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "305m/s-317m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1000ft/s-1040ft/s"
         },
         {
           "id": "individual-group-size",
-          "name": "Individual Group Size",
+          "name": "Rozmiar poszczególnych grup",
           "value": "43mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Wosk Parafinowy"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

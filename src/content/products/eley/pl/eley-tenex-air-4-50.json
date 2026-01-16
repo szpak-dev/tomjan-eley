@@ -9,7 +9,7 @@
   "name_short": "Tenex Air 4.50",
   "slug": "eley-tenex-air-4-50",
   "model_name": "",
-  "lead": "ELEY tenex air pellets deliver exceptional accuracy, 30% greater weight control than any competitor, and damage-resistant packaging.",
+  "lead": "W ramach szeroko zakrojonego programu badań i rozwoju, ELEY zidentyfikowało kluczowe czynniki wpływające na wyniesienie śrutu pneumatycznego na wyższy poziom celności. Profil śrutu, spójność wymiarowa oraz kontrola masy okazały się kluczowymi parametrami wpływającymi na precyzję i powtarzalność.",
   "description": [
     "W ramach szeroko zakrojonego programu badań i rozwoju, ELEY zidentyfikowało kluczowe czynniki wpływające na wyniesienie śrutu pneumatycznego na wyższy poziom celności. Profil śrutu, spójność wymiarowa oraz kontrola masy okazały się kluczowymi parametrami wpływającymi na precyzję i powtarzalność.",
     "Każdy element produktu i procesu produkcyjnego został precyzyjnie zaprojektowany, aby zapewnić osiągi na poziomie medalowym na arenie światowej. Efektem jest ELEY tenex air – śrut ucieleśniający bezkompromisowe podejście ELEY do celności i jakości.",
@@ -22,27 +22,27 @@
       "properties": [
         {
           "id": "pellet-profile",
-          "name": "Pellet Profile",
+          "name": "Profil śrutu",
           "value": "Flat-head"
         },
         {
           "id": "pellet-weight",
-          "name": "Pellet Weight",
+          "name": "Masa śrutu",
           "value": "0.531 gramów / 8.2 grains"
         },
         {
           "id": "available-diameters",
-          "name": "Available Diameters",
+          "name": "Dostępne średnice",
           "value": "4.49/4.50/4.51"
         },
         {
           "id": "weight-control",
-          "name": "Weight Control",
+          "name": "Kontrola masy",
           "value": "30% lepsze wyniki niż u innych marek"
         },
         {
           "id": "packaging",
-          "name": "Packaging",
+          "name": "Opakowanie",
           "value": "Odporny na uszkodzenia, zamykalna"
         }
       ]

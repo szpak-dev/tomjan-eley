@@ -9,7 +9,7 @@
   "name_short": "Biathlon Club",
   "slug": "eley-biathlon-club",
   "model_name": "",
-  "lead": "Driven by ambition. Unshaken by the cold. ELEY biathlon club is designed as the ideal introduction to ELEY’s world-class biathlon ammunition. This cartridge features a refined bullet and case design to ensure reliable cycling in bolt-action and straight-pull biathlon rifles, even in extreme winter conditions. A specialised cold-weather lubricant has been scientifically engineered to enhance",
+  "lead": "ELEY biathlon club został zaprojektowany jako idealne wprowadzenie do światowej klasy amunicji biathlonowej ELEY. Nabój ten posiada dopracowaną konstrukcję pocisku i łuski, zapewniającą niezawodne przeładowanie w karabinach biathlonowych z zamkiem czterotaktowym i prostoliniowym, nawet w ekstremalnych warunkach zimowych. Specjalistyczny smar do niskich temperatur został opracowany naukowo w celu zwiększenia powtarzalności, ograniczenia zużycia lufy oraz utrzymania celności w mrozie.",
   "description": [
     "ELEY biathlon club został zaprojektowany jako idealne wprowadzenie do światowej klasy amunicji biathlonowej ELEY. Nabój ten posiada dopracowaną konstrukcję pocisku i łuski, zapewniającą niezawodne przeładowanie w karabinach biathlonowych z zamkiem czterotaktowym i prostoliniowym, nawet w ekstremalnych warunkach zimowych. Specjalistyczny smar do niskich temperatur został opracowany naukowo w celu zwiększenia powtarzalności, ograniczenia zużycia lufy oraz utrzymania celności w mrozie.",
     "Zwiększony ładunek prochowy zapewnia wyższą energię i większą siłę obalania celu, gwarantując pewną reakcję tarczy wtedy, gdy ma to kluczowe znaczenie. ELEY biathlon club oferuje celność, niezawodność i osiągi w niskich temperaturach, jakich oczekuje się od marki ELEY."
@@ -21,57 +21,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "323m/s-330m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1060ft/s-1085ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "5.50mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Biathlon"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

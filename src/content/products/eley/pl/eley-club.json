@@ -9,7 +9,7 @@
   "name_short": "Club",
   "slug": "eley-club",
   "model_name": "",
-  "lead": "ELEY club is a club level cartridge for enhanced performance. Each lot is tested to high accuracy standards to meet demands of club shooters.",
+  "lead": "Nabój posiada precyzyjnie zaprojektowany profil pocisku, zoptymalizowany pod kątem płynnego wprowadzania do komory i bezbłędnego podawania w szerokiej gamie pistoletów tarczowych. Każdy element, od wymiarów łuski po ładunek prochowy, jest wytwarzany zgodnie z rygorystycznymi standardami ELEY, co zapewnia wyjątkową powtarzalność strzał po strzale i ciasne skupienia.",
   "description": [
     "Nabój posiada precyzyjnie zaprojektowany profil pocisku, zoptymalizowany pod kątem płynnego wprowadzania do komory i bezbłędnego podawania w szerokiej gamie pistoletów tarczowych. Każdy element, od wymiarów łuski po ładunek prochowy, jest wytwarzany zgodnie z rygorystycznymi standardami ELEY, co zapewnia wyjątkową powtarzalność strzał po strzale i ciasne skupienia.",
     "ELEY bullseye pistol x został zestrojony pod kątem stabilności, czystego spalania i zrównoważonego odrzutu, wspierając szybki powrót na cel i precyzyjną kontrolę podczas długich serii. Niezależnie od tego, czy trenujesz, czy startujesz w zawodach, bullseye pistol x zapewnia niezachwianą wydajność potrzebną do utrzymania trafień w dziesiątce."
@@ -21,57 +21,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Round-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "268m/s-292m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "880ft/s-959ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "7.00mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Wosk Parafinowy"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]

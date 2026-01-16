@@ -9,7 +9,7 @@
   "name_short": "Tenex Biathlon",
   "slug": "eley-tenex-biathlon",
   "model_name": "",
-  "lead": "Following comprehensive research and development of biathlon sport and biathletes, ELEY launched tenex biathlon - ultimate performance against the elements.",
+  "lead": "Dzięki ponad 198 latom tradycji i doświadczenia, doskonałość inżynieryjna jest fundamentem sukcesu ELEY tenex. Nasi wysoko wykwalifikowani inżynierowie łączą najnowocześniejsze maszyny z szybkimi elektronicznymi systemami kontroli wizualnej oraz metodologią Six Sigma, tworząc naboje, które na nowo zdefiniowały celność .22LR na całym świecie.",
   "description": [
     "Dzięki ponad 198 latom tradycji i doświadczenia, doskonałość inżynieryjna jest fundamentem sukcesu ELEY tenex. Nasi wysoko wykwalifikowani inżynierowie łączą najnowocześniejsze maszyny z szybkimi elektronicznymi systemami kontroli wizualnej oraz metodologią Six Sigma, tworząc naboje, które na nowo zdefiniowały celność .22LR na całym świecie.",
     "ELEY tenex biathlon został wprowadzony w 2012 roku po kompleksowych badaniach i rozwoju dyscypliny biathlonowej, samych zawodników oraz ich potrzeb. ELEY tenex posłużył jako platforma do stworzenia tego nowego naboju.",
@@ -23,57 +23,57 @@
       "properties": [
         {
           "id": "bullet-profile",
-          "name": "Bullet Profile",
+          "name": "Profil pocisku",
           "value": "Flat-nose"
         },
         {
           "id": "bullet-weight",
-          "name": "Bullet Weight",
+          "name": "Masa pocisku",
           "value": "2.59 gramów / 40 grains"
         },
         {
           "id": "mean-velocity-m-s",
-          "name": "Mean Velocity m/s",
+          "name": "Średnia prędkość (m/s)",
           "value": "335m/s-354m/s"
         },
         {
           "id": "mean-velocity-ft-s",
-          "name": "Mean velocity ft/s",
+          "name": "Średnia prędkość (ft/s)",
           "value": "1100ft/s-1160ft/s"
         },
         {
           "id": "max-radial-standard-deviation",
-          "name": "Max Radial Standard Deviation",
+          "name": "Maksymalne odchylenie standardowe promieniowe",
           "value": "4.50mm"
         },
         {
           "id": "lubricant",
-          "name": "Lubricant",
+          "name": "Smar",
           "value": "Biathlon"
         },
         {
           "id": "cartridge-length",
-          "name": "Cartridge Length",
+          "name": "Długość naboju",
           "value": "25.4mm / 1 cal"
         },
         {
           "id": "ballistic-coefficient",
-          "name": "Ballistic Coefficient",
+          "name": "Współczynnik balistyczny",
           "value": "0.112"
         },
         {
           "id": "drag-model",
-          "name": "Drag Model",
+          "name": "Model oporu",
           "value": "RA4"
         },
         {
           "id": "strike-depth",
-          "name": "Strike Depth",
+          "name": "Głębokość uderzenia",
           "value": "0.012-0.015 in"
         },
         {
           "id": "recommended-head-space",
-          "name": "Recommended Head space",
+          "name": "Zalecany odstęp zaporowy",
           "value": "00.040-00.041 in"
         }
       ]
