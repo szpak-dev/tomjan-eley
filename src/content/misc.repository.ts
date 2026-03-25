@@ -6,7 +6,7 @@ export type SocialAccount = {
 
 export function findSocialAccounts(): SocialAccount[] {
     return [
-        { name: "Facebook", url: "https://www.facebook.com/greyhunter", icon: "bi bi-facebook", },
+        { name: "Facebook", url: "https://www.facebook.com/profile.php?id=61586785697572", icon: "bi bi-facebook", },
         { name: "Instagram", url: "https://www.instagram.com/greyhunter", icon: "bi bi-instagram", },
     ];
 }

@@ -10,7 +10,7 @@ type SocialProps = {
 
 <div class="ui-socials d-flex gap-4 justify-content-center">
     {socials.map((social: SocialProps) => (
-      <a href={social.url} class="fs-6 link-underline link-underline-opacity-0 py-2 text-white">
+      <a href={social.url} class="fs-6 link-underline link-underline-opacity-0 py-2 text-white" target="_blank" rel="noopener noreferrer">
         <i class={social.icon}></i>
         {social.name}
       </a>
