@@ -1,0 +1,83 @@
+# This file is the user-editable architecture agreement inside the local
+# agentic/ communication boundary. Humans and LLMs should both treat it as
+# durable project state, not temporary prompt context.
+#
+# The checker evaluates these rules against a normalized architecture map keyed
+# by repo-relative file path. Each entry contains imports, classes, and
+# functions.
+
+language: ""
+
+exclusions:
+  - .astro/**
+  - tests/**
+  - test-results/**
+  - playwright-report/**
+  - node_modules/**
+  - dist/**
+  - build/**
+  - .venv/**
+  - agentic/**
+  - public/**
+  - scraped/**
+
+rules:
+  boundaries:
+    # Route entrypoints should compose via layouts, not reach directly into lower UI pieces.
+    - source: src/pages
+      disallow:
+        - src/components
+
+    # Layouts may compose components and helpers, but should never depend on pages.
+    - source: src/layouts
+      disallow:
+        - src/pages
+
+    # Components present state and should not depend upward on layouts or route files.
+    - source: src/components
+      disallow:
+        - src/pages
+        - src/layouts
+
+    - source: src/components/ui
+      disallow:
+        - src/components/product
+        - src/components/attributes
+
+    - source: src/content
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+
+    - source: src/content.loader.ts
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+
+    - source: src/content.dictionaries.ts
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+
+    - source: src/content.translations.ts
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+
+    - source: src/i18n
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+        - src/content
+
+    - source: src/libs
+      disallow:
+        - src/pages
+        - src/layouts
+        - src/components
+        - src/content

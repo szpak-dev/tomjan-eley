@@ -18,11 +18,12 @@ export const ui = {
         'footer.contact': 'Contact',
         'footer.followUs': 'Follow Me',
         'footer.allRightsReserved': 'All rights reserved.',
+        'header.grayStripe': 'Import and Distribution'
     },
     pl: {
         'frontpage.welcome': 'Oficjalny polski dystrybutor Eley',
-        'frontpage.title': 'Oficjalny Dystrybutor Eley w Polsce',
-        'frontpage.slogan': 'Brytyjska Amunicja Premium - Śrut Pneumatyczny i Boczny Zapłon',
+        'frontpage.title': 'Oferta Eley Hawk i Eley LTD na rynku polskim',
+        'frontpage.slogan': 'amunicja śrutowa i amunicja bocznego zapłonu',
         'Air Pellet': 'Śrut powietrzny',
         'Rimfire': 'Boczny zapłon',
         'Specification': 'Specyfikacja',
@@ -31,5 +32,6 @@ export const ui = {
         'footer.contact': 'Kontakt',
         'footer.followUs': 'Obserwuj',
         'footer.allRightsReserved': 'Wszelkie prawa zastrzeżone.',
+        'header.grayStripe': 'Import i Dystrybucja'
     },
 } as const;

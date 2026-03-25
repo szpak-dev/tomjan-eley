@@ -2,8 +2,10 @@
 import Logo from "./Logo.astro";
 import LanguageSelector from "./LanguageSelector.astro";
 import Socials from "./Socials.astro";
-import { miscRepository } from "../../content";
+import { miscRepository, translationRepository } from "../../content";
 
+const { lang } = Astro.params;
+const t = translationRepository.getTranslator(lang);
 const socials = miscRepository.findSocialAccounts();
 ---
 
@@ -19,5 +21,5 @@ const socials = miscRepository.findSocialAccounts();
   </div>
 </header>
 <div class="container-fluid bg-secondary text-center py-1 shadow-sm">
-  <span class="text-white fw-bold">GREY HUNTER</span>
+  <span class="text-white fw-bold">{t("header.grayStripe")}</span>
 </div>
