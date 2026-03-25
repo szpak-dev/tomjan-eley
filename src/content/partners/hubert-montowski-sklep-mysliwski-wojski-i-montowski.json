@@ -1,0 +1,22 @@
+{
+  "slug": "hubert-montowski-sklep-mysliwski-wojski-i-montowski",
+  "name": "Hubert Montowski Sklep Myśliwski WOJSKI I MONTOWSKI",
+  "color": "#005f73",
+  "nip": "5542780333",
+  "address": {
+    "street": "Koronowska 30, Żołędowo",
+    "postalCode": "86-021",
+    "city": "Osielsko"
+  },
+  "contact": {
+    "phone": "+52 361 02 37",
+    "email": "info@wojski.com.pl"
+  },
+  "voivodeships": [
+    "kujawsko-pomorskie",
+    "pomorskie",
+    "zachodniopomorskie",
+    "wielkopolskie",
+    "łódzkie"
+  ]
+}

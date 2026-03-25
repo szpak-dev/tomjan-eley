@@ -1,0 +1,60 @@
+---
+import type { PartnerCompany } from "../content/partner.repository";
+import type { SiteOwner } from "../content/misc.repository";
+import ImporterCard from "../components/distribution/ImporterCard.astro";
+import PartnerCompanyList from "../components/distribution/PartnerCompanyList.astro";
+import PolandCoverageMap from "../components/distribution/PolandCoverageMap.astro";
+import Card from "../components/ui/Card.astro";
+
+export type Props = {
+  importer: SiteOwner;
+  partners: PartnerCompany[];
+  importerLabel?: string;
+  distributorsLabel?: string;
+};
+
+const {
+  importer,
+  partners,
+  importerLabel = "Importer",
+  distributorsLabel = "Distributors",
+} = Astro.props;
+---
+
+<div class="import-distribution-page d-flex flex-column gap-3 animate-fade-in">
+  <section class="distribution-section d-flex flex-column gap-3 animate-fade-in-up">
+    <header class="distribution-section__header">
+      <h2 class="distribution-section__title">{importerLabel}</h2>
+    </header>
+
+    <Card variant="elevated" animation="none" border={{ style: "light", shadow: "sm" }} rounded="lg" class="distribution-panel border-0 overflow-hidden">
+      <div slot="body" class="p-0 h-100">
+        <ImporterCard owner={importer} />
+      </div>
+    </Card>
+  </section>
+
+  <section class="distribution-section d-flex flex-column gap-3 animate-fade-in-up">
+    <header class="distribution-section__header">
+      <h2 class="distribution-section__title">{distributorsLabel}</h2>
+    </header>
+
+    <Card variant="elevated" animation="none" border={{ style: "light", shadow: "sm" }} rounded="lg" class="distribution-panel distribution-panel--distributor border-0 overflow-hidden">
+      <div slot="body" class="p-0 h-100">
+        <div class="row g-0 align-items-stretch h-100">
+          <div class="col-12 col-lg-5 border-end-lg">
+            <div class="distribution-panel__content distribution-panel__content--list">
+              <PartnerCompanyList partners={partners} />
+            </div>
+          </div>
+
+          <div class="col-12 col-lg-7">
+            <div class="distribution-panel__content distribution-panel__content--map d-flex align-items-center justify-content-center">
+              <PolandCoverageMap partners={partners} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </Card>
+  </section>
+</div>

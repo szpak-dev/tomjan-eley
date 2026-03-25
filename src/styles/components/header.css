@@ -1,0 +1,32 @@
+.ui-logo {
+  color: inherit;
+}
+
+.ui-logo img {
+  width: 70px;
+  height: auto;
+}
+
+.header-nav__link {
+  color: #4b5563;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: color 0.2s ease;
+}
+
+.header-nav__link:hover,
+.header-nav__link:focus-visible {
+  color: #111827;
+}
+
+.header-gray-stripe-label {
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 767px) {
+  .header-nav__link {
+    font-size: 0.75rem;
+  }
+}

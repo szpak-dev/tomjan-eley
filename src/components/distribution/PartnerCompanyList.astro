@@ -1,0 +1,16 @@
+---
+import type { PartnerCompany } from "../../content/partner.repository";
+import PartnerCompanyCard from "./PartnerCompanyCard.astro";
+
+export type Props = {
+  partners: PartnerCompany[];
+};
+
+const { partners } = Astro.props;
+---
+
+<div class="d-flex flex-column">
+  {partners.map((partner) => (
+    <PartnerCompanyCard partner={partner} />
+  ))}
+</div>

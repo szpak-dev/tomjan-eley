@@ -1,0 +1,110 @@
+.import-distribution-page {
+  padding-top: 0.5rem;
+}
+
+.distribution-section__header {
+  display: flex;
+  align-items: center;
+}
+
+.distribution-section__title {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--bs-secondary-color);
+}
+
+.distribution-panel {
+  background: #ffffff;
+}
+
+.distribution-panel--distributor {
+  border-left: 3px solid rgba(71, 85, 105, 0.25);
+}
+
+.distribution-panel__content {
+  height: 100%;
+  padding: 1.5rem;
+}
+
+.distribution-panel__content--importer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.distribution-panel__content--list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.distribution-panel__content--map {
+  background-color: #fbfbfa;
+}
+
+.partner-company-entry {
+  position: relative;
+  padding: 0.9rem 0 0.9rem 3rem;
+}
+
+.partner-company-entry::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 2rem;
+  background: var(--partner-color, transparent);
+  border-radius: 0.375rem 0 0 0.375rem;
+}
+
+.partner-company-entry + .partner-company-entry {
+  border-top: 1px solid var(--bs-border-color);
+}
+
+.partner-company-entry__name {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.partner-company-entry__coverage {
+  margin-bottom: 0.6rem;
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: var(--bs-secondary-color);
+}
+
+.poland-coverage-map {
+  width: 100%;
+  max-width: 42rem;
+}
+
+.poland-coverage-map svg {
+  display: block;
+}
+
+@media (min-width: 992px) {
+  .border-end-lg {
+    border-right: 1px solid var(--bs-border-color);
+  }
+}
+
+@media (max-width: 991px) {
+  .distribution-panel__content {
+    padding: 1rem 1.5rem 1.5rem;
+  }
+
+  .distribution-panel__content--map {
+    border-top: 1px solid var(--bs-border-color);
+  }
+
+  .partner-company-entry {
+    padding-left: 2.5rem;
+  }
+
+  .partner-company-entry::before {
+    width: 1.5rem;
+  }
+}

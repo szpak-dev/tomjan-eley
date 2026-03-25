@@ -1,0 +1,32 @@
+---
+import { miscRepository, partnerRepository, translationRepository } from "../../content";
+import Layout from "../../layouts/Layout.astro";
+import ImportDistributionPage from "../../layouts/ImportDistributionPage.astro";
+
+export async function getStaticPaths() {
+  const languages = translationRepository.findAvailableLanguages();
+
+  return languages.map(({ code }) => ({ params: { lang: code } }));
+}
+
+const { lang } = Astro.params;
+
+if (!lang) {
+  throw new Error("Language parameter is required for import and distribution route.");
+}
+
+const t = translationRepository.getTranslator(lang);
+const importer = miscRepository.getSiteOwner();
+const partners = await partnerRepository.find();
+
+const pageTitle = t("distribution.pageTitle");
+---
+
+<Layout title={`Grey Hunter - ${pageTitle}`} lang={lang}>
+  <ImportDistributionPage
+    importer={importer}
+    partners={partners}
+    importerLabel={t("distribution.importerEyebrow")}
+    distributorsLabel={t("distribution.distributorsEyebrow")}
+  />
+</Layout>

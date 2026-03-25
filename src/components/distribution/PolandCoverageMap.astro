@@ -1,0 +1,67 @@
+---
+import type { PartnerCompany } from "../../content/partner.repository";
+import {
+  POLAND_VIEW_BOX,
+  VOIVODESHIP_REGIONS,
+  buildCoverageMap,
+  normalizeVoivodeshipName,
+  type CoverageMap,
+} from "./voivodeships";
+
+export type Props = {
+  partners?: PartnerCompany[];
+  coverage?: CoverageMap | Record<string, string>;
+  defaultRegionColor?: string;
+  strokeColor?: string;
+};
+
+const {
+  partners = [],
+  coverage,
+  defaultRegionColor = "#e9ecef",
+  strokeColor = "#ffffff",
+} = Astro.props;
+
+const partnerCoverage = buildCoverageMap(partners);
+const explicitCoverage = Object.entries(coverage ?? {}).reduce<CoverageMap>((result, [name, color]) => {
+  const normalizedName = normalizeVoivodeshipName(name);
+
+  if (normalizedName) {
+    result[normalizedName] = color;
+  }
+
+  return result;
+}, {});
+
+const finalCoverage = {
+  ...partnerCoverage,
+  ...explicitCoverage,
+};
+---
+
+<div class="poland-coverage-map">
+  <svg viewBox={POLAND_VIEW_BOX} class="w-100 h-auto" role="img" aria-label="Poland distributor coverage map">
+      <title>Poland distributor coverage map</title>
+      <desc>Distributor coverage by voivodeship in Poland</desc>
+
+      {VOIVODESHIP_REGIONS.map((region) => {
+        const fill = finalCoverage[region.name] ?? defaultRegionColor;
+
+        return (
+          <g>
+            <path
+              id={region.id}
+              d={region.path}
+              fill={fill}
+              stroke={strokeColor}
+              stroke-width="6"
+              stroke-linejoin="round"
+              vector-effect="non-scaling-stroke"
+            >
+              <title>{region.name}</title>
+            </path>
+          </g>
+        );
+      })}
+    </svg>
+</div>

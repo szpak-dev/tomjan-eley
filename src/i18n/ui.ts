@@ -15,10 +15,14 @@ export const ui = {
         'Specification': 'Specification',
         'Description': 'Description',
         'Home': 'Home',
+        'nav.importDistribution': 'Import & Distribution',
         'footer.contact': 'Contact',
         'footer.followUs': 'Follow Me',
         'footer.allRightsReserved': 'All rights reserved.',
-        'header.grayStripe': 'Import and Distribution'
+        'header.grayStripe': 'Grey Hunter',
+        'distribution.pageTitle': 'Importer and distributors across Poland',
+        'distribution.importerEyebrow': 'Importer',
+        'distribution.distributorsEyebrow': 'Distributors'
     },
     pl: {
         'frontpage.welcome': 'Oficjalny polski dystrybutor Eley',
@@ -29,9 +33,13 @@ export const ui = {
         'Specification': 'Specyfikacja',
         'Description': 'Opis',
         'Home': 'Strona Główna',
+        'nav.importDistribution': 'Import i Dystrybucja',
         'footer.contact': 'Kontakt',
         'footer.followUs': 'Obserwuj',
         'footer.allRightsReserved': 'Wszelkie prawa zastrzeżone.',
-        'header.grayStripe': 'Import i Dystrybucja'
+        'header.grayStripe': 'Grey Hunter',
+        'distribution.pageTitle': 'Importer i dystrybutorzy na terenie Polski',
+        'distribution.importerEyebrow': 'Importer',
+        'distribution.distributorsEyebrow': 'Dystrybutorzy'
     },
 } as const;

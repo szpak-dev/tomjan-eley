@@ -28,6 +28,7 @@ export type ExtraValue = {
 export type Product = {
     id: string;
     lang: string;
+    active: boolean;
     link: string;
     url: string;
     manufacturer: string;
@@ -49,7 +50,7 @@ export async function findProducts(manufacturer: string, lang: string): Promise<
     const products = await getCollection("products");
     
     const filtered = products
-        .filter((p) => p.data.lang === lang && p.data.manufacturer === manufacturer);
+        .filter((p) => p.data.active && p.data.lang === lang && p.data.manufacturer === manufacturer);
     
     return filtered.map((p) => {
         const product = p.data as Product;

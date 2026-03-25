@@ -33,6 +33,7 @@ const products = defineCollection({
   schema: z.object({
     id: z.string(),
     lang: z.string(),
+    active: z.boolean(),
     url: z.string(),
     manufacturer: z.string(),
     category_slug: z.string(),
@@ -61,4 +62,24 @@ const categories = defineCollection({
   }),
 });
 
-export const collections = { products, categories };
+const partners = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/partners" }),
+  schema: z.object({
+    slug: z.string(),
+    name: z.string(),
+    color: z.string(),
+    nip: z.string(),
+    address: z.object({
+      street: z.string(),
+      postalCode: z.string(),
+      city: z.string(),
+    }),
+    contact: z.object({
+      phone: z.string(),
+      email: z.string().email(),
+    }),
+    voivodeships: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { products, categories, partners };

@@ -1,0 +1,22 @@
+{
+  "slug": "lesny-rynek-piotr-bremerski",
+  "name": "LEŚNY RYNEK PIOTR BREMERSKI",
+  "color": "#607d3b",
+  "nip": "7711460171",
+  "address": {
+    "street": "Generała Mieczysława Mackiewicza 6",
+    "postalCode": "16-400",
+    "city": "Suwałki"
+  },
+  "contact": {
+    "phone": "+48 885 271 088",
+    "email": "kontakt@sklep.lesnyrynek.pl"
+  },
+  "voivodeships": [
+    "podlaskie",
+    "lubelskie",
+    "warmińsko-mazurskie",
+    "świętokrzyskie",
+    "mazowieckie"
+  ]
+}

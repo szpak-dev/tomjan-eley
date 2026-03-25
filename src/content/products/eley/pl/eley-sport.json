@@ -1,6 +1,7 @@
 {
   "id": "eley.eley-sport",
   "lang": "pl",
+  "active": true,
   "url": "https://eley.co.uk/eley_target/",
   "manufacturer": "eley",
   "category_slug": "benchrest",

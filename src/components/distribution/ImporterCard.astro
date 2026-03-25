@@ -1,0 +1,28 @@
+---
+import type { SiteOwner } from "../../content/misc.repository";
+
+export type Props = {
+  owner: SiteOwner;
+};
+
+const { owner } = Astro.props;
+
+const websiteLabel = owner.contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "");
+---
+
+<div class="distribution-panel__content distribution-panel__content--importer">
+  <p class="mb-1 fw-semibold text-uppercase">{owner.company.name}</p>
+  <p class="mb-1">{owner.name}</p>
+  <p class="mb-1">{owner.address.street}</p>
+  <p class="mb-1">{owner.address.postalCode} {owner.address.city}, {owner.address.country}</p>
+  <p class="mb-1">NIP {owner.company.taxId} · REGON {owner.company.registrationId}</p>
+  <p class="mb-1">
+    <a href={owner.contact.phone.url} class="link-body-emphasis text-decoration-none">{owner.contact.phone.number}</a>
+  </p>
+  <p class="mb-0 d-flex flex-wrap gap-2">
+    <a href={`mailto:${owner.contact.email}`} class="link-body-emphasis text-decoration-none">{owner.contact.email}</a>
+    <span class="text-body-tertiary">•</span>
+    <a href={owner.contact.website} class="link-body-emphasis text-decoration-none" target="_blank" rel="noreferrer">{websiteLabel}</a>
+  </p>
+  </div>
+</div>

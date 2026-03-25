@@ -1,0 +1,23 @@
+{
+  "slug": "mt-corp-sp-z-o-o",
+  "name": "MT Corp Sp z o.o.",
+  "color": "#9b2226",
+  "nip": "8961613015",
+  "address": {
+    "street": "Kiełczowska 2",
+    "postalCode": "55-095",
+    "city": "Mirków"
+  },
+  "contact": {
+    "phone": "+48 607 042 748",
+    "email": "bron@e-militaria.pl"
+  },
+  "voivodeships": [
+    "dolnośląskie",
+    "małopolskie",
+    "opolskie",
+    "śląskie",
+    "lubuskie",
+    "podkarpackie"
+  ]
+}

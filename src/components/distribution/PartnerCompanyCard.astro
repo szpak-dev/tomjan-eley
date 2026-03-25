@@ -1,0 +1,26 @@
+---
+import type { PartnerCompany } from "../../content/partner.repository";
+
+export type Props = {
+  partner: PartnerCompany;
+};
+
+const { partner } = Astro.props;
+---
+
+<article class="partner-company-entry" style={`--partner-color: ${partner.color};`}>
+  <h3 class="partner-company-entry__name">{partner.name}</h3>
+
+  <p class="mb-1">{partner.address.street}</p>
+  <p class="mb-1">{partner.address.postalCode} {partner.address.city}</p>
+  <p class="mb-1">NIP {partner.nip}</p>
+  <p class="mb-1">
+    <a href={`tel:${partner.contact.phone.replace(/\s+/g, "")}`} class="link-body-emphasis text-decoration-none">{partner.contact.phone}</a>
+  </p>
+  <p class="mb-0">
+    <a href={`mailto:${partner.contact.email}`} class="link-body-emphasis text-decoration-none text-break">{partner.contact.email}</a>
+  </p>
+    <p class="partner-company-entry__coverage">
+    {partner.voivodeships.join(" • ")}
+  </p>
+</article>
